@@ -53,14 +53,22 @@
 	
 	{
         "name": "INTERCOMARCAL",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "image": "https://www.intercomarcal.com/wp-content/uploads/2017/11/cropped-22219943_1586418514712544_8811518607023155052_o.jpg",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/inter.m3u",
         "info":"BY PEDRO"
           
 	   
         },
 	
-	
+	{
+        "name": "LISTAS INTERNET",
+        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
+        "info":"BY PEDRO"
+       
+	   
+	   
+        },
 	
 	]
 }
