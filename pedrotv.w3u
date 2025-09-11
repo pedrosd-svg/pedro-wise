@@ -42,9 +42,9 @@
         },
 	
 	{
-        "name": "IPTV 4 meses Espa",
+        "name": "IPTV Espa 4 meses",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "https://github.com/pedrosd-svg/pedro-wise/blob/main/4mesesNuevaEspa.m3u",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/4mesesNuevaEspa.m3u",
         "info":"BY PEDRO"
        
 	   
