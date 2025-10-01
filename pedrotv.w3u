@@ -16,7 +16,7 @@
 
 		{
         "name": "IPTV Sportium",
-        "image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/0c13678d550b95c5c26d99bb942a41cf3b8e2cc4/logo1.png",
         "url": "http://26854.sportiumvip.xyz:8080/get.php?username=TV-12778195&password=390036048374&type=m3u_plus&output=mpegts",
         "info":"BY PEDRO"
        
@@ -24,7 +24,7 @@
 
 	{
         "name": "IPTV Dragon",
-        "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/0c13678d550b95c5c26d99bb942a41cf3b8e2cc4/logo2.png",
         "url": "http://68703.tvdev.club/get.php?username=TV-56494891&password=493659703456&type=m3u_plus&output=m3u8",
         "info":"BY PEDRO"
        
@@ -32,7 +32,7 @@
 	
 	{
         "name": "IPTV Espa 4 meses",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/0c13678d550b95c5c26d99bb942a41cf3b8e2cc4/logo3.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/4mesesNuevaEspa.m3u",
         "info":"BY PEDRO"
        
@@ -52,3 +52,4 @@
 	
 	]
 }
+
