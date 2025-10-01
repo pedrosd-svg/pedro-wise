@@ -1,132 +1,41 @@
 {
-  "id": "pedro-tv",
-  "name": "Pedro TV",
-  "author": "by Pedro",
-  "language": "es",
-  "version": "2.0.0",
-  "updated": "2025-10-01T00:00:00Z",
+  "name": "Pedro TV (Actualizado 02/10/2025)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv.w3u",
-  "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/pedrotv-cover.jpg",
-  "info": "Lista unificada con VOD, IPTV y utilidades. Estructurada por categorías y preparada para crecer.",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "author": "by Pedro",
+  "version": "1.0.0",
+  "updated": "2025-10-02T00:00:00Z",
+  "info": "BY PEDRO • Última actualización: 02-10-2025",
   "groups": [
-
     {
-      "name": "🎬 Películas (VOD)",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/pelis.png",
+      "name": "PELICULAS",
+      "image": "https://bimar.byethost31.com/pelis.png",
       "url": "http://vipvodbn.top:8080/get.php?username=VOD4431754332198004&password=ba75c590a7d0&type=m3u_plus&output=mpegts",
-      "info": "BY PEDRO • VOD Películas"
+      "info": "BY PEDRO"
     },
-
     {
-      "name": "📺 Series (VOD)",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/series.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/series.w3u",
-      "info": "BY PEDRO • VOD Series (rellenar con tus fuentes)"
-    },
-
-    {
-      "name": "⚽ Deportes (Multi)",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/deportes.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/deportes.w3u",
-      "info": "BY PEDRO • Agrega aquí sublistas de fútbol, motor, tenis, etc."
-    },
-
-    {
-      "name": "🏟️ IPTV Sportium",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/sportium.png",
+      "name": "IPTV Sportium",
+      "image": "https://bimar.byethost31.com/logo1.png",
       "url": "http://26854.sportiumvip.xyz:8080/get.php?username=TV-12778195&password=390036048374&type=m3u_plus&output=mpegts",
-      "info": "BY PEDRO • Lista IPTV"
+      "info": "BY PEDRO"
     },
-
     {
-      "name": "🐉 IPTV Dragon",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/dragon.png",
+      "name": "IPTV Dragon",
+      "image": "https://bimar.byethost31.com/logo2.png",
       "url": "http://68703.tvdev.club/get.php?username=TV-56494891&password=493659703456&type=m3u_plus&output=m3u8",
-      "info": "BY PEDRO • Lista IPTV"
+      "info": "BY PEDRO"
     },
-
     {
-      "name": "🇪🇸 IPTV España (4 meses)",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/espa.png",
+      "name": "IPTV Espa 4 meses",
+      "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/4mesesNuevaEspa.m3u",
-      "info": "BY PEDRO • Selección nacional"
+      "info": "BY PEDRO"
     },
-
     {
-      "name": "👶 Infantil",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/infantil.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/infantil.w3u",
-      "info": "BY PEDRO • Dibujos, family-friendly"
-    },
-
-    {
-      "name": "📚 Documentales",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/documentales.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/documentales.w3u",
-      "info": "BY PEDRO • Ciencia, historia, naturaleza"
-    },
-
-    {
-      "name": "📰 Noticias",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/noticias.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/noticias.w3u",
-      "info": "BY PEDRO • Canales informativos"
-    },
-
-    {
-      "name": "🎵 Música y Vídeo",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/musica.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/musica.w3u",
-      "info": "BY PEDRO • Música, conciertos, videoclips"
-    },
-
-    {
-      "name": "📻 Radios",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/radios.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/radios.w3u",
-      "info": "BY PEDRO • Emisoras de radio"
-    },
-
-    {
-      "name": "🔁 24/7",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/247.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/247.w3u",
-      "info": "BY PEDRO • Canales temáticos 24/7"
-    },
-
-    {
-      "name": "🌍 Internacional",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/internacional.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/internacional.w3u",
-      "info": "BY PEDRO • Canales de otros países"
-    },
-
-    {
-      "name": "🧰 Utilidades (Test/EPG/Headers)",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/tools.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/utilidades.w3u",
-      "info": "Pistas de test, EPG, notas de user-agent y sintaxis"
-    },
-
-    {
-      "name": "🌐 Listas Internet (agregadas)",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/externas.png",
+      "name": "LISTAS INTERNET",
+      "image": "https://bimar.byethost31.com/externas.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
-      "info": "BY PEDRO • Recopilación de listas públicas"
-    },
-
-    {
-      "name": "🗃️ Backups & Mirrors",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/backups.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/backups.w3u",
-      "info": "Respaldo por si cae alguna fuente"
-    },
-
-    {
-      "name": "🆕 Novedades",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/img/novedades.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/novedades.w3u",
-      "info": "Últimos añadidos y cambios"
+      "info": "BY PEDRO"
     }
   ]
 }
