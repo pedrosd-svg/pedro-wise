@@ -13,14 +13,6 @@
         "info":"BY PEDRO"
        
         },		
-		
-		{
-        "name": "Pelis Mias",
-        "image": "https://statics.lacoope.net/2021/09/crop/a76a434bc6b00ac4c42dbc66c664af52__900x520.webp",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelismias.m3u",
-        "info":"BY PEDRO"
-       
-        },
 
 		{
         "name": "IPTV Sportium",
@@ -38,17 +30,6 @@
        
         },
 	
-
-	{
-        "name": "IPTV 4 Nueva Completa",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "http://vipccrcscx.top:8080/get.php?username=VIP015651754332198535&password=abe70f8bd7cc&type=m3u_plus&output=mpegts",
-        "info":"BY PEDRO"
-       
-	   
-	   
-        },
-	
 	{
         "name": "IPTV Espa 4 meses",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
@@ -56,15 +37,6 @@
         "info":"BY PEDRO"
        
 	   
-	   
-        },
-	
-	{
-        "name": "INTERCOMARCAL",
-        "image": "https://www.intercomarcal.com/wp-content/uploads/2017/11/cropped-22219943_1586418514712544_8811518607023155052_o.jpg",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/inter.m3u",
-        "info":"BY PEDRO"
-          
 	   
         },
 	
