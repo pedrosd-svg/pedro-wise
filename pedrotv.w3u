@@ -8,7 +8,7 @@
 			
 		{
         "name": "PELICULAS",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/1e1300faf76fb5b32936c6e7bde8228e4ffa0caa/pelis.png",
+        "image": "https://bimar.byethost31.com/pelis.png",
         "url": "http://vipvodbn.top:8080/get.php?username=VOD4431754332198004&password=ba75c590a7d0&type=m3u_plus&output=mpegts",
         "info":"BY PEDRO"
        
@@ -16,7 +16,7 @@
 
 		{
         "name": "IPTV Sportium",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/0c13678d550b95c5c26d99bb942a41cf3b8e2cc4/logo1.png",
+        "image": "https://bimar.byethost31.com/logo1.png",
         "url": "http://26854.sportiumvip.xyz:8080/get.php?username=TV-12778195&password=390036048374&type=m3u_plus&output=mpegts",
         "info":"BY PEDRO"
        
@@ -24,7 +24,7 @@
 
 	{
         "name": "IPTV Dragon",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/0c13678d550b95c5c26d99bb942a41cf3b8e2cc4/logo2.png",
+        "image": "https://bimar.byethost31.com/logo2.png",
         "url": "http://68703.tvdev.club/get.php?username=TV-56494891&password=493659703456&type=m3u_plus&output=m3u8",
         "info":"BY PEDRO"
        
@@ -32,7 +32,7 @@
 	
 	{
         "name": "IPTV Espa 4 meses",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/0c13678d550b95c5c26d99bb942a41cf3b8e2cc4/logo3.png",
+        "image": "https://bimar.byethost31.com/logo3.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/4mesesNuevaEspa.m3u",
         "info":"BY PEDRO"
        
@@ -42,7 +42,7 @@
 	
 	{
         "name": "LISTAS INTERNET",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/1e1300faf76fb5b32936c6e7bde8228e4ffa0caa/externas.png",
+        "image": "https://bimar.byethost31.com/externas.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
         "info":"BY PEDRO"
        
@@ -52,5 +52,6 @@
 	
 	]
 }
+
 
 
