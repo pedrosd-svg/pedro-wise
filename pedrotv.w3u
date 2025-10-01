@@ -8,7 +8,7 @@
 			
 		{
         "name": "PELICULAS",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/ee982c880697d488db8e91703429979cc94809cb/cinema.png",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/1e1300faf76fb5b32936c6e7bde8228e4ffa0caa/pelis.png",
         "url": "http://vipvodbn.top:8080/get.php?username=VOD4431754332198004&password=ba75c590a7d0&type=m3u_plus&output=mpegts",
         "info":"BY PEDRO"
        
@@ -42,7 +42,7 @@
 	
 	{
         "name": "LISTAS INTERNET",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/1e1300faf76fb5b32936c6e7bde8228e4ffa0caa/externas.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
         "info":"BY PEDRO"
        
@@ -52,4 +52,5 @@
 	
 	]
 }
+
 
