@@ -7,26 +7,26 @@
 	[
 			
 		{
-        "name": "28/03/2026",
+        "name": "BUENO 29-01-2026_Conex_0",
         "image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
-        "url": "http://vipforj.top:8080/get.php?username=VIP0176173538414492&password=11735384144745&type=m3u_plus&output=mpegts",
+        "url": "https://bimar.byethost31.com/iptv/exportados/BUENO_29-01-2026_Conex_0.m3u",
         "info":"BY PEDRO"
        
         },
 
 	{
-        "name": "20/10/2025",
+        "name": "26-02-2027_Conex_1",
         "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
-        "url": "http://norrfqf.top:8080/get.php?username=5671729403964193&password=324db6c0a45b&type=m3u_plus",
+        "url": "https://bimar.byethost31.com/iptv/exportados/26-02-2027_Conex_1.m3u",
         "info":"BY PEDRO"
        
         },
 	
 
 	{
-        "name": "26/10/2025 Nueva",
+        "name": "25-10-2025",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "http://predator.digital/get.php?username=Gzim_Gashi&password=dueusuq&type=m3u&output=ts",
+        "url": "https://bimar.byethost31.com/iptv/exportados/25-10-2025_Conex_1.m3u",
         "info":"BY PEDRO"
        
 	   
@@ -34,15 +34,37 @@
         },
 	
 	{
-        "name": "NO EXPIRA",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://canal-pro.xyz:8080/get.php?username=psstreamid@2*14&password=we3zq5x6raum&type=M3u_plus",
+        "name": "09-03-2026_Conex_1",
+        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "url": "https://bimar.byethost31.com/iptv/exportados/09-03-2026_Conex_1.m3u",
         "info":"BY PEDRO"
        
 	   
 	   
         },
+	
+	{
+        "name": "08-12-2025_Conex_3",
+        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "url": "https://bimar.byethost31.com/iptv/exportados/08-12-2025_Conex_3.m3u",
+        "info":"BY PEDRO"
+       
+	   
+	   
+        },
+		
+		{
+        "name": "alqadi-4k.com_1234567890_espana_ES",
+        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "url": "https://bimar.byethost31.com/iptv/exportados/alqadi-4k.com_1234567890_espana_ES.m3u",
+        "info":"BY PEDRO"
+       
+	   
+	   
+        },
+		
+
+	
 	
 	]
 }
-
