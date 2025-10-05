@@ -9,7 +9,7 @@
 		{
         "name": "300 dias",
         "image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
-        "url": "http://viphlvp.xyz:8080/get.php?username=VIP01259171989306886&password=564baf04e4d2&type=m3u&output=ts",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/02-08-2026_Conex_0.m3u",
         "info":"BY PEDRO"
        
         },
@@ -17,7 +17,7 @@
 	{
         "name": "prueba",
         "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
-        "url": "http://1tv41.icu:8080/get.php?username=8bR66g&password=357988&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/08-01-2026_Conex_0.m3u",
         "info":"BY PEDRO"
        
         },
@@ -58,4 +58,5 @@
 	
 	]
 }
+
 
