@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN LaLiga UHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES",beIN LaLiga UHD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/19547.m3u8
+#EXTINF:-1 tvg-name="Dazn FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="https://static.epg.best/it/DAZN.it.png",Dazn FHD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/75232.m3u8
+#EXTINF:-1 tvg-name="Movistar LaLiga ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarpartidazo.png",Movistar LaLiga ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/19549.m3u8
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 1 FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 1 FHD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/18820.m3u8
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 1 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 1 HD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/18819.m3u8
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 2 FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 2 FHD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/18818.m3u8
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 2 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 2 HD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/18817.m3u8
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 3 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 3 HD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/18816.m3u8
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 4 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 4 HD ES VIP SPORTS
+http://nextintv.123tv.to:8080/live/GKdfeEgrUX/s671NqPWUI/18815.m3u8
