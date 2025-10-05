@@ -57,7 +57,7 @@
 	{
         "name": "6",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "http://fortv.cc:8080/get.php?username=1488926&password=5541986&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/futbol.m3u",
         "info":"BY PEDRO"
        
 	   
@@ -66,6 +66,7 @@
 	
 	]
 }
+
 
 
 
