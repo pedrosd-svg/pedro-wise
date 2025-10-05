@@ -1,0 +1,691 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="##########   Spain   ##########" group-title="Spain" tvg-country="ES",##########   Spain   ##########
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/2532
+#EXTINF:-1 tvg-name="#0 ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/0number.png",#0 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1056
+#EXTINF:-1 tvg-name="#0 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/0number.png",#0 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6085
+#EXTINF:-1 tvg-name="#Vamos ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/vamos.png",#Vamos ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/24158
+#EXTINF:-1 tvg-name="#Vamos FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/vamos.png",#Vamos FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/24157
+#EXTINF:-1 tvg-name="#Vamos HD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/vamos.png",#Vamos HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4405
+#EXTINF:-1 tvg-name="13 TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Calle13.es.png",13 TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6093
+#EXTINF:-1 tvg-name="8TV Madrid ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/8tv-es.png",8TV Madrid ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6094
+#EXTINF:-1 tvg-name="========== ES Cine ==========" group-title="Spain" tvg-country="ES",========== ES Cine ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19514
+#EXTINF:-1 tvg-name="========== ES Cultura ==========" group-title="Spain" tvg-country="ES",========== ES Cultura ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19517
+#EXTINF:-1 tvg-name="========== ES Deportes ==========" group-title="Spain" tvg-country="ES",========== ES Deportes ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19516
+#EXTINF:-1 tvg-name="========== ES Entretenimiento ==========" group-title="Spain" tvg-country="ES",========== ES Entretenimiento ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19515
+#EXTINF:-1 tvg-name="========== ES Musica ==========" group-title="Spain" tvg-country="ES",========== ES Musica ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19518
+#EXTINF:-1 tvg-name="========== ES Niños ==========" group-title="Spain" tvg-country="ES",========== ES Niños ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19519
+#EXTINF:-1 tvg-name="========== ES Noticias ==========" group-title="Spain" tvg-country="ES",========== ES Noticias ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19520
+#EXTINF:-1 tvg-name="========== ES PPV ==========" group-title="Spain" tvg-country="ES",========== ES PPV ==========
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19521
+#EXTINF:-1 tvg-name="a3series HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Atreseries.es.png",a3series HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6097
+#EXTINF:-1 tvg-name="Alquiler 1 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Alquiler.es.png",Alquiler 1 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96082
+#EXTINF:-1 tvg-name="Alquiler 10 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 10 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96073
+#EXTINF:-1 tvg-name="Alquiler 11 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 11 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96072
+#EXTINF:-1 tvg-name="Alquiler 12 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 12 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96071
+#EXTINF:-1 tvg-name="Alquiler 13 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 13 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96070
+#EXTINF:-1 tvg-name="Alquiler 14 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 14 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96069
+#EXTINF:-1 tvg-name="Alquiler 15 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 15 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96068
+#EXTINF:-1 tvg-name="Alquiler 16 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 16 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96067
+#EXTINF:-1 tvg-name="Alquiler 17 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 17 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96066
+#EXTINF:-1 tvg-name="Alquiler 18 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 18 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96065
+#EXTINF:-1 tvg-name="Alquiler 2 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Alquiler2.es.png",Alquiler 2 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96081
+#EXTINF:-1 tvg-name="Alquiler 3 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Alquiler3.es.png",Alquiler 3 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96080
+#EXTINF:-1 tvg-name="Alquiler 4 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Alquiler4.es.png",Alquiler 4 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96079
+#EXTINF:-1 tvg-name="Alquiler 5 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Alquiler5.es.png",Alquiler 5 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96078
+#EXTINF:-1 tvg-name="Alquiler 6 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Alquiler6.es.png",Alquiler 6 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96077
+#EXTINF:-1 tvg-name="Alquiler 7 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 7 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96076
+#EXTINF:-1 tvg-name="Alquiler 8 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 8 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96075
+#EXTINF:-1 tvg-name="Alquiler 9 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler 9 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96074
+#EXTINF:-1 tvg-name="Alquiler Presentation ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png",Alquiler Presentation ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96083
+#EXTINF:-1 tvg-name="AMC Break ES" group-title="Spain" tvg-country="ES",AMC Break ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118920
+#EXTINF:-1 tvg-name="AMC Break FHD ES" group-title="Spain" tvg-country="ES",AMC Break FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118919
+#EXTINF:-1 tvg-name="AMC Break HD ES" group-title="Spain" tvg-country="ES",AMC Break HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118918
+#EXTINF:-1 tvg-name="AMC Crime ES" group-title="Spain" tvg-country="ES",AMC Crime ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118917
+#EXTINF:-1 tvg-name="AMC Crime HD ES" group-title="Spain" tvg-country="ES",AMC Crime HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118916
+#EXTINF:-1 tvg-name="AMC ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/AMC.es.png",AMC ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79791
+#EXTINF:-1 tvg-name="AMC FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/AMC.es.png",AMC FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6082
+#EXTINF:-1 tvg-name="AMC HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/AMC.es.png",AMC HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1053
+#EXTINF:-1 tvg-name="Andalucia TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png",Andalucia TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1039
+#EXTINF:-1 tvg-name="ANTENA 3 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Antena3.es.png",ANTENA 3 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79811
+#EXTINF:-1 tvg-name="Antena 3 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Antena3.es.png",Antena 3 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4427
+#EXTINF:-1 tvg-name="Antena 3 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Antena3.es.png",Antena 3 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1084
+#EXTINF:-1 tvg-name="Aragon TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/aragon-tv-es.png",Aragon TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6091
+#EXTINF:-1 tvg-name="AXN FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/AXN.es.png",AXN FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4414
+#EXTINF:-1 tvg-name="AXN HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/AXN.es.png",AXN HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1052
+#EXTINF:-1 tvg-name="AXN White ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png",AXN White ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1051
+#EXTINF:-1 tvg-name="AXN White FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png",AXN White FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4413
+#EXTINF:-1 tvg-name="Baby TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/BabyTV.es.png",Baby TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6051
+#EXTINF:-1 tvg-name="Barca TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png",Barca TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1038
+#EXTINF:-1 tvg-name="Barca+ TV FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png",Barca+ TV FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/91068
+#EXTINF:-1 tvg-name="BE MAD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/BeMad.es.png",BE MAD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79780
+#EXTINF:-1 tvg-name="BE MAD TV HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/BeMad.es.png",BE MAD TV HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79781
+#EXTINF:-1 tvg-name="beIN LA Liga FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/beINLaLigaMAX1.es.png",beIN LA Liga FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4403
+#EXTINF:-1 tvg-name="beINSport HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",beINSport HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1043
+#EXTINF:-1 tvg-name="BLAZE ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Blaze.es.png",BLAZE ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79812
+#EXTINF:-1 tvg-name="Boing ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Boing.es.png",Boing ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1015
+#EXTINF:-1 tvg-name="Break ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png",Break ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1028
+#EXTINF:-1 tvg-name="BuenViaje ES" group-title="Spain" tvg-country="ES",BuenViaje ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118915
+#EXTINF:-1 tvg-name="BuenViaje HD ES" group-title="Spain" tvg-country="ES",BuenViaje HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118914
+#EXTINF:-1 tvg-name="C+ Estrellas ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png",C+ Estrellas ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1046
+#EXTINF:-1 tvg-name="CALLE 13 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Calle13.es.png",CALLE 13 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79805
+#EXTINF:-1 tvg-name="Calle 13 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Calle13.es.png",Calle 13 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4416
+#EXTINF:-1 tvg-name="Calle 13 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Calle13.es.png",Calle 13 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1049
+#EXTINF:-1 tvg-name="Canal Cocina ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-cocina-es.png",Canal Cocina ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1025
+#EXTINF:-1 tvg-name="Canal Decasa ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png",Canal Decasa ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1024
+#EXTINF:-1 tvg-name="Canal Panda ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CanalPanda.es.png",Canal Panda ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1023
+#EXTINF:-1 tvg-name="Canal Sur Andalucía ES" group-title="Spain" tvg-country="ES",Canal Sur Andalucía ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118913
+#EXTINF:-1 tvg-name="Canal Sur Andalucía HD ES" group-title="Spain" tvg-country="ES",Canal Sur Andalucía HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118912
+#EXTINF:-1 tvg-name="Canal SUR ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png",Canal SUR ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1057
+#EXTINF:-1 tvg-name="CARACOL ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png",CARACOL ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79783
+#EXTINF:-1 tvg-name="Caza Y Pesca ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png",Caza Y Pesca ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1027
+#EXTINF:-1 tvg-name="Caza Y Pesca FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png",Caza Y Pesca FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4417
+#EXTINF:-1 tvg-name="Clan TVE ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png",Clan TVE ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1031
+#EXTINF:-1 tvg-name="Classica ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/stingray-classica-es.png",Classica ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6042
+#EXTINF:-1 tvg-name="COMEDY CENTRAL ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png",COMEDY CENTRAL ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79803
+#EXTINF:-1 tvg-name="Comedy Central FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png",Comedy Central FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6073
+#EXTINF:-1 tvg-name="Comedy Central HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png",Comedy Central HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1048
+#EXTINF:-1 tvg-name="Cosmo FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png",Cosmo FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4412
+#EXTINF:-1 tvg-name="Cosmo HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png",Cosmo HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1047
+#EXTINF:-1 tvg-name="Crimen e Investigacion ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png",Crimen e Investigacion ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6058
+#EXTINF:-1 tvg-name="Cuatro ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png",Cuatro ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1083
+#EXTINF:-1 tvg-name="Cuatro FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png",Cuatro FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4426
+#EXTINF:-1 tvg-name="CUBAVISION ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/640px-CUBAVISION_2017.png",CUBAVISION ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79782
+#EXTINF:-1 tvg-name="Dark Channel HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Dark.es.png",Dark Channel HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/17624
+#EXTINF:-1 tvg-name="Dazn 2 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dazn2-de.png",Dazn 2 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/96351
+#EXTINF:-1 tvg-name="DAZN ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/it/DAZN.it.png",DAZN ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79814
+#EXTINF:-1 tvg-name="DAZN F1 FHD ES" group-title="Spain" tvg-country="ES",DAZN F1 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104475
+#EXTINF:-1 tvg-name="Dazn F1 FHD VIP ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MovistarFormula1.es.png",Dazn F1 FHD VIP ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/13960
+#EXTINF:-1 tvg-name="DAZN LaLiga ES" group-title="Spain" tvg-country="ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true",DAZN LaLiga ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/124616
+#EXTINF:-1 tvg-name="DECASA ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png",DECASA ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79804
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png",DISCOVERY CHANNEL ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79797
+#EXTINF:-1 tvg-name="Discovery Channel FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png",Discovery Channel FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6057
+#EXTINF:-1 tvg-name="Discovery HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png",Discovery HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1030
+#EXTINF:-1 tvg-name="Disney Channel FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png",Disney Channel FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4422
+#EXTINF:-1 tvg-name="Disney Channel HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png",Disney Channel HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1017
+#EXTINF:-1 tvg-name="Disney Junior ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png",Disney Junior ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6050
+#EXTINF:-1 tvg-name="Disney XD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DisneyXD.es.png",Disney XD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1016
+#EXTINF:-1 tvg-name="Divinity ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/divinity.png",Divinity ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/44226
+#EXTINF:-1 tvg-name="DKiss TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/DKISS.es.png",DKiss TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6040
+#EXTINF:-1 tvg-name="DMAX ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Dmax.es.png",DMAX ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79794
+#EXTINF:-1 tvg-name="Dreamworks Animation FHD ES" group-title="Spain" tvg-country="ES",Dreamworks Animation FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104453
+#EXTINF:-1 tvg-name="Dreamworks Animation HD ES" group-title="Spain" tvg-country="ES",Dreamworks Animation HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104452
+#EXTINF:-1 tvg-name="ECUAVISA FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECUAVISA FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79784
+#EXTINF:-1 tvg-name="EITB Basque ES" group-title="Spain" tvg-country="ES",EITB Basque ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118911
+#EXTINF:-1 tvg-name="EITB Basque HD ES" group-title="Spain" tvg-country="ES",EITB Basque HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118910
+#EXTINF:-1 tvg-name="Energy ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Energy.es.png",Energy ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1044
+#EXTINF:-1 tvg-name="Enfamilia ES" group-title="Spain" tvg-country="ES",Enfamilia ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118909
+#EXTINF:-1 tvg-name="Enfamilia FHD ES" group-title="Spain" tvg-country="ES",Enfamilia FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118908
+#EXTINF:-1 tvg-name="Enfamilia HD ES" group-title="Spain" tvg-country="ES",Enfamilia HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118907
+#EXTINF:-1 tvg-name="Esperanza TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-tv-esperanza-canal-10.jpg",Esperanza TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1020
+#EXTINF:-1 tvg-name="eSport 3 FHD ES" group-title="Spain" tvg-country="ES",eSport 3 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104457
+#EXTINF:-1 tvg-name="eSport 3 HD ES" group-title="Spain" tvg-country="ES",eSport 3 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104456
+#EXTINF:-1 tvg-name="ETB 1 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/ETB1.es.png",ETB 1 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/82744
+#EXTINF:-1 tvg-name="ETC TV ECUADOR ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV ECUADOR ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79785
+#EXTINF:-1 tvg-name="EUROSPORT 1 ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/eurosport1pt.png",EUROSPORT 1 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79800
+#EXTINF:-1 tvg-name="Eurosport 1 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png",Eurosport 1 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6065
+#EXTINF:-1 tvg-name="EuroSport 1 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png",EuroSport 1 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1036
+#EXTINF:-1 tvg-name="EUROSPORT 2 ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/eurosport2pt.png",EUROSPORT 2 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79801
+#EXTINF:-1 tvg-name="Eurosport 2 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png",Eurosport 2 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6064
+#EXTINF:-1 tvg-name="Eventos 01 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 01 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104472
+#EXTINF:-1 tvg-name="Eventos 02 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 02 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104471
+#EXTINF:-1 tvg-name="Eventos 03 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 03 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104470
+#EXTINF:-1 tvg-name="Eventos 04 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 04 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104469
+#EXTINF:-1 tvg-name="Eventos 08 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 08 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104465
+#EXTINF:-1 tvg-name="Eventos 09 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 09 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104464
+#EXTINF:-1 tvg-name="Eventos 10 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 10 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104463
+#EXTINF:-1 tvg-name="Eventos 11 FHD (DAZN Y FOOTTERS) ES" group-title="Spain" tvg-country="ES",Eventos 11 FHD (DAZN Y FOOTTERS) ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104462
+#EXTINF:-1 tvg-name="EVISION ES" group-title="Spain" tvg-country="ES" tvg-logo="https://mva.org/wp-content/uploads/2018/11/eVision-Logo-Blue-Letters-without-Trademark-Symbol-R.png",EVISION ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79786
+#EXTINF:-1 tvg-name="Extremadura TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CanalExtremadura.es.png",Extremadura TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1078
+#EXTINF:-1 tvg-name="Factoría de Ficció ES" group-title="Spain" tvg-country="ES",Factoría de Ficció ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118906
+#EXTINF:-1 tvg-name="Factoría de Ficció HD ES" group-title="Spain" tvg-country="ES",Factoría de Ficció HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118905
+#EXTINF:-1 tvg-name="FDF ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fdf-es.png",FDF ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1045
+#EXTINF:-1 tvg-name="Fox FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Fox.es.png",Fox FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4415
+#EXTINF:-1 tvg-name="Fox HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Fox.es.png",Fox HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1055
+#EXTINF:-1 tvg-name="Fox News ES" group-title="Spain" tvg-country="ES" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo-2002.png",Fox News ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1074
+#EXTINF:-1 tvg-name="Galicia TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/TVGalicia.es.png",Galicia TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1075
+#EXTINF:-1 tvg-name="GOL PLAY FHD ES" group-title="Spain" tvg-country="ES",GOL PLAY FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118904
+#EXTINF:-1 tvg-name="GOL PLAY HD ES" group-title="Spain" tvg-country="ES",GOL PLAY HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118903
+#EXTINF:-1 tvg-name="Gol TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Gol.es.png",Gol TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1040
+#EXTINF:-1 tvg-name="Gol TV HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Gol.es.png",Gol TV HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6066
+#EXTINF:-1 tvg-name="Gracia TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_canal_TVGracia.png",Gracia TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/7091
+#EXTINF:-1 tvg-name="Historia ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Historia.es.png",Historia ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1029
+#EXTINF:-1 tvg-name="Historia FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Historia.es.png",Historia FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6055
+#EXTINF:-1 tvg-name="Hollywood ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png",Hollywood ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1060
+#EXTINF:-1 tvg-name="Hollywood HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png",Hollywood HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6080
+#EXTINF:-1 tvg-name="Iberalia TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png",Iberalia TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6056
+#EXTINF:-1 tvg-name="La 1 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LA1.es.png",La 1 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1086
+#EXTINF:-1 tvg-name="LA 1 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LA1.es.png",LA 1 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4428
+#EXTINF:-1 tvg-name="La Sexta ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png",La Sexta ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1081
+#EXTINF:-1 tvg-name="LA Sexta FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png",LA Sexta FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4424
+#EXTINF:-1 tvg-name="La Sexta HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png",La Sexta HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1076
+#EXTINF:-1 tvg-name="LaLiga 123 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://futhead.cursecdn.com/static/img/17/leagues/54.png",LaLiga 123 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/8694
+#EXTINF:-1 tvg-name="LaLiga SmartBank TV 1 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://picaoplomo.com/wp-content/uploads/2020/01/logoSegundaDivision.png",LaLiga SmartBank TV 1 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/110120
+#EXTINF:-1 tvg-name="LaLiga SmartBank Tv 2 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/08/smartbank_color_blanco_agrupado_color2.png",LaLiga SmartBank Tv 2 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/110121
+#EXTINF:-1 tvg-name="LaLiga SmartBank TV 3 FHD ES" group-title="Spain" tvg-country="ES",LaLiga SmartBank TV 3 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118876
+#EXTINF:-1 tvg-name="LaLiga TV Bar ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png",LaLiga TV Bar ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1062
+#EXTINF:-1 tvg-name="LaLigaTV FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png",LaLigaTV FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6069
+#EXTINF:-1 tvg-name="M. DAZN F1 HD ES" group-title="Spain" tvg-country="ES",M. DAZN F1 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104474
+#EXTINF:-1 tvg-name="M. DAZN F1 SD ES" group-title="Spain" tvg-country="ES",M. DAZN F1 SD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104473
+#EXTINF:-1 tvg-name="Mega HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Mega.es.png",Mega HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1012
+#EXTINF:-1 tvg-name="Mezzo Live FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/mezzo-live-hd-es.png",Mezzo Live FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6043
+#EXTINF:-1 tvg-name="Movistar Acción ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png",Movistar Acción ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1070
+#EXTINF:-1 tvg-name="Movistar Acción FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png",Movistar Acción FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4409
+#EXTINF:-1 tvg-name="Movistar Cine Ñ ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarcinen.png",Movistar Cine Ñ ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/24154
+#EXTINF:-1 tvg-name="Movistar Comedia ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png",Movistar Comedia ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1069
+#EXTINF:-1 tvg-name="Movistar Comedia FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png",Movistar Comedia FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6083
+#EXTINF:-1 tvg-name="Movistar DCine ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistardcine.png",Movistar DCine ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1068
+#EXTINF:-1 tvg-name="Movistar Deportes 1 ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistardeportes1.png",Movistar Deportes 1 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1064
+#EXTINF:-1 tvg-name="Movistar Deportes 1 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MDeportes1.es.png",Movistar Deportes 1 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6071
+#EXTINF:-1 tvg-name="Movistar Deportes FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MovistarDeportes.es.png",Movistar Deportes FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79809
+#EXTINF:-1 tvg-name="Movistar Disney ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png",Movistar Disney ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79727
+#EXTINF:-1 tvg-name="Movistar Disney HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png",Movistar Disney HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79726
+#EXTINF:-1 tvg-name="Movistar Drama Cine FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistardcine.png",Movistar Drama Cine FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4407
+#EXTINF:-1 tvg-name="Movistar Drama ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistardrama.png",Movistar Drama ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/24155
+#EXTINF:-1 tvg-name="Movistar Drama FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistardrama.png",Movistar Drama FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/24156
+#EXTINF:-1 tvg-name="Movistar Estrenos ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png",Movistar Estrenos ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1072
+#EXTINF:-1 tvg-name="Movistar Estrenos FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png",Movistar Estrenos FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4408
+#EXTINF:-1 tvg-name="Movistar Fest FHD ES" group-title="Spain" tvg-country="ES",Movistar Fest FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104455
+#EXTINF:-1 tvg-name="Movistar Golf ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistargolf.png",Movistar Golf ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1061
+#EXTINF:-1 tvg-name="Movistar Golf FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistargolf.png",Movistar Golf FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4402
+#EXTINF:-1 tvg-name="MoviStar Indie ES" group-title="Spain" tvg-country="ES",MoviStar Indie ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118900
+#EXTINF:-1 tvg-name="MoviStar Indie FHD ES" group-title="Spain" tvg-country="ES",MoviStar Indie FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118902
+#EXTINF:-1 tvg-name="MoviStar Indie HD ES" group-title="Spain" tvg-country="ES",MoviStar Indie HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118901
+#EXTINF:-1 tvg-name="Movistar LaLiga 1 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-1-es.png",Movistar LaLiga 1 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/97241
+#EXTINF:-1 tvg-name="Movistar LaLiga 2 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-2-es.png",Movistar LaLiga 2 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/97240
+#EXTINF:-1 tvg-name="Movistar LaLiga 3 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-3-es.png",Movistar LaLiga 3 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/97239
+#EXTINF:-1 tvg-name="Movistar LaLiga 4 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-4-es.png",Movistar LaLiga 4 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/97238
+#EXTINF:-1 tvg-name="Movistar LaLiga 5 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-5-es.png",Movistar LaLiga 5 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/97237
+#EXTINF:-1 tvg-name="Movistar LaLiga ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png",Movistar LaLiga ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/7428
+#EXTINF:-1 tvg-name="Movistar LaLiga HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png",Movistar LaLiga HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1042
+#EXTINF:-1 tvg-name="Movistar Liga Campeones ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png",Movistar Liga Campeones ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79802
+#EXTINF:-1 tvg-name="Movistar Liga Campeones FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png",Movistar Liga Campeones FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79810
+#EXTINF:-1 tvg-name="MoviStar Originales ES" group-title="Spain" tvg-country="ES",MoviStar Originales ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118897
+#EXTINF:-1 tvg-name="MoviStar Originales FHD ES" group-title="Spain" tvg-country="ES",MoviStar Originales FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118899
+#EXTINF:-1 tvg-name="MoviStar Originales HD ES" group-title="Spain" tvg-country="ES",MoviStar Originales HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118898
+#EXTINF:-1 tvg-name="MoviStar Plus+ ES" group-title="Spain" tvg-country="ES",MoviStar Plus+ ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118894
+#EXTINF:-1 tvg-name="MoviStar Plus+ FHD ES" group-title="Spain" tvg-country="ES",MoviStar Plus+ FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118896
+#EXTINF:-1 tvg-name="MoviStar Plus+ HD ES" group-title="Spain" tvg-country="ES",MoviStar Plus+ HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118895
+#EXTINF:-1 tvg-name="Movistar Series FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarseries.png",Movistar Series FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4410
+#EXTINF:-1 tvg-name="Movistar Series HD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarseries.png",Movistar Series HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1067
+#EXTINF:-1 tvg-name="MOVISTAR SERIESMANIA FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png",MOVISTAR SERIESMANIA FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79731
+#EXTINF:-1 tvg-name="MOVISTAR SERIESMANIA SD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png",MOVISTAR SERIESMANIA SD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79730
+#EXTINF:-1 tvg-name="MoviStar Superagentes ES" group-title="Spain" tvg-country="ES",MoviStar Superagentes ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118893
+#EXTINF:-1 tvg-name="MoviStar Superagentes FHD ES" group-title="Spain" tvg-country="ES",MoviStar Superagentes FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118892
+#EXTINF:-1 tvg-name="MoviStar Superagentes HD ES" group-title="Spain" tvg-country="ES",MoviStar Superagentes HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118891
+#EXTINF:-1 tvg-name="MoviStar Suspense ES" group-title="Spain" tvg-country="ES",MoviStar Suspense ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118888
+#EXTINF:-1 tvg-name="MoviStar Suspense FHD ES" group-title="Spain" tvg-country="ES",MoviStar Suspense FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118890
+#EXTINF:-1 tvg-name="MoviStar Suspense HD ES" group-title="Spain" tvg-country="ES",MoviStar Suspense HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118889
+#EXTINF:-1 tvg-name="MOVISTAR VAMOS FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Vamos.es.png",MOVISTAR VAMOS FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79779
+#EXTINF:-1 tvg-name="MOVISTAR VAMOS SD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Vamos.es.png",MOVISTAR VAMOS SD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79778
+#EXTINF:-1 tvg-name="MOVISTAR+ VAMOS HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vamos-es.png",MOVISTAR+ VAMOS HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79808
+#EXTINF:-1 tvg-name="MTV 00s ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-00s-uk.png",MTV 00s ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6044
+#EXTINF:-1 tvg-name="MTV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/MTV.es.png",MTV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6046
+#EXTINF:-1 tvg-name="MTV Rocks ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-rocks-uk.png",MTV Rocks ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6045
+#EXTINF:-1 tvg-name="MULTIDEPORTE ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-multideporte-es.png",MULTIDEPORTE ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79725
+#EXTINF:-1 tvg-name="MundoToro FHD ES" group-title="Spain" tvg-country="ES",MundoToro FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/113639
+#EXTINF:-1 tvg-name="My Time Movie Network HD ES" group-title="Spain" tvg-country="ES",My Time Movie Network HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104454
+#EXTINF:-1 tvg-name="Nat Geo ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png",Nat Geo ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1033
+#EXTINF:-1 tvg-name="Nat Geo FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png",Nat Geo FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4419
+#EXTINF:-1 tvg-name="Nat Geo Wild FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png",Nat Geo Wild FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4418
+#EXTINF:-1 tvg-name="Nat Geo Wild HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png",Nat Geo Wild HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1032
+#EXTINF:-1 tvg-name="Nature Time FHD ES" group-title="Spain" tvg-country="ES",Nature Time FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/89984
+#EXTINF:-1 tvg-name="Negocios TV HD ES" group-title="Spain" tvg-country="ES",Negocios TV HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118887
+#EXTINF:-1 tvg-name="Neox ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Neox.es.png",Neox ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1079
+#EXTINF:-1 tvg-name="Nick Junior ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/NickJr.es.png",Nick Junior ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1013
+#EXTINF:-1 tvg-name="Nickelodeon FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png",Nickelodeon FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6048
+#EXTINF:-1 tvg-name="Nickelodeon HD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png",Nickelodeon HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1014
+#EXTINF:-1 tvg-name="Nova ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Nova.es.png",Nova ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1080
+#EXTINF:-1 tvg-name="ODISEA ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Odisea.es.png",ODISEA ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79798
+#EXTINF:-1 tvg-name="Odisea HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Odisea.es.png",Odisea HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1034
+#EXTINF:-1 tvg-name="Olympic Channel HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/OlympicChannelEs.es.png",Olympic Channel HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6063
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png",PARAMOUNT CHANNEL ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79796
+#EXTINF:-1 tvg-name="Rakuten TV Family HD ES" group-title="Spain" tvg-country="ES",Rakuten TV Family HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104458
+#EXTINF:-1 tvg-name="Rakuten TV Top 1 HD ES" group-title="Spain" tvg-country="ES",Rakuten TV Top 1 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104460
+#EXTINF:-1 tvg-name="Rakuten TV Top 2 HD ES" group-title="Spain" tvg-country="ES",Rakuten TV Top 2 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/104459
+#EXTINF:-1 tvg-name="RCN ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/873px-Canal_RCN_logo.svg.png",RCN ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79787
+#EXTINF:-1 tvg-name="RCN HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png",RCN HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79799
+#EXTINF:-1 tvg-name="Real Madrid TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/RealMadridTV.es.png",Real Madrid TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1037
+#EXTINF:-1 tvg-name="Somos ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/somos.png",Somos ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/44472
+#EXTINF:-1 tvg-name="Somos FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/somos.png",Somos FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/44471
+#EXTINF:-1 tvg-name="Sundance TV ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/SundanceTV.es.png",Sundance TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6072
+#EXTINF:-1 tvg-name="SyFy FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/SyFy.es.png",SyFy FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4420
+#EXTINF:-1 tvg-name="SyFy HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/SyFy.es.png",SyFy HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1050
+#EXTINF:-1 tvg-name="Taquilla 1 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 1 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1011
+#EXTINF:-1 tvg-name="Taquilla 10 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 10 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1002
+#EXTINF:-1 tvg-name="Taquilla 2 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 2 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1010
+#EXTINF:-1 tvg-name="Taquilla 3 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 3 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1009
+#EXTINF:-1 tvg-name="Taquilla 4 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 4 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1008
+#EXTINF:-1 tvg-name="Taquilla 5 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 5 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1007
+#EXTINF:-1 tvg-name="Taquilla 6 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 6 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1006
+#EXTINF:-1 tvg-name="Taquilla 7 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 7 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1005
+#EXTINF:-1 tvg-name="Taquilla 8 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 8 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1004
+#EXTINF:-1 tvg-name="Taquilla 9 HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg",Taquilla 9 HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1003
+#EXTINF:-1 tvg-name="TCM ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/TCM.es.png",TCM ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1059
+#EXTINF:-1 tvg-name="TCM FHD ES" group-title="Spain" tvg-country="ES",TCM FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6081
+#EXTINF:-1 tvg-name="tdp ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-es.png",tdp ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79795
+#EXTINF:-1 tvg-name="tdp FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-hd-es.png",tdp FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/75417
+#EXTINF:-1 tvg-name="TELE MADRID FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png",TELE MADRID FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79790
+#EXTINF:-1 tvg-name="Telecinco ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png",Telecinco ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1082
+#EXTINF:-1 tvg-name="Telecinco FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png",Telecinco FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/4425
+#EXTINF:-1 tvg-name="Telecinco HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png",Telecinco HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1077
+#EXTINF:-1 tvg-name="Teledeporte ES" group-title="Spain" tvg-country="ES",Teledeporte ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118886
+#EXTINF:-1 tvg-name="Teledeporte FHD ES" group-title="Spain" tvg-country="ES",Teledeporte FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118885
+#EXTINF:-1 tvg-name="Teledeporte HD ES" group-title="Spain" tvg-country="ES",Teledeporte HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118884
+#EXTINF:-1 tvg-name="TELENOVELAS ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Telenovela_Channel_logo.jpg",TELENOVELAS ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79813
+#EXTINF:-1 tvg-name="TEN ES" group-title="Spain" tvg-country="ES",TEN ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118883
+#EXTINF:-1 tvg-name="Ten HD ES" group-title="Spain" tvg-country="ES",Ten HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118882
+#EXTINF:-1 tvg-name="TNT ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/tntse.png",TNT ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1058
+#EXTINF:-1 tvg-name="TNT FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/tntse.png",TNT FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6074
+#EXTINF:-1 tvg-name="Toros TV ES" group-title="Spain" tvg-country="ES" tvg-logo="http://tugapt.com/picons/torostv.png",Toros TV ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1065
+#EXTINF:-1 tvg-name="Toros TV FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Toros.es.png",Toros TV FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6067
+#EXTINF:-1 tvg-name="TV3 Cat ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png",TV3 Cat ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1019
+#EXTINF:-1 tvg-name="TV3 FHD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png",TV3 FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79792
+#EXTINF:-1 tvg-name="TVE 24h ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",TVE 24h ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6092
+#EXTINF:-1 tvg-name="TVE Internacional ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png",TVE Internacional ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/7427
+#EXTINF:-1 tvg-name="TVE LA 1 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LA1.es.png",TVE LA 1 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/126747
+#EXTINF:-1 tvg-name="TVE LA 2 ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/LA2.es.png",TVE LA 2 ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/1085
+#EXTINF:-1 tvg-name="TVG Europa ES" group-title="Spain" tvg-country="ES",TVG Europa ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118881
+#EXTINF:-1 tvg-name="TVG Europa HD ES" group-title="Spain" tvg-country="ES",TVG Europa HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118880
+#EXTINF:-1 tvg-name="TYC SPORT HD ES" group-title="Spain" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png",TYC SPORT HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/79788
+#EXTINF:-1 tvg-name="Ubeat ES" group-title="Spain" tvg-country="ES",Ubeat ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118879
+#EXTINF:-1 tvg-name="Ubeat FHD ES" group-title="Spain" tvg-country="ES",Ubeat FHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118878
+#EXTINF:-1 tvg-name="Ubeat HD ES" group-title="Spain" tvg-country="ES",Ubeat HD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118877
+#EXTINF:-1 tvg-name="XTRM ES" group-title="Spain" tvg-country="ES" tvg-logo="https://static.epg.best/es/Xtrm.es.png",XTRM ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/6076
+#EXTINF:-1 tvg-name="Cocina UHD ES" group-title="UHD 4K" tvg-country="ES",Cocina UHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118749
+#EXTINF:-1 tvg-name="Decasa UHD ES" group-title="UHD 4K" tvg-country="ES",Decasa UHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118748
+#EXTINF:-1 tvg-name="Odisea UHD ES" group-title="UHD 4K" tvg-country="ES",Odisea UHD ES
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/118750
+#EXTINF:-1 tvg-name="beIN LaLiga UHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES",beIN LaLiga UHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19547
+#EXTINF:-1 tvg-name="Dazn FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="https://static.epg.best/it/DAZN.it.png",Dazn FHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/75232
+#EXTINF:-1 tvg-name="Movistar LaLiga ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarpartidazo.png",Movistar LaLiga ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/19549
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 1 FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 1 FHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/18820
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 1 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 1 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/18819
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 2 FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 2 FHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/18818
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 2 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 2 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/18817
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 3 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 3 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/18816
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 4 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 4 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/Branisa/uEP8LUjm3b/18815
+#EXTINF:-1 tvg-name="Als Gäbe Es Kein Morgen () [DE]" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/rjKDwIaYooO9qlLbkBCF0b64ff0_big.jpg",Als Gäbe Es Kein Morgen () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/96257.mkv
+#EXTINF:-1 tvg-name="Angelo Wach auf es ist Weihnachten (2022) [DE]" group-title="VOD Germany" tvg-country="ES",Angelo Wach auf es ist Weihnachten (2022) [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/123996.mkv
+#EXTINF:-1 tvg-name="Desert Dawn Es gibt kein zurueck (2025) [DE]" group-title="VOD Germany" tvg-country="ES",Desert Dawn Es gibt kein zurueck (2025) [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/129975.mkv
+#EXTINF:-1 tvg-name="Doch Das Boese Gibt Es Nicht () [DE]" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/X6OVGBe3NdaBhifMkZKJalHqrO_big.jpg",Doch Das Boese Gibt Es Nicht () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/103384.mkv
+#EXTINF:-1 tvg-name="Don't Go In The Woods - Es Wartet Auf Dich! () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/pRj4mgs0DeFre4ngzlBa7fT9A5h_big.jpg",Don't Go In The Woods - Es Wartet Auf Dich! () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/86311.mkv
+#EXTINF:-1 tvg-name="Edie - Für Träume Ist Es Nie Zu Spät  () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/fC5sYil6f38EmFOoJvEc1BewdTL_big.jpg",Edie - Für Träume Ist Es Nie Zu Spät  () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/76779.mkv
+#EXTINF:-1 tvg-name="Es Gilt Das Gesprochene Wort () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/tn5khBoJv1yNBEkBw9BTrTbg9GM_big.jpg",Es Gilt Das Gesprochene Wort () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/89791.mkv
+#EXTINF:-1 tvg-name="Es Gilt Das Gesprochene Wort () [DE]" group-title="VOD Germany" tvg-country="ES",Es Gilt Das Gesprochene Wort () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/89447.mkv
+#EXTINF:-1 tvg-name="Es Ist Kompliziert  ! () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/r1WG508hjYaWoJMdvdfAOfeojqn_big.jpg",Es Ist Kompliziert  ! () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/22334.mkv
+#EXTINF:-1 tvg-name="Es Ist Zu Deinem Besten () [DE]" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/gnNF6XcxsiBWMsuIgbENN4ejouU_big.jpg",Es Ist Zu Deinem Besten () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/96779.mkv
+#EXTINF:-1 tvg-name="Es Kapitel 2 () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/zfE0R94v1E8cuKAerbskfD3VfUt_big.jpg",Es Kapitel 2 () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/76745.mkv
+#EXTINF:-1 tvg-name="Es sind die kleinen Dinge German (2023) [DE]" group-title="VOD Germany" tvg-country="ES",Es sind die kleinen Dinge German (2023) [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/124005.mkv
+#EXTINF:-1 tvg-name="Es War Einmal Ein Deadpool () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/xLP1Wb9hhjYYaeMNN8dQXxnzlrD_big.jpg",Es War Einmal Ein Deadpool () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/85557.mkv
+#EXTINF:-1 tvg-name="Es War Einmal Indianerland () DE" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/6mzvJQKptqTiIMAVVPeFbYITJtP_big.jpg",Es War Einmal Indianerland () DE
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/14296.mkv
+#EXTINF:-1 tvg-name="Fuer Immer Meerjungfrau Es Gibt Sie Wirklich () DE" group-title="VOD Germany" tvg-country="ES",Fuer Immer Meerjungfrau Es Gibt Sie Wirklich () DE
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/84836.mkv
+#EXTINF:-1 tvg-name="In Einem Land Das Es Nicht Mehr Gibt () [DE]" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/aPCciODmLCQvdVdihd7mvl6sZDB_big.jpg",In Einem Land Das Es Nicht Mehr Gibt () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/113033.mkv
+#EXTINF:-1 tvg-name="Ist Es Zu Spät!  () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/c9aHXAKJtoNMJ3LsWPjL5y9bEEo_big.jpg",Ist Es Zu Spät!  () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/86023.mkv
+#EXTINF:-1 tvg-name="Ittefaq - Es Geschah Eines Nachts  () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/riEnSoGJ1WubamfrNpj4N0wVdoW_big.jpg",Ittefaq - Es Geschah Eines Nachts  () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/85727.mkv
+#EXTINF:-1 tvg-name="Operation Mindcrime Es Beginnt In Deinem Kopf () DE" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/59xSj93nnF9UG6kNoI62hlq11Gw_big.jpg",Operation Mindcrime Es Beginnt In Deinem Kopf () DE
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/6290.mkv
+#EXTINF:-1 tvg-name="Ostzone Wenn Du Sie Hoerst Ist Es Zu Spaet () DE" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/edU1lUpDbhpxnVz4RkukGXYvrQ6_big.jpg",Ostzone Wenn Du Sie Hoerst Ist Es Zu Spaet () DE
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/5273.mkv
+#EXTINF:-1 tvg-name="Pet Wenn Du Etwas Liebst Dann Lass Es Nicht Los () DE" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/cO5debLXk54GhgXd92GVD0Hpinv_big.jpg",Pet Wenn Du Etwas Liebst Dann Lass Es Nicht Los () DE
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/6293.mkv
+#EXTINF:-1 tvg-name="Peter Maffay Und Band Niemals War Es Besser Arenatour () -DE-" group-title="VOD Germany" tvg-country="ES",Peter Maffay Und Band Niemals War Es Besser Arenatour () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/85179.mkv
+#EXTINF:-1 tvg-name="Presence Es Ist Hier () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/zmKYvZNCYOjYlvVmMEsVof37NXk_big.jpg",Presence Es Ist Hier () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/85181.mkv
+#EXTINF:-1 tvg-name="Smile - Siehst Du Es Auch? () [DE]" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/gP8a3F36DTE2ytkxIo9gzSQvId1_big.jpg",Smile - Siehst Du Es Auch? () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/110624.mkv
+#EXTINF:-1 tvg-name="Smile 2 Siehst du es auch (2024) [DE]" group-title="VOD Germany" tvg-country="ES",Smile 2 Siehst du es auch (2024) [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/125007.mkv
+#EXTINF:-1 tvg-name="Suicide Tourist - Es Gibt Kein Entkommen () [DE]" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/geZNXYcLdgoHAzfXKlfuxkz2yqL_big.jpg",Suicide Tourist - Es Gibt Kein Entkommen () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/94742.mkv
+#EXTINF:-1 tvg-name="Tank 432 Es Gibt Kein Zurueck () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/eyUjNiotZ0uXWdvYC9EYoARjajj_big.jpg",Tank 432 Es Gibt Kein Zurueck () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/21013.mkv
+#EXTINF:-1 tvg-name="The Beast Within Es Lebt In Dir () [DE]" group-title="VOD Germany" tvg-country="ES",The Beast Within Es Lebt In Dir () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/89435.mkv
+#EXTINF:-1 tvg-name="The Closet Es Ruft Nach Dir () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/z1tCmWcQcTuH1pHezMF3RjcIDW2_big.jpg",The Closet Es Ruft Nach Dir () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/90428.mkv
+#EXTINF:-1 tvg-name="The Night Es Gibt Keinen Ausweg () [DE]" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/vHoeIopknC6fCUTJfagDGwr6qmf_big.jpg",The Night Es Gibt Keinen Ausweg () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/101883.mkv
+#EXTINF:-1 tvg-name="Ueberall gibt es ein Hausen (2025) [DE]" group-title="VOD Germany" tvg-country="ES",Ueberall gibt es ein Hausen (2025) [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/128065.mkv
+#EXTINF:-1 tvg-name="Underwater - Es Ist Erwacht () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/vcbdNMJkQ7qXuORZU0OXUlBWjxZ_big.jpg",Underwater - Es Ist Erwacht () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/86474.mkv
+#EXTINF:-1 tvg-name="Uns Geht Es Gut () DE" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/2eVH7GP829reRw5XxwoIXOzwt8q_big.jpg",Uns Geht Es Gut () DE
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/13551.mkv
+#EXTINF:-1 tvg-name="Wann Wird Es Endlich Wieder So Wie Es Nie War () [DE]" group-title="VOD Germany" tvg-country="ES",Wann Wird Es Endlich Wieder So Wie Es Nie War () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/115323.mkv
+#EXTINF:-1 tvg-name="Zoe Und Raven Es Weihnachtet Sehr () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/brQBJQkWTZMuq89qTeFds7X7cqW_big.jpg",Zoe Und Raven Es Weihnachtet Sehr () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/85500.mkv
+#EXTINF:-1 tvg-name="Zuhause Ist Es Am Schoensten () -DE-" group-title="VOD Germany" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/nnsAcemGP2oC4xqTsIBjEOHTYBa_big.jpg",Zuhause Ist Es Am Schoensten () -DE-
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/85545.mkv
+#EXTINF:-1 tvg-name="Es War K Einmal Im Marchenland - Schneewittchen () [DE]" group-title="VOD Germany Kids HD" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/qovxyp1QbwN179Ay65zQYDjNsuV_big.jpg",Es War K Einmal Im Marchenland - Schneewittchen () [DE]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/22657.mp4
+#EXTINF:-1 tvg-name="The Trip To Spain () [Multi-subs]" group-title="VOD Multi-Subtitles" tvg-country="ES",The Trip To Spain () [Multi-subs]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/20755.mkv
+#EXTINF:-1 tvg-name="A Hipster in Rural Spain [PT]" group-title="VOD Portuguese" tvg-country="ES" tvg-logo="http://c.pttuga.com:8080/images/78KfOGOqXvTja8lRFwgjmkprRmI_big.jpg",A Hipster in Rural Spain [PT]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/119425.mkv
+#EXTINF:-1 tvg-name="Es Esmu Seit [PT]" group-title="VOD Portuguese" tvg-country="ES",Es Esmu Seit [PT]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/54733.mkv
+#EXTINF:-1 tvg-name="Seduz-me Se Es Capaz [PT]" group-title="VOD Portuguese" tvg-country="ES",Seduz-me Se Es Capaz [PT]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/72896.mkv
+#EXTINF:-1 tvg-name="The Trip To Spain () SWE" group-title="VOD Swedish" tvg-country="ES" tvg-logo="http://195.154.221.171/covers/The%20Trip%20to%20Spain%20(2017)%20SWE.jpg",The Trip To Spain () SWE
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/11052.mp4
+#EXTINF:-1 tvg-name="Es Anlamlilar - Synonymes () [TR]" group-title="VOD Turkey" tvg-country="ES",Es Anlamlilar - Synonymes () [TR]
+http://cuvillier.gentv.to:8080/movie/Branisa/uEP8LUjm3b/80595.mp4

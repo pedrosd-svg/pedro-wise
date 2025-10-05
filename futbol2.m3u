@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN LaLiga UHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES",beIN LaLiga UHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/19547
+#EXTINF:-1 tvg-name="Dazn FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="https://static.epg.best/it/DAZN.it.png",Dazn FHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/75232
+#EXTINF:-1 tvg-name="Movistar LaLiga ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarpartidazo.png",Movistar LaLiga ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/19549
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 1 FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 1 FHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/18820
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 1 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 1 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/18819
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 2 FHD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 2 FHD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/18818
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 2 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 2 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/18817
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 3 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 3 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/18816
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones 4 HD ES VIP SPORTS" group-title="VIP Sports" tvg-country="ES" tvg-logo="http://tugapt.com/picons/movistarligadecampeones.png",Movistar Liga de Campeones 4 HD ES VIP SPORTS
+http://cuvillier.gentv.to:8080/MOOuanPYNT/92suxeG8rZ/18815
