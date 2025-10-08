@@ -1,0 +1,275 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ES: La 1" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/la1.png" group-title="📺 GENERALISTAS",La 1
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232911
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ES: La 2" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/la2.png" group-title="📺 GENERALISTAS",La 2
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232912
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: Antena 3" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/antena3.png" group-title="📺 GENERALISTAS",Antena 3
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232913
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: Cuatro" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cuatro.png" group-title="📺 GENERALISTAS",Cuatro
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232914
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: Telecinco" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/telecinco.png" group-title="📺 GENERALISTAS",Telecinco
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232915
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: La Sexta" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/lasexta.png" group-title="📺 GENERALISTAS",La Sexta
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232916
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES: Neox" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/neox.png" group-title="📺 GENERALISTAS",Neox
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232917
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: Nova" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/nova.png" group-title="📺 GENERALISTAS",Nova
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232918
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES: Mega" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/mega.png" group-title="📺 GENERALISTAS",Mega
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232919
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ES: Atreseries" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/atreseries.png" group-title="📺 GENERALISTAS",Atreseries
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232920
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES: Divinity" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/divinity.png" group-title="📺 GENERALISTAS",Divinity
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232921
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: Energy" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/energy.png" group-title="📺 GENERALISTAS",Energy
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232922
+#EXTINF:-1 tvg-id="La1HD.es" tvg-name="ES: La 1 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/la1.png" group-title="📺 GENERALISTAS",La 1 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232923
+#EXTINF:-1 tvg-id="La2HD.es" tvg-name="ES: La 2 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/la2.png" group-title="📺 GENERALISTAS",La 2 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232924
+#EXTINF:-1 tvg-id="Antena3HD.es" tvg-name="ES: Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/antena3.png" group-title="📺 GENERALISTAS",Antena 3 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232925
+#EXTINF:-1 tvg-id="CuatroHD.es" tvg-name="ES: Cuatro HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cuatro.png" group-title="📺 GENERALISTAS",Cuatro HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232926
+#EXTINF:-1 tvg-id="TelecincoHD.es" tvg-name="ES: Telecinco HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/telecinco.png" group-title="📺 GENERALISTAS",Telecinco HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232927
+#EXTINF:-1 tvg-id="LaSextaHD.es" tvg-name="ES: La Sexta HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/lasexta.png" group-title="📺 GENERALISTAS",La Sexta HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232928
+#EXTINF:-1 tvg-id="NeoxHD.es" tvg-name="ES: Neox HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/neox.png" group-title="📺 GENERALISTAS",Neox HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232929
+#EXTINF:-1 tvg-id="NovaHD.es" tvg-name="ES: Nova HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/nova.png" group-title="📺 GENERALISTAS",Nova HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232930
+#EXTINF:-1 tvg-id="MegaHD.es" tvg-name="ES: Mega HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/mega.png" group-title="📺 GENERALISTAS",Mega HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232931
+#EXTINF:-1 tvg-id="AtreseriesHD.es" tvg-name="ES: Atreseries HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/atreseries.png" group-title="📺 GENERALISTAS",Atreseries HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232932
+#EXTINF:-1 tvg-id="DivinityHD.es" tvg-name="ES: Divinity HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/divinity.png" group-title="📺 GENERALISTAS",Divinity HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232933
+#EXTINF:-1 tvg-id="EnergyHD.es" tvg-name="ES: Energy HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/energy.png" group-title="📺 GENERALISTAS",Energy HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232934
+
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="ES: La 1 Canarias" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/la1.png" group-title="📡 AUTONÓMICAS",La 1 Canarias
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232938
+#EXTINF:-1 tvg-id="La1Baleares.es" tvg-name="ES: La 1 Baleares" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/la1.png" group-title="📡 AUTONÓMICAS",La 1 Baleares
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232939
+#EXTINF:-1 tvg-id="TV3.es" tvg-name="ES: TV3" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tv3.png" group-title="📡 AUTONÓMICAS",TV3
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232940
+#EXTINF:-1 tvg-id="IB3.es" tvg-name="ES: IB3" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/ib3.png" group-title="📡 AUTONÓMICAS",IB3
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232941
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ES: ETB 1" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/etb1.png" group-title="📡 AUTONÓMICAS",ETB 1
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232942
+#EXTINF:-1 tvg-id="ETB2.es" tvg-name="ES: ETB 2" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/etb2.png" group-title="📡 AUTONÓMICAS",ETB 2
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232943
+#EXTINF:-1 tvg-id="TVG.es" tvg-name="ES: TVG" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tvg.png" group-title="📡 AUTONÓMICAS",TVG
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232944
+#EXTINF:-1 tvg-id="CMM.es" tvg-name="ES: CMM" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cmm.png" group-title="📡 AUTONÓMICAS",CMM
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232945
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="ES: Aragón TV" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/aragontv.png" group-title="📡 AUTONÓMICAS",Aragón TV
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232946
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-name="ES: Canal Sur" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/canalsur.png" group-title="📡 AUTONÓMICAS",Canal Sur
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232947
+#EXTINF:-1 tvg-id="7RM.es" tvg-name="ES: 7RM" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/7rm.png" group-title="📡 AUTONÓMICAS",7RM
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232948
+#EXTINF:-1 tvg-id="TPA.es" tvg-name="ES: TPA" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tpa.png" group-title="📡 AUTONÓMICAS",TPA
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232949
+#EXTINF:-1 tvg-id="TVCanaria.es" tvg-name="ES: TV Canaria" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tvcanaria.png" group-title="📡 AUTONÓMICAS",TV Canaria
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232950
+#EXTINF:-1 tvg-id="TV3HD.es" tvg-name="ES: TV3 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tv3.png" group-title="📡 AUTONÓMICAS",TV3 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232951
+#EXTINF:-1 tvg-id="IB3HD.es" tvg-name="ES: IB3 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/ib3.png" group-title="📡 AUTONÓMICAS",IB3 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232952
+#EXTINF:-1 tvg-id="ETB1HD.es" tvg-name="ES: ETB 1 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/etb1.png" group-title="📡 AUTONÓMICAS",ETB 1 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232953
+#EXTINF:-1 tvg-id="ETB2HD.es" tvg-name="ES: ETB 2 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/etb2.png" group-title="📡 AUTONÓMICAS",ETB 2 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232954
+#EXTINF:-1 tvg-id="TVGHD.es" tvg-name="ES: TVG HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tvg.png" group-title="📡 AUTONÓMICAS",TVG HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232955
+#EXTINF:-1 tvg-id="CMMHD.es" tvg-name="ES: CMM HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cmm.png" group-title="📡 AUTONÓMICAS",CMM HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232956
+#EXTINF:-1 tvg-id="AragonTVHD.es" tvg-name="ES: Aragón TV HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/aragontv.png" group-title="📡 AUTONÓMICAS",Aragón TV HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232957
+#EXTINF:-1 tvg-id="CanalSurHD.es" tvg-name="ES: Canal Sur HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/canalsur.png" group-title="📡 AUTONÓMICAS",Canal Sur HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232958
+#EXTINF:-1 tvg-id="7RMHD.es" tvg-name="ES: 7RM HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/7rm.png" group-title="📡 AUTONÓMICAS",7RM HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232959
+#EXTINF:-1 tvg-id="TPAHD.es" tvg-name="ES: TPA HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tpa.png" group-title="📡 AUTONÓMICAS",TPA HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232960
+#EXTINF:-1 tvg-id="TVCanariaHD.es" tvg-name="ES: TV Canaria HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tvcanaria.png" group-title="📡 AUTONÓMICAS",TV Canaria HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232961
+
+#EXTINF:-1 tvg-id="24h.es" tvg-name="ES: 24h" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/24h.png" group-title="📰 NOTICIAS",24h
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232935
+#EXTINF:-1 tvg-id="InformativosTelecinco.es" tvg-name="ES: Informativos Telecinco" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/informativostelecinco.png" group-title="📰 NOTICIAS",Informativos Telecinco
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232936
+#EXTINF:-1 tvg-id="NoticiasCuatro.es" tvg-name="ES: Noticias Cuatro" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/noticiascuatro.png" group-title="📰 NOTICIAS",Noticias Cuatro
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232937
+
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-name="ES: Paramount Network" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/paramountnetwork.png" group-title="🎬 CINE Y SERIES",Paramount Network
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232962
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES: TNT" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tnt.png" group-title="🎬 CINE Y SERIES",TNT
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232963
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/axn.png" group-title="🎬 CINE Y SERIES",AXN
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232964
+#EXTINF:-1 tvg-id="Syfy.es" tvg-name="ES: Syfy" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/syfy.png" group-title="🎬 CINE Y SERIES",Syfy
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232965
+#EXTINF:-1 tvg-id="FOX.es" tvg-name="ES: FOX" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/fox.png" group-title="🎬 CINE Y SERIES",FOX
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232966
+#EXTINF:-1 tvg-id="TNTComedy.es" tvg-name="ES: TNT Comedy" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tntcomedy.png" group-title="🎬 CINE Y SERIES",TNT Comedy
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232967
+#EXTINF:-1 tvg-id="AXNSpain.es" tvg-name="ES: AXN Spain" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/axnspain.png" group-title="🎬 CINE Y SERIES",AXN Spain
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232968
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES: AMC" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/amc.png" group-title="🎬 CINE Y SERIES",AMC
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232969
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES: Hollywood" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/hollywood.png" group-title="🎬 CINE Y SERIES",Hollywood
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232970
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES: TCM" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tcm.png" group-title="🎬 CINE Y SERIES",TCM
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232971
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: Calle 13" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/calle13.png" group-title="🎬 CINE Y SERIES",Calle 13
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232972
+#EXTINF:-1 tvg-id="Cosmopolitan.es" tvg-name="ES: Cosmopolitan" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cosmopolitan.png" group-title="🎬 CINE Y SERIES",Cosmopolitan
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232973
+#EXTINF:-1 tvg-id="ParamountNetworkHD.es" tvg-name="ES: Paramount Network HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/paramountnetwork.png" group-title="🎬 CINE Y SERIES",Paramount Network HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232974
+#EXTINF:-1 tvg-id="TNTHD.es" tvg-name="ES: TNT HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tnt.png" group-title="🎬 CINE Y SERIES",TNT HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232975
+#EXTINF:-1 tvg-id="AXNHD.es" tvg-name="ES: AXN HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/axn.png" group-title="🎬 CINE Y SERIES",AXN HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232976
+#EXTINF:-1 tvg-id="SyfyHD.es" tvg-name="ES: Syfy HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/syfy.png" group-title="🎬 CINE Y SERIES",Syfy HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232977
+#EXTINF:-1 tvg-id="FOXHD.es" tvg-name="ES: FOX HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/fox.png" group-title="🎬 CINE Y SERIES",FOX HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232978
+#EXTINF:-1 tvg-id="TNTComedyHD.es" tvg-name="ES: TNT Comedy HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tntcomedy.png" group-title="🎬 CINE Y SERIES",TNT Comedy HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232979
+#EXTINF:-1 tvg-id="AXNSpainHD.es" tvg-name="ES: AXN Spain HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/axnspain.png" group-title="🎬 CINE Y SERIES",AXN Spain HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232980
+#EXTINF:-1 tvg-id="AMCHD.es" tvg-name="ES: AMC HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/amc.png" group-title="🎬 CINE Y SERIES",AMC HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232981
+#EXTINF:-1 tvg-id="HollywoodHD.es" tvg-name="ES: Hollywood HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/hollywood.png" group-title="🎬 CINE Y SERIES",Hollywood HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232982
+#EXTINF:-1 tvg-id="TCMHD.es" tvg-name="ES: TCM HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/tcm.png" group-title="🎬 CINE Y SERIES",TCM HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232983
+#EXTINF:-1 tvg-id="Calle13HD.es" tvg-name="ES: Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/calle13.png" group-title="🎬 CINE Y SERIES",Calle 13 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232984
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES: Cosmopolitan HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cosmopolitan.png" group-title="🎬 CINE Y SERIES",Cosmopolitan HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232985
+
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="ES: Disney Channel" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/disneychannel.png" group-title="🧒 INFANTIL",Disney Channel
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232986
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="ES: Disney Junior" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/disneyjunior.png" group-title="🧒 INFANTIL",Disney Junior
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232987
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES: Boing" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/boing.png" group-title="🧒 INFANTIL",Boing
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232988
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="ES: Clan" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/clan.png" group-title="🧒 INFANTIL",Clan
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232989
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES: Nickelodeon" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/nickelodeon.png" group-title="🧒 INFANTIL",Nickelodeon
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232990
+#EXTINF:-1 tvg-id="CartoonNetwork.es" tvg-name="ES: Cartoon Network" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cartoonnetwork.png" group-title="🧒 INFANTIL",Cartoon Network
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232991
+#EXTINF:-1 tvg-id="DisneyChannelHD.es" tvg-name="ES: Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/disneychannel.png" group-title="🧒 INFANTIL",Disney Channel HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232992
+#EXTINF:-1 tvg-id="DisneyJuniorHD.es" tvg-name="ES: Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/disneyjunior.png" group-title="🧒 INFANTIL",Disney Junior HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232993
+#EXTINF:-1 tvg-id="BoingHD.es" tvg-name="ES: Boing HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/boing.png" group-title="🧒 INFANTIL",Boing HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232994
+#EXTINF:-1 tvg-id="ClanHD.es" tvg-name="ES: Clan HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/clan.png" group-title="🧒 INFANTIL",Clan HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232995
+#EXTINF:-1 tvg-id="NickelodeonHD.es" tvg-name="ES: Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/nickelodeon.png" group-title="🧒 INFANTIL",Nickelodeon HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232996
+#EXTINF:-1 tvg-id="CartoonNetworkHD.es" tvg-name="ES: Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cartoonnetwork.png" group-title="🧒 INFANTIL",Cartoon Network HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232997
+
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="ES: MTV" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/mtv.png" group-title="🎵 MÚSICA",MTV
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232998
+#EXTINF:-1 tvg-id="Los40.es" tvg-name="ES: Los 40" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/los40.png" group-title="🎵 MÚSICA",Los 40
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/232999
+#EXTINF:-1 tvg-id="Cadena100.es" tvg-name="ES: Cadena 100" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cadena100.png" group-title="🎵 MÚSICA",Cadena 100
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233000
+#EXTINF:-1 tvg-id="RockFM.es" tvg-name="ES: Rock FM" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/rockfm.png" group-title="🎵 MÚSICA",Rock FM
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233001
+#EXTINF:-1 tvg-id="EuropaFM.es" tvg-name="ES: Europa FM" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/europafm.png" group-title="🎵 MÚSICA",Europa FM
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233002
+#EXTINF:-1 tvg-id="MTVHD.es" tvg-name="ES: MTV HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/mtv.png" group-title="🎵 MÚSICA",MTV HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233003
+#EXTINF:-1 tvg-id="Los40HD.es" tvg-name="ES: Los 40 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/los40.png" group-title="🎵 MÚSICA",Los 40 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233004
+#EXTINF:-1 tvg-id="Cadena100HD.es" tvg-name="ES: Cadena 100 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/cadena100.png" group-title="🎵 MÚSICA",Cadena 100 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233005
+#EXTINF:-1 tvg-id="RockFMHD.es" tvg-name="ES: Rock FM HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/rockfm.png" group-title="🎵 MÚSICA",Rock FM HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233006
+#EXTINF:-1 tvg-id="EuropaFMHD.es" tvg-name="ES: Europa FM HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/europafm.png" group-title="🎵 MÚSICA",Europa FM HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233007
+
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="ES: DMAX" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dmax.png" group-title="📚 DOCUMENTALES",DMAX
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233008
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: Odisea" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/odisea.png" group-title="📚 DOCUMENTALES",Odisea
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233009
+#EXTINF:-1 tvg-id="DiscoveryMax.es" tvg-name="ES: Discovery Max" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/discoverymax.png" group-title="📚 DOCUMENTALES",Discovery Max
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233010
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES: National Geographic" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/nationalgeographic.png" group-title="📚 DOCUMENTALES",National Geographic
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233011
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/natgeowild.png" group-title="📚 DOCUMENTALES",Nat Geo Wild
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233012
+#EXTINF:-1 tvg-id="HistoryChannel.es" tvg-name="ES: History Channel" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/historychannel.png" group-title="📚 DOCUMENTALES",History Channel
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233013
+#EXTINF:-1 tvg-id="DMAXHD.es" tvg-name="ES: DMAX HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dmax.png" group-title="📚 DOCUMENTALES",DMAX HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233014
+#EXTINF:-1 tvg-id="OdiseaHD.es" tvg-name="ES: Odisea HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/odisea.png" group-title="📚 DOCUMENTALES",Odisea HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233015
+#EXTINF:-1 tvg-id="DiscoveryMaxHD.es" tvg-name="ES: Discovery Max HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/discoverymax.png" group-title="📚 DOCUMENTALES",Discovery Max HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233016
+#EXTINF:-1 tvg-id="NationalGeographicHD.es" tvg-name="ES: National Geographic HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/nationalgeographic.png" group-title="📚 DOCUMENTALES",National Geographic HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233017
+#EXTINF:-1 tvg-id="NatGeoWildHD.es" tvg-name="ES: Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/natgeowild.png" group-title="📚 DOCUMENTALES",Nat Geo Wild HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233018
+#EXTINF:-1 tvg-id="HistoryChannelHD.es" tvg-name="ES: History Channel HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/historychannel.png" group-title="📚 DOCUMENTALES",History Channel HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233019
+
+#EXTINF:-1 tvg-id="GolTV.es" tvg-name="ES: Gol TV" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/goltv.png" group-title="⚽ DEPORTES",Gol TV
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233020
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/movistardeportes.png" group-title="⚽ DEPORTES",Movistar Deportes
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233021
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES: DAZN 1" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn1.png" group-title="⚽ DEPORTES",DAZN 1
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233022
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES: DAZN 2" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn2.png" group-title="⚽ DEPORTES",DAZN 2
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233023
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="ES: DAZN 3" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn3.png" group-title="⚽ DEPORTES",DAZN 3
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233024
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="ES: DAZN 4" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn4.png" group-title="⚽ DEPORTES",DAZN 4
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233025
+#EXTINF:-1 tvg-id="DAZN5.es" tvg-name="ES: DAZN 5" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn5.png" group-title="⚽ DEPORTES",DAZN 5
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233026
+#EXTINF:-1 tvg-id="DAZN6.es" tvg-name="ES: DAZN 6" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn6.png" group-title="⚽ DEPORTES",DAZN 6
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233027
+#EXTINF:-1 tvg-id="DAZN7.es" tvg-name="ES: DAZN 7" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn7.png" group-title="⚽ DEPORTES",DAZN 7
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233028
+#EXTINF:-1 tvg-id="DAZN8.es" tvg-name="ES: DAZN 8" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn8.png" group-title="⚽ DEPORTES",DAZN 8
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233029
+#EXTINF:-1 tvg-id="DAZN9.es" tvg-name="ES: DAZN 9" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn9.png" group-title="⚽ DEPORTES",DAZN 9
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233030
+#EXTINF:-1 tvg-id="DAZN10.es" tvg-name="ES: DAZN 10" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn10.png" group-title="⚽ DEPORTES",DAZN 10
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233031
+#EXTINF:-1 tvg-id="GolTVHD.es" tvg-name="ES: Gol TV HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/goltv.png" group-title="⚽ DEPORTES",Gol TV HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233032
+#EXTINF:-1 tvg-id="MovistarDeportesHD.es" tvg-name="ES: Movistar Deportes HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/movistardeportes.png" group-title="⚽ DEPORTES",Movistar Deportes HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233033
+#EXTINF:-1 tvg-id="DAZN1HD.es" tvg-name="ES: DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn1.png" group-title="⚽ DEPORTES",DAZN 1 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233034
+#EXTINF:-1 tvg-id="DAZN2HD.es" tvg-name="ES: DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn2.png" group-title="⚽ DEPORTES",DAZN 2 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233035
+#EXTINF:-1 tvg-id="DAZN3HD.es" tvg-name="ES: DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn3.png" group-title="⚽ DEPORTES",DAZN 3 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233036
+#EXTINF:-1 tvg-id="DAZN4HD.es" tvg-name="ES: DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn4.png" group-title="⚽ DEPORTES",DAZN 4 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233037
+#EXTINF:-1 tvg-id="DAZN5HD.es" tvg-name="ES: DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn5.png" group-title="⚽ DEPORTES",DAZN 5 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233038
+#EXTINF:-1 tvg-id="DAZN6HD.es" tvg-name="ES: DAZN 6 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn6.png" group-title="⚽ DEPORTES",DAZN 6 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233039
+#EXTINF:-1 tvg-id="DAZN7HD.es" tvg-name="ES: DAZN 7 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn7.png" group-title="⚽ DEPORTES",DAZN 7 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233040
+#EXTINF:-1 tvg-id="DAZN8HD.es" tvg-name="ES: DAZN 8 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn8.png" group-title="⚽ DEPORTES",DAZN 8 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233041
+#EXTINF:-1 tvg-id="DAZN9HD.es" tvg-name="ES: DAZN 9 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn9.png" group-title="⚽ DEPORTES",DAZN 9 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233042
+#EXTINF:-1 tvg-id="DAZN10HD.es" tvg-name="ES: DAZN 10 HD" tvg-logo="https://raw.githubusercontent.com/acidmediaproject/acidmediaproject.github.io/main/logos/dazn10.png" group-title="⚽ DEPORTES",DAZN 10 HD
+http://arabitv5.com:8000/Qassem2006/Qqaass112233/233043
