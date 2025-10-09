@@ -7,36 +7,26 @@
 	[
 			
 		{
-        "name": "300 dias",
+        "name": "2",
         "image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/02-08-2026_Conex_0.m3u",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2.m3u",
         "info":"BY PEDRO"
        
         },
 
 	{
-        "name": "prueba",
+        "name": "2026-04-04",
         "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/08-01-2026_Conex_0.m3u",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-04-04.m3u",
         "info":"BY PEDRO"
        
         },
 	
 
 	{
-        "name": "3",
+        "name": "espa",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "http://sonymax.org:8080/get.php?username=rimegWRz5R&password=XsiotkHW6A&type=m3u_plus",
-        "info":"BY PEDRO"
-       
-	   
-	   
-        },
-	
-	{
-        "name": "4",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "http://canal-pro.xyz:8080/get.php?username=88299922&password=79HUr65RFV&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa.m3u",
         "info":"BY PEDRO"
        
 	   
@@ -44,48 +34,21 @@
         },
 	
 	{
-        "name": "5",
+        "name": "espa 2",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "http://fortv.cc:8080/get.php?username=1488926&password=5541986&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa2.m3u",
         "info":"BY PEDRO"
        
 	   
 	   
         },
-		
-		
-	{
-        "name": "FUTBOL 1",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/futbol.m3u",
-        "info":"BY PEDRO"
-       
-	   
-	   
-        },
-
-	{
-        "name": "FUTBOL 2",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/futbol2.m3u",
-        "info":"BY PEDRO"
-       
-	   
-	   
-        },
-
-{
-        "name": "7",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/23-01-2026_Conex_0.m3u",
-        "info":"BY PEDRO"
-       
-       },
-
+	
+	
 
 
 	]
 }
+
 
 
 
