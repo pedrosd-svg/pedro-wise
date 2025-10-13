@@ -8,7 +8,7 @@
 			
 		{
         "name": "PRUEBAS 2",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/500e8dc64e833acb5edf4bc3dbfa05f2dc548083/TEST.png",
+        "image": "https://radiopedro.ct.ws/TEST.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_937207728tv_plus.m3u",
         "info":"BY PEDRO"
        
@@ -16,7 +16,7 @@
 
 	{
         "name": "PRUEBAS 3",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/500e8dc64e833acb5edf4bc3dbfa05f2dc548083/TEST.png",
+        "image": "https://radiopedro.ct.ws/TEST.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_VIP0152173979764889.m3u",
         "info":"BY PEDRO"
        
@@ -24,7 +24,7 @@
 
 {
         "name": "PRUEBAS 4",
-        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/500e8dc64e833acb5edf4bc3dbfa05f2dc548083/TEST.png",
+        "image": "https://radiopedro.ct.ws/TEST.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_ozzie_skype_plus.m3u",
         "info":"BY PEDRO"
        
@@ -32,7 +32,7 @@
 
 	{
         "name": "BUENA SPAIN",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "image": "https://radiopedro.ct.ws/OK.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa.m3u",
         "info":"BY PEDRO"
        
@@ -42,7 +42,7 @@
 	
 	{
         "name": "BUENA SPAIN 2",
-        "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
+        "image": "https://radiopedro.ct.ws/OK.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa2.m3u",
         "info":"BY PEDRO"
        
@@ -55,6 +55,7 @@
 
 	]
 }
+
 
 
 
