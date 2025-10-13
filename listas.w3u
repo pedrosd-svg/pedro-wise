@@ -7,24 +7,31 @@
 	[
 			
 		{
-        "name": "2",
+        "name": "PRUEBAS 2",
         "image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2.m3u",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_937207728tv_plus.m3u",
         "info":"BY PEDRO"
        
         },
 
 	{
-        "name": "2026-04-04",
+        "name": "PRUEBAS 3",
         "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-04-04.m3u",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_VIP0152173979764889.m3u",
         "info":"BY PEDRO"
        
         },
-	
+
+{
+        "name": "PRUEBAS 4",
+        "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_ozzie_skype_plus.m3u",
+        "info":"BY PEDRO"
+       
+        },
 
 	{
-        "name": "espa",
+        "name": "BUENA SPAIN",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa.m3u",
         "info":"BY PEDRO"
@@ -34,7 +41,7 @@
         },
 	
 	{
-        "name": "espa 2",
+        "name": "BUENA SPAIN 2",
         "image": "https://static.chollometro.com/threads/raw/DhGAz/1606046_1/re/768x768/qt/60/1606046_1.jpg",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa2.m3u",
         "info":"BY PEDRO"
@@ -48,6 +55,7 @@
 
 	]
 }
+
 
 
 
