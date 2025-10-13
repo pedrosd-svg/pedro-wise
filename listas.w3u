@@ -8,7 +8,7 @@
 			
 		{
         "name": "PRUEBAS 2",
-        "image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/500e8dc64e833acb5edf4bc3dbfa05f2dc548083/TEST.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_937207728tv_plus.m3u",
         "info":"BY PEDRO"
        
@@ -16,7 +16,7 @@
 
 	{
         "name": "PRUEBAS 3",
-        "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/500e8dc64e833acb5edf4bc3dbfa05f2dc548083/TEST.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_VIP0152173979764889.m3u",
         "info":"BY PEDRO"
        
@@ -24,7 +24,7 @@
 
 {
         "name": "PRUEBAS 4",
-        "image": "https://www.publico.es/vpn/wp-content/uploads/2024/09/IPTV.png",
+        "image": "https://github.com/pedrosd-svg/pedro-wise/blob/500e8dc64e833acb5edf4bc3dbfa05f2dc548083/TEST.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_ozzie_skype_plus.m3u",
         "info":"BY PEDRO"
        
@@ -55,6 +55,7 @@
 
 	]
 }
+
 
 
 
