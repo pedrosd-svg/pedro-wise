@@ -6,7 +6,30 @@
     "groups": 
 	[
 			
-		{
+
+{
+        "name": "VIERNES 1",
+        "image": "https://radiopedro.ct.ws/TEST.png",
+        "url": "http://ultrapremium.cloud:8080/get.php?username=975887854tv&password=z93e67&type=m3u_plus&output=m3u8",
+        "info":"BY PEDRO"
+       
+        },
+
+{
+        "name": "VIERNES 2",
+        "image": "https://radiopedro.ct.ws/TEST.png",
+        "url": "http://fortv.cc:8080/get.php?username=98795998&password=98795998&type=m3u_plus",
+        "info":"BY PEDRO"
+       
+        },
+{
+        "name": "VIERNES 3",
+        "image": "https://radiopedro.ct.ws/TEST.png",
+        "url": "http://vipforj.top:8080/get.php?username=VIP0176173538414492&password=11735384144745&type=m3u_plus&output=mpegts",
+        "info":"BY PEDRO"
+       
+        },
+	{
         "name": "PRUEBAS 2",
         "image": "https://radiopedro.ct.ws/TEST.png",
         "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv_channels_937207728tv_plus.m3u",
@@ -55,6 +78,7 @@
 
 	]
 }
+
 
 
 
