@@ -10,7 +10,7 @@
 {
         "name": "VIERNES 1",
         "image": "https://radiopedro.ct.ws/TEST.png",
-        "url": "http://ultrapremium.cloud:8080/get.php?username=975887854tv&password=z93e67&type=m3u_plus&output=m3u8",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/ESPA18_1.m3u",
         "info":"BY PEDRO"
        
         },
@@ -18,7 +18,7 @@
 {
         "name": "VIERNES 2",
         "image": "https://radiopedro.ct.ws/TEST.png",
-        "url": "http://fortv.cc:8080/get.php?username=98795998&password=98795998&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/ESPA18_2.m3u",
         "info":"BY PEDRO"
        
         },
@@ -78,6 +78,7 @@
 
 	]
 }
+
 
 
 
