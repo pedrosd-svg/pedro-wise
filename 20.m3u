@@ -1,0 +1,406 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="logo.us" tvg-name="ES: Logos TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2197b8260312b7e1bdbc792588671108.jpg" group-title="Spain",ES: Logos TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292806.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M95 Marbella HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/15a6a2bdf3e606837c104e2867e75b36.jpg" group-title="Spain",ES: M95 Marbella HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292807.ts
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="ES: MAR TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/75694e8a55fe582b635f6b84378c9957.jpg" group-title="Spain",ES: MAR TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292808.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: María Visión HD" tvg-logo="" group-title="Spain",ES: María Visión HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292809.ts
+#EXTINF:-1 tvg-id="metv.us" tvg-name="ES: Mirame TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/417dbb02ab484d630f0e814f14aef5d6.jpg" group-title="Spain",ES: Mirame TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292810.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: Movistar Deportes 2 HD" tvg-logo="" group-title="Spain",ES: Movistar Deportes 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292811.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: Movistar Deportes 3 HD" tvg-logo="" group-title="Spain",ES: Movistar Deportes 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292812.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: Movistar Deportes 4 HD" tvg-logo="" group-title="Spain",ES: Movistar Deportes 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292813.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: Movistar Deportes 7 HD" tvg-logo="" group-title="Spain",ES: Movistar Deportes 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292814.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar FEST HD" tvg-logo="" group-title="Spain",ES: Movistar FEST HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292815.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Oscar HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Movistar Oscar HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292816.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Negocios HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/09ebda5f5e4312b8d8d279ad95d23e0a.jpg" group-title="Spain",ES: Negocios HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292817.ts
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="ES: Nortevision HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/8e5e11a0ea5e580ed75c58918d6b66fd.jpg" group-title="Spain",ES: Nortevision HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292818.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Oizmendi Telebista HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/b88d5aa02957615819ce63c8dc5c9d4f.jpg" group-title="Spain",ES: Oizmendi Telebista HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292819.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA Algeciras TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/29acc582397ee775f2bb2e0c59a86a8e.jpg" group-title="Spain",ES: ONDA Algeciras TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292820.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA Cadiz HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2f4d95291136401889e515f72a84b9e3.jpg" group-title="Spain",ES: ONDA Cadiz HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292821.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Popular TV Cantabria HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/27bd1731e6012c1915321735bb423486.jpg" group-title="Spain",ES: Popular TV Cantabria HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292822.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Popular TV Melilla HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/bd936348c2113833de762d985ab2d835.jpg" group-title="Spain",ES: Popular TV Melilla HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PTV Cordoba HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/5bd3712cb5dff175468a969e21ab67e3.jpg" group-title="Spain",ES: PTV Cordoba HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292824.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PUNT 3 VALL UIXO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/16cd1a0105a880f5493b0f57baa10e6e.jpg" group-title="Spain",ES: PUNT 3 VALL UIXO HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292825.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Radio Televisión Melilla HD" tvg-logo="" group-title="Spain",ES: Radio Televisión Melilla HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292826.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTV VIDA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0d634d0ebc5da5c2b268a9c3a37c096c.jpg" group-title="Spain",ES: RTV VIDA HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292827.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVida HD" tvg-logo="" group-title="Spain",ES: RTVida HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292828.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Solidaria TV España HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2594ec47a80a7ec2d1e49261af7b231e.png" group-title="Spain",ES: Solidaria TV España HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292829.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sophia TV Español HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f48000090e464016692e91cabf452ef4.png" group-title="Spain",ES: Sophia TV Español HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292830.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Stingray Classica HD" tvg-logo="" group-title="Spain",ES: Stingray Classica HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292831.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELE Safor HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/571f46cebccfe100d45bb9d223c77db1.jpg" group-title="Spain",ES: TELE Safor HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292832.ts
+#EXTINF:-1 tvg-id="k2.it" tvg-name="ES: Telenovelas HD" tvg-logo="" group-title="Spain",ES: Telenovelas HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292833.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: Televigo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/09c16223b993c8b5e2f166fccc7a20bb.jpg" group-title="Spain",ES: Televigo HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292834.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Televisión Melilla HD" tvg-logo="" group-title="Spain",ES: Televisión Melilla HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292835.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="ES: TEN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2dbbe518daac468a3c136de76bd93820.jpg" group-title="Spain",ES: TEN HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292836.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Trece TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Trece TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292837.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TUYA LA Janda TV HD" tvg-logo="" group-title="Spain",ES: TUYA LA Janda TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292838.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV 4 LA VALL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ec48701d1306463c043b2e6c0cd9be25.png" group-title="Spain",ES: TV 4 LA VALL HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292839.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Castilla LA Mancha / CMM TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/cc2d4acf966dd09cded9655d413ceaf1.jpg" group-title="Spain",ES: TV Castilla LA Mancha / CMM TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292840.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Ferrol HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: TV Ferrol HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292841.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 Catalunya HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/753a8395821c5b38974b50e53f1a2291.jpg" group-title="Spain",ES: TV3 Catalunya HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292842.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV5 Limares HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/cd3f1b57a02092b85d8ee11185a91b1a.jpg" group-title="Spain",ES: TV5 Limares HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292843.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: TVE LA 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c9d91abdf7030eabf63c8781012882b9.png" group-title="Spain",ES: TVE LA 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292844.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ES: DAZN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Spain ➾ Football",ES: DAZN 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292976.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ES: DAZN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Spain ➾ Football",ES: DAZN 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292977.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ES: DAZN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="Spain ➾ Football",ES: DAZN 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292978.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ES: DAZN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="Spain ➾ Football",ES: DAZN 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292979.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292980.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN Laliga 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292981.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292982.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/18bb555912f34dff06c2de73b972737b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292983.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/db1b5c362ed561b2c801433ba3e3f13b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292984.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/202142881d4f8c20b932b94b581c0938.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292985.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV BAR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f17a72afc795aeb69406238055a55c0d.jpg" group-title="Spain ➾ Football",ES: Laliga TV BAR HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292986.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV Hypermotion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ccef25607c0695c121d55b5b40bb82a.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292987.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV Hypermotion 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8b9d814866130fd62e4ccc22e7ebffe8.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292988.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV Hypermotion 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/74600f9d2e3f5255b425f5b19f1bac1a.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292989.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Spain ➾ Football",ES: M+ Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292990.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: Movistar Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292991.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: Movistar Laliga 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292992.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: Movistar Laliga 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292993.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: Movistar Laliga 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292994.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Spain ➾ Football",ES: Movistar Laliga 5 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292995.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2d066efd0a3ae54514a638b6341b09dc.jpg" group-title="Spain ➾ Football",ES: Movistar Laliga 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292996.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LIGA DE Campeones HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292997.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/058dabf82e072bd3c9b5a2d603e2663e.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292998.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/944d8f3affc4901d79cc5addcfbc5b86.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292999.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/bb9c0cf21e8c72c3fdc6fba26405de05.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293000.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/fb5581c15168c69f0660a6be9b302ea9.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 5 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293001.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/efb329770364ccd273dc14ccee47998f.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 6 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293002.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/d8c95cea30b8bbefcc1612c74d888dd1.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293003.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 8 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/315d617ba9268669a8578865fde1cc9a.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 8 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293004.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Supercopa HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/79148067187f8eb5943300648df7176c.jpg" group-title="Spain ➾ Football",ES: Movistar Supercopa HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293005.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL Madrid TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/cfb4cf2213b836f2ca4595db71e35496.png" group-title="Spain ➾ Football",ES: REAL Madrid TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293007.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL Madrid TV 480 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/73579e6630ae02dc4c7316ee65e09a50.png" group-title="Spain ➾ Football",ES: REAL Madrid TV 480 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293008.ts
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="ES: A&E HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2ee103ec1d0a814e0e0b31cd2b03b35d.png" group-title="Spain ➾ Documentary",ES: A&E HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292845.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Crime District HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/cae0add4c12c6a739cc706f2cf399130.png" group-title="Spain ➾ Documentary",ES: Crime District HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292846.ts
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="ES: Discovery World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a5b8aa33e79a329ab8f7b4c6a6f299cc.png" group-title="Spain ➾ Documentary",ES: Discovery World HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292847.ts
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="ES: Historia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="Spain ➾ Documentary",ES: Historia HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292848.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.bg" tvg-name="ES: Investigation Discovery HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a803d238410485830062214859e54978.png" group-title="Spain ➾ Documentary",ES: Investigation Discovery HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292849.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Documentales HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7ea401e202cb4c84475bf27b8caf5b3e.jpg" group-title="Spain ➾ Documentary",ES: Movistar Documentales HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292850.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="ES: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Spain ➾ Documentary",ES: NAT GEO HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292851.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/8b10beb2a45403d532d5bc50e32ec4ad.png" group-title="Spain ➾ Movie",ES: Alquiler 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292899.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/a5aa9ceab254e0875cd95c5d1b771276.png" group-title="Spain ➾ Movie",ES: Alquiler 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292900.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/ceeb72f03b5404334a7230f6bd37dd62.png" group-title="Spain ➾ Movie",ES: Alquiler 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292901.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c3bccbd06d4b38fb9c5dc00124d50442.png" group-title="Spain ➾ Movie",ES: Alquiler 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292902.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/38473aec800cbf87bb8e59ae85bb7db3.png" group-title="Spain ➾ Movie",ES: Alquiler 5 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292903.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/94a4de37d14ae3962527d7ed55d00df3.png" group-title="Spain ➾ Movie",ES: Alquiler 6 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292904.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/3c31afff4ecddf0ef39867409c1b45f4.png" group-title="Spain ➾ Movie",ES: Alquiler 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292905.ts
+#EXTINF:-1 tvg-id="amc.bg" tvg-name="ES: AMC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png" group-title="Spain ➾ Movie",ES: AMC HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292906.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Break HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/9a21b76a7e3d1750ac4c0fbc614f50ac.jpg" group-title="Spain ➾ Movie",ES: AMC Break HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292907.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Atreseries (A3 Series) HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e3240330cb88d6a9880ac11d9d09ec8c.png" group-title="Spain ➾ Movie",ES: Atreseries (A3 Series) HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292908.ts
+#EXTINF:-1 tvg-id="axn.pl" tvg-name="ES: AXN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4b866d9fef524fa206acd7951f852b25.png" group-title="Spain ➾ Movie",ES: AXN HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292909.ts
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="ES: AXN Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/b7223b50071211ab43dfaed242a7633f.png" group-title="Spain ➾ Movie",ES: AXN Movies HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292910.ts
+#EXTINF:-1 tvg-id="axnwhite.pl" tvg-name="ES: AXN White HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/00b652e792492b5283d751cd0f17d618.png" group-title="Spain ➾ Movie",ES: AXN White HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292911.ts
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4d62b5fba837f0f26a56cf9bf7eaeaf4.png" group-title="Spain ➾ Movie",ES: BE MAD HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292912.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/6a0a43d563ee54936c256ed5a6fa3c09.png" group-title="Spain ➾ Movie",ES: BOM CINE HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292913.ts
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: Calle 13 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eb37e4ab523860367af90cc91ccd0cc3.png" group-title="Spain ➾ Movie",ES: Calle 13 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292914.ts
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: Canal Hollywood HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c73c2ebbf54973444442514e503aee41.png" group-title="Spain ➾ Movie",ES: Canal Hollywood HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292915.ts
+#EXTINF:-1 tvg-id="comedycentral.no" tvg-name="ES: Comedy Central HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/db6dade6b271dd39ebb5e9fedc50c9a6.png" group-title="Spain ➾ Movie",ES: Comedy Central HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292916.ts
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: Cosmopolitan TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54105373185aef75593582f1f169e83a.png" group-title="Spain ➾ Movie",ES: Cosmopolitan TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292917.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5f60257e029877f2a28a803b818e3787.png" group-title="Spain ➾ Movie",ES: DARK HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292918.ts
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="ES: DMAX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3fc73f3c664e7a9f6d4cb5e55d8b1478.png" group-title="Spain ➾ Movie",ES: DMAX HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292919.ts
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: Energy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9eec48e53d9b3298e44a9219d4f9b4b2.png" group-title="Spain ➾ Movie",ES: Energy HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292920.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Factoria DE Ficcion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png" group-title="Spain ➾ Movie",ES: Factoria DE Ficcion HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292921.ts
+#EXTINF:-1 tvg-id="fox.no" tvg-name="ES: FOX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="Spain ➾ Movie",ES: FOX HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292922.ts
+#EXTINF:-1 tvg-id="foxlife.us" tvg-name="ES: FOX LIFE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/cfccdca6f2eced38d196f713dccf7f2d.png" group-title="Spain ➾ Movie",ES: FOX LIFE HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292923.ts
+#EXTINF:-1 tvg-id="hbo.bg" tvg-name="ES: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/976acf130ccf46f13c6e2ccce64d3a75.png" group-title="Spain ➾ Movie",ES: HBO HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292924.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="ES: Hollywood HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/653a9bf73378390a84bfd6bde2c17b8b.jpg" group-title="Spain ➾ Movie",ES: Hollywood HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292925.ts
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: Movistar Accion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="Spain ➾ Movie",ES: Movistar Accion HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292926.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar CINE Espanol HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" group-title="Spain ➾ Movie",ES: Movistar CINE Espanol HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292927.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Clasicos HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png" group-title="Spain ➾ Movie",ES: Movistar Clasicos HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292928.ts
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: Movistar Comedia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png" group-title="Spain ➾ Movie",ES: Movistar Comedia HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292929.ts
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: Movistar Drama HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" group-title="Spain ➾ Movie",ES: Movistar Drama HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292930.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: Movistar Indie HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2f132005fa514296492b0a5328bc5a5a.jpg" group-title="Spain ➾ Movie",ES: Movistar Indie HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292931.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: Movistar Series HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e18469bf107fe1dec514244c50b2c2ed.png" group-title="Spain ➾ Movie",ES: Movistar Series HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292932.ts
+#EXTINF:-1 tvg-id="nova.bg" tvg-name="ES: NOVA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b3a6fb4467acc43181b4e9edaa4c577.png" group-title="Spain ➾ Movie",ES: NOVA HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292933.ts
+#EXTINF:-1 tvg-id="paramountnetwork.ca" tvg-name="ES: Paramount Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57ee199bc6bfdff7e9f893f47d366195.png" group-title="Spain ➾ Movie",ES: Paramount Network HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292934.ts
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="ES: Rakuten 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2a1ca75d1fd7071b9615a0dc2985186d.png" group-title="Spain ➾ Movie",ES: Rakuten 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292935.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/4b1c087a2bc0033effbe3d636677ced7.png" group-title="Spain ➾ Movie",ES: Rakuten 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292936.ts
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="ES: Rakuten 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/4b1c087a2bc0033effbe3d636677ced7.png" group-title="Spain ➾ Movie",ES: Rakuten 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292937.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/46d0707b5333f948e282383ffd34da37.png" group-title="Spain ➾ Movie",ES: Rakuten 6 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292938.ts
+#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="ES: Rakuten 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/b9301a7ca88e8f59ca5cf3e0a46a9c64.png" group-title="Spain ➾ Movie",ES: Rakuten 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292939.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/02ad784f13cdfcfa035f869efd195808.png" group-title="Spain ➾ Movie",ES: Rakuten Family HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292940.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Somos HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8c9b6e1822e83358ef5b941833b1eb62.png" group-title="Spain ➾ Movie",ES: Somos HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292941.ts
+#EXTINF:-1 tvg-id="sundancetv.pl" tvg-name="ES: Sundance TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97622498c703a53c3a8fb1e01a65a46e.png" group-title="Spain ➾ Movie",ES: Sundance TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292942.ts
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="ES: SYFY HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0d9c92679582d6c231ae5682d674104f.png" group-title="Spain ➾ Movie",ES: SYFY HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292943.ts
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/422a7522a6687373048ce8c0f84615bf.png" group-title="Spain ➾ Movie",ES: TCM HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292944.ts
+#EXTINF:-1 tvg-id="tnt.pl" tvg-name="ES: Warner TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/3e0dba7e722fcc0aa97bde3c9a2189dd.png" group-title="Spain ➾ Movie",ES: Warner TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292945.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/ceed2fe9c34a7c07b2c5330600fa0817.jpg" group-title="Spain ➾ Movie",ES: XTRM HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292946.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AFV Espanol HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/bbc55a2af6b39ef8f6b646255a88c48b.jpg" group-title="Spain ➾ LifeStyle",ES: AFV Espanol HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292860.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alacanti TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/363e4ec8c7c98aaf36016a3bfabe7c9b.jpg" group-title="Spain ➾ LifeStyle",ES: Alacanti TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292861.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alcarria TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8e5ebe505b03299cad62b100c5534114.png" group-title="Spain ➾ LifeStyle",ES: Alcarria TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292862.ts
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="ES: Antena 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png" group-title="Spain ➾ LifeStyle",ES: Antena 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292863.ts
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-name="ES: Aragon TV Internacional HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/abededaf4cd8c48665cfa1d7c7caee96.png" group-title="Spain ➾ LifeStyle",ES: Aragon TV Internacional HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292864.ts
+#EXTINF:-1 tvg-id="Baby TV.de" tvg-name="ES: Bailen TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/8a4c0db152f3f772c1b2630a473c9712.jpg" group-title="Spain ➾ LifeStyle",ES: Bailen TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292865.ts
+#EXTINF:-1 tvg-id="bet.us" tvg-name="ES: Beteve HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/3a9c09c9ff7039ab387e90f289b551ae.jpg" group-title="Spain ➾ LifeStyle",ES: Beteve HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292866.ts
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="ES: Canal 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain ➾ LifeStyle",ES: Canal 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292867.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal 25 Barbastro HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/5aced8cb711e8ae4a6ea67885917d12e.jpg" group-title="Spain ➾ LifeStyle",ES: Canal 25 Barbastro HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292868.ts
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="ES: Canal 45 TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/ceb67c27d41b01690cd6966f6e09cb41.jpg" group-title="Spain ➾ LifeStyle",ES: Canal 45 TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292869.ts
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="ES: Canal 56 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/c3a4d4591eae7ca68b95d6a83ff3be9e.jpg" group-title="Spain ➾ LifeStyle",ES: Canal 56 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292870.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Donana HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/1652acf380907ad96a7aedbf4c13b42c.png" group-title="Spain ➾ LifeStyle",ES: Canal Donana HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292871.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Extremadura HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/47589187e982b5e3975a59f045cc8c63.png" group-title="Spain ➾ LifeStyle",ES: Canal Extremadura HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292872.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Malaga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/42dc2d5e0cb9044e1b8238627be9ef53.jpg" group-title="Spain ➾ LifeStyle",ES: Canal Malaga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292873.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y Pesca HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Spain ➾ LifeStyle",ES: CAZA Y Pesca HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292874.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: Cuatro HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/acd07ea43d2313a1f42e16375f7a794b.png" group-title="Spain ➾ LifeStyle",ES: Cuatro HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292875.ts
+#EXTINF:-1 tvg-id="casatv.ca" tvg-name="ES: Decasa HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="Spain ➾ LifeStyle",ES: Decasa HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292876.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIEZ TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/71106794d78a85cfb4701890feac9baf.png" group-title="Spain ➾ LifeStyle",ES: DIEZ TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292877.ts
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: Divinity HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5f5ece61f319b103a0247b8c3ae55313.png" group-title="Spain ➾ LifeStyle",ES: Divinity HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292878.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Esperanza TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/93c1b6e28b9f3964cb15a2779ba982c6.png" group-title="Spain ➾ LifeStyle",ES: Esperanza TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292879.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Spain ➾ LifeStyle",ES: Galicia TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292880.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: GRAN Hermano HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/80f5032e9207be123f94616e79557583.jpg" group-title="Spain ➾ LifeStyle",ES: GRAN Hermano HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292881.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA Sexta HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac2bcfa19f6d1e4930d52d1000a32405.png" group-title="Spain ➾ LifeStyle",ES: LA Sexta HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292882.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Marbella TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/59d8ed19127c01bddc81c93d827536dd.jpg" group-title="Spain ➾ LifeStyle",ES: Marbella TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292883.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/ee895eda94717e3ac15fb24f8f9c930b.png" group-title="Spain ➾ LifeStyle",ES: MEGA HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292884.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LA Resistencia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/0f3011bf3bef15d3ab6682250a2ec21f.png" group-title="Spain ➾ LifeStyle",ES: Movistar LA Resistencia HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292885.ts
+#EXTINF:-1 tvg-id="#0.es" tvg-name="ES: Movistar Originales (#0) HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/0d432b9a51e5207a9bb7937ffe5dbaf7.jpg" group-title="Spain ➾ LifeStyle",ES: Movistar Originales (#0) HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292886.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Suspense HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/51454add06ff271050a79ec601480bdc.jpg" group-title="Spain ➾ LifeStyle",ES: Movistar Suspense HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292887.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar Vamos HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d00a81ac87b784df65abd482cd6bd650.jpg" group-title="Spain ➾ LifeStyle",ES: Movistar Vamos HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292888.ts
+#EXTINF:-1 tvg-id="moviestar.bg" tvg-name="ES: Movistar+ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bd59d4288fb4d9dfcb461429df8fe09.jpg" group-title="Spain ➾ LifeStyle",ES: Movistar+ HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292889.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5e420b08a7eaf0983e26f2e5d9f51764.png" group-title="Spain ➾ LifeStyle",ES: NEOX HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292890.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: Telecinco HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e30d6e2da13306ab5d858ec08ced2d6f.png" group-title="Spain ➾ LifeStyle",ES: Telecinco HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292891.ts
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: Teledeporte HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67b4e401c171416a673fb3c72d074701.png" group-title="Spain ➾ LifeStyle",ES: Teledeporte HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292892.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: Telemadrid HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/8ab16bb4ea68ca79d985bdf2e3cb6949.png" group-title="Spain ➾ LifeStyle",ES: Telemadrid HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292893.ts
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="ES: Teleonuba HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/e6a3c6a195c8a7a6a27932254e1d5e34.jpg" group-title="Spain ➾ LifeStyle",ES: Teleonuba HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292894.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: Torole TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/8effebf7a3a4b1bbd70ebf20a39f2c08.jpg" group-title="Spain ➾ LifeStyle",ES: Torole TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292895.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="ES: TVE STAR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ce9decba19f1e47cc39caa363416cdc5.png" group-title="Spain ➾ LifeStyle",ES: TVE STAR HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292896.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Musigal HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain ➾ LifeStyle",ES: TVG Musigal HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292897.ts
+#EXTINF:-1 tvg-id="bet.us" tvg-name="ES: Ubeat HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain ➾ LifeStyle",ES: Ubeat HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292898.ts
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="ES: Cacavision HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/20e52019b8a59e1af91962063d2d1568.png" group-title="Spain ➾ Nature",ES: Cacavision HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292957.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Odisea HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="Spain ➾ Nature",ES: Canal Odisea HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292958.ts
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: Iberalia TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" group-title="Spain ➾ Nature",ES: Iberalia TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292959.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ES: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e3b9d45a12bb5904d2de532e80d45214.png" group-title="Spain ➾ Nature",ES: NAT GEO WILD HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292960.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nature TIME HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/8efa95cf763cb1c9f89d65bf478f47e1.jpg" group-title="Spain ➾ Nature",ES: Nature TIME HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292961.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="ES: Bloomberg TV EMEA LIVE Event HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/376757098c4f911e9242316d025d3756.png" group-title="Spain ➾ News",ES: Bloomberg TV EMEA LIVE Event HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292963.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bloomberg TV Europe HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f1b59bb4c905f7d7a6ac45525311004f.png" group-title="Spain ➾ News",ES: Bloomberg TV Europe HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292964.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: Canal 24 Horas HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png" group-title="Spain ➾ News",ES: Canal 24 Horas HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292965.ts
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="ES: Canal Parlamento HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/fa30d53700456f40ada16540e5ba3e78.png" group-title="Spain ➾ News",ES: Canal Parlamento HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292966.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNN EN Espanol HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="Spain ➾ News",ES: CNN EN Espanol HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292967.ts
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="ES: France 24 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7ea130cc3a9970f58dc065142be9ff96.png" group-title="Spain ➾ News",ES: France 24 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292968.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ddccaaa4a4361f253c7c1ec57d8af52.png" group-title="Spain ➾ News",ES: HOLA TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292969.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RT Español HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/6b6ba3f734268bd8074211c0eeb1234f.jpg" group-title="Spain ➾ News",ES: RT Español HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292970.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="ES: RTVE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/920e3512b0534ffebdd1c31530c7aa84.png" group-title="Spain ➾ News",ES: RTVE HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292971.ts
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="ES: TVE Internacional América 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/bb5c0f3cbd298ff324d35af408d0128c.jpg" group-title="Spain ➾ News",ES: TVE Internacional América 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292972.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE Internacional Europa HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f1ae50725dffdd143c3a3100e34399ba.png" group-title="Spain ➾ News",ES: TVE Internacional Europa HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292973.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: TVE LA 1 Madrid HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e5906bbed37a53f28eee2ecf0a04a7d3.png" group-title="Spain ➾ News",ES: TVE LA 1 Madrid HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292974.ts
+#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="ES: TVG 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain ➾ News",ES: TVG 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292975.ts
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="ES: BABY TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" group-title="Spain ➾ Kids",ES: BABY TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292947.ts
+#EXTINF:-1 tvg-id="boing.it" tvg-name="ES: Boing HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dbc7afa6c6ed3ee73fbb53c33d5d42ca.jpg" group-title="Spain ➾ Kids",ES: Boing HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292948.ts
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="ES: Canal Panda HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/46c09c894cf171f499567bdababac057.png" group-title="Spain ➾ Kids",ES: Canal Panda HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292949.ts
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1f30472c5af04230e55b054e8bfe234d.png" group-title="Spain ➾ Kids",ES: CLAN TVE HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292950.ts
+#EXTINF:-1 tvg-id="disneycinemagic.de" tvg-name="ES: Disney Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1e2090e42349272d08620af54d65981a.png" group-title="Spain ➾ Kids",ES: Disney Channel HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292951.ts
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="ES: Disney Junior HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cda21230d303c9e299518f56cddf9b76.png" group-title="Spain ➾ Kids",ES: Disney Junior HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292952.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dreamworks TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/d564b8954fcbbaf57132329cde5e2222.png" group-title="Spain ➾ Kids",ES: Dreamworks TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292953.ts
+#EXTINF:-1 tvg-id="nickjr.de" tvg-name="ES: NICK Junior HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/622f473506c6e3ea09edd4d0d0d3e7ef.png" group-title="Spain ➾ Kids",ES: NICK Junior HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292954.ts
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="ES: Nickelodeon HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5c0d67120f875960ab87b5db7e8969a2.png" group-title="Spain ➾ Kids",ES: Nickelodeon HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292955.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Pequeradio HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7c842fe587ef56ab2e377b6edd4393fd.jpg" group-title="Spain ➾ Kids",ES: Pequeradio HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292956.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Activa TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/e5d2c412b61b8b5ad65ff3770985a281.png" group-title="Spain ➾ Music",ES: Activa TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292852.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cadena Elite HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/2def43dcbb50dcc62378aa751474795d.jpg" group-title="Spain ➾ Music",ES: Cadena Elite HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292853.ts
+#EXTINF:-1 tvg-id="metv.us" tvg-name="ES: Mezzo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/4ee2eb77827c3a080de519cab32b85ff.png" group-title="Spain ➾ Music",ES: Mezzo HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292854.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mezzo LIVE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/68c2bdd2b7e2a151f34aba54d4be9c90.png" group-title="Spain ➾ Music",ES: Mezzo LIVE HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292855.ts
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="ES: Molahits TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/17073835bc7b38b48d7eb3089eed8b50.jpg" group-title="Spain ➾ Music",ES: Molahits TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292856.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Musica HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/747511a34f7e032a0cf6b4d33a6b827a.jpg" group-title="Spain ➾ Music",ES: Movistar Musica HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292857.ts
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="ES: MTV Espana HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" group-title="Spain ➾ Music",ES: MTV Espana HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292858.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Portal Foxmix HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6615871ada34264dc08b275370b212f.jpg" group-title="Spain ➾ Music",ES: Portal Foxmix HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292859.ts
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Spain ➾ Food",ES: Canal Cocina HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292962.ts
