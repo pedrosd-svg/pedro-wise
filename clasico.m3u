@@ -1,32 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LaLiga ES" tvg-logo="" group-title="CLASICO",DAZN LaLiga ES
-http://ultimeiptv.net:8080/92222075/92222075/56020
-
-#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN La Liga 1 SD" tvg-logo="" group-title="CLASICO",|ES| DAZN La Liga 1 SD
-http://kral.kralsmart.xyz:2086/kRWwA6gdLU/6LNeVkdgjb/167821
-#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN La Liga 1 HD" tvg-logo="" group-title="CLASICO",|ES| DAZN La Liga 1 HD
-http://kral.kralsmart.xyz:2086/kRWwA6gdLU/6LNeVkdgjb/167822
-
-#EXTINF:-1 tvg-id="" tvg-name="ES | LA LIGA BAR HD" tvg-logo="https://i.imgur.com/SlbNL2Z.png" group-title="CLASICO",ES | LA LIGA BAR HD
-http://xcmaster.live:8080/hY9bk98SHq/BptGdQT9F5/314604
-#EXTINF:-1 tvg-id="" tvg-name="ES | LA LIGA BAR FHD" tvg-logo="https://i.imgur.com/SlbNL2Z.png" group-title="CLASICO",ES | LA LIGA BAR FHD
-http://xcmaster.live:8080/hY9bk98SHq/BptGdQT9F5/314605
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="CLASICO",LaLiga TV Bar ES
-http://95.214.235.18:8080/D86pUJmYes/m99GaX2JFw/1062
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaTV FHD ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="CLASICO",LaLigaTV FHD ES
-http://95.214.235.18:8080/D86pUJmYes/m99GaX2JFw/6069
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/daznLaLiga.png" group-title="CLASICO",ES: DAZN LA LIGA HD
-http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/430776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA SD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/daznLaLiga.png" group-title="CLASICO",ES: DAZN LA LIGA SD
-http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/430778.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA BAR HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/laligaBar.png" group-title="CLASICO",ES: LA LIGA BAR HD
-http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/220975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA BAR FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/laligaBar.png" group-title="CLASICO",ES: LA LIGA BAR FHD
-http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/220934.m3u8
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES: LA LIGA BAR HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LALIGA.png" group-title="CLASICO",ES: LA LIGA BAR HEVC
-http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/240135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="INTERNET VPN",ES: DAZN Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292980.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV BAR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f17a72afc795aeb69406238055a55c0d.jpg" group-title="INTERNET VPN",ES: Laliga TV BAR HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292986.ts
+
+#EXTINF:-1 tvg-ID="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="INTERNET VPN",ES: (HD) DAZN LALIGA
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/243
+#EXTINF:-1 tvg-ID="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="INTERNET VPN",ES: (HD REPUESTO) DAZN LALIGA
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/244
+#EXTINF:-1 tvg-ID="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="INTERNET VPN",ES: (HD REPUESTO2) DAZN LALIGA
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/147167
+#EXTINF:-1 tvg-ID="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="INTERNET VPN",ES: (FHD) DAZN LALIGA
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/97138
+#EXTINF:-1 tvg-ID="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="INTERNET VPN",ES: (FHD REPUESTO) DAZN LALIGA
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/97193
+
+
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR FHD - HEVC" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/tv-bar-temporada23-24.png" group-title="MIOS",DRAGON LALIGA TV BAR
+http://68703.tvdev.club/live/TV-56494891/493659703456/101681.m3u8
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR" tvg-logo="https://noos.vip/logo/ES/laligatvbar.png" group-title="MIOS",DRAGON LALIGA TV BAR
+http://68703.tvdev.club/live/TV-56494891/493659703456/101682.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="MIOS",DRAGON DAZN LALIGA FHD (HEVC)
+http://68703.tvdev.club/live/TV-56494891/493659703456/109316.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="MIOS",DRAGON DAZN LALIGA FHD
+http://68703.tvdev.club/live/TV-56494891/493659703456/109317.m3u8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="MIOS",DRAGON DAZN LALIGA
+http://68703.tvdev.club/live/TV-56494891/493659703456/109319.m3u8
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="MIOS",SPORTIUM DAZN LALIGA FHD (HEVC)
+http://26854.sportiumvip.xyz/live/TV-12778195/390036048374/109316.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="MIOS",SPORTIUM DAZN LALIGA FHD
+http://26854.sportiumvip.xyz/live/TV-12778195/390036048374/109317.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="MIOS",SPORTIUM DAZN LALIGA
+http://26854.sportiumvip.xyz/live/TV-12778195/390036048374/109319.ts
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="MIOS",4 MES (HD) DAZN LALIGA
+http://vipccrcscx.top:8080/VIP015651754332198535/abe70f8bd7cc/243
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="MIOS",4 MES  (HD REPUESTO) DAZN LALIGA
+http://vipccrcscx.top:8080/VIP015651754332198535/abe70f8bd7cc/244
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="MIOS",4 MES  (HD REPUESTO2) DAZN LALIGA
+http://vipccrcscx.top:8080/VIP015651754332198535/abe70f8bd7cc/147167
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="MIOS",4 MES  (FHD) DAZN LALIGA
+http://vipccrcscx.top:8080/VIP015651754332198535/abe70f8bd7cc/97138
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="MIOS",4 MES  (FHD REPUESTO) DAZN LALIGA
+http://vipccrcscx.top:8080/VIP015651754332198535/abe70f8bd7cc/97193
