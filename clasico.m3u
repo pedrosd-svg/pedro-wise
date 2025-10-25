@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LaLiga ES" tvg-logo="" group-title="CLASICO",DAZN LaLiga ES
+http://ultimeiptv.net:8080/92222075/92222075/56020
+
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN La Liga 1 SD" tvg-logo="" group-title="CLASICO",|ES| DAZN La Liga 1 SD
+http://kral.kralsmart.xyz:2086/kRWwA6gdLU/6LNeVkdgjb/167821
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN La Liga 1 HD" tvg-logo="" group-title="CLASICO",|ES| DAZN La Liga 1 HD
+http://kral.kralsmart.xyz:2086/kRWwA6gdLU/6LNeVkdgjb/167822
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA LIGA BAR HD" tvg-logo="https://i.imgur.com/SlbNL2Z.png" group-title="CLASICO",ES | LA LIGA BAR HD
+http://xcmaster.live:8080/hY9bk98SHq/BptGdQT9F5/314604
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA LIGA BAR FHD" tvg-logo="https://i.imgur.com/SlbNL2Z.png" group-title="CLASICO",ES | LA LIGA BAR FHD
+http://xcmaster.live:8080/hY9bk98SHq/BptGdQT9F5/314605
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="CLASICO",LaLiga TV Bar ES
+http://95.214.235.18:8080/D86pUJmYes/m99GaX2JFw/1062
+#EXTINF:-1 tvg-id="" tvg-name="LaLigaTV FHD ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="CLASICO",LaLigaTV FHD ES
+http://95.214.235.18:8080/D86pUJmYes/m99GaX2JFw/6069
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/daznLaLiga.png" group-title="CLASICO",ES: DAZN LA LIGA HD
+http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/430776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA SD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/daznLaLiga.png" group-title="CLASICO",ES: DAZN LA LIGA SD
+http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/430778.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA BAR HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/laligaBar.png" group-title="CLASICO",ES: LA LIGA BAR HD
+http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/220975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA BAR FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/laligaBar.png" group-title="CLASICO",ES: LA LIGA BAR FHD
+http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/220934.m3u8
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES: LA LIGA BAR HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LALIGA.png" group-title="CLASICO",ES: LA LIGA BAR HEVC
+http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/240135.m3u8
+
