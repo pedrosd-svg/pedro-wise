@@ -1,0 +1,789 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES:BEIN LALIGA 1HD" tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:BEIN LALIGA 1HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12300
+#EXTINF:-1 tvg-id="" tvg-name="ES:BEIN SPORTS LA LIGA HD" tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:BEIN SPORTS LA LIGA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12301
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="ES:MOVISTAR DEPORTE 2 HD" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTE 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12302
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES:MOVISTAR DEPORTE 3 HD" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTE 3 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12303
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES:DAZN LA LIGA 2 TV HD" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DAZN LA LIGA 2 TV HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12304
+#EXTINF:-1 tvg-id="" tvg-name="ES:BEIN SPORTS FHD" tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:BEIN SPORTS FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12305
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:MOVISTAR LA LIGA HD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR LA LIGA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12306
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:MOVISTAR DEPORTES HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTES HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12307
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="ES:MOVISTAR ACCION HD" tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR ACCION HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12308
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES:MOVISTAR DRAMA HD" tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DRAMA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12309
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="ES:COMEDY CENTRAL" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:COMEDY CENTRAL
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12311
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="ES: MOVISTAR CINE ESPAÑOL" tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: MOVISTAR CINE ESPAÑOL
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12313
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES" tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:AXN MOVIES
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12320
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES:NICKELODEON" tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:NICKELODEON
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12322
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="ES:CALLE 13 HD" tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CALLE 13 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12323
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="ES:Fox" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Fox
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12324
+#EXTINF:-1 tvg-id="Neox" tvg-name="ES:Neox HD" tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Neox HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12326
+#EXTINF:-1 tvg-id="Energy" tvg-name="ES:Energy HD" tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Energy HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12327
+#EXTINF:-1 tvg-id="Clan" tvg-name="ES:CLAN TVE" tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CLAN TVE
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12329
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ES:Telecinco HD" tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Telecinco HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12330
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES:Cuatro HD" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Cuatro HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12331
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES:Antena 3 HD" tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Antena 3 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12332
+#EXTINF:-1 tvg-id="La 2" tvg-name="ES:La 2 HD" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:La 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12333
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES:La 1 HD" tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:La 1 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12334
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES:LA 1 HD HEVC" tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:LA 1 HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12335
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="ES:WARNER HD" tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:WARNER HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12336
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ES:#VAMOS HD" tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:#VAMOS HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12338
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="ES:MOVISTAR SERIES HD" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR SERIES HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12339
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="ES:24 HORAS" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:24 HORAS
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12340
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANNEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DISNEY CHANNEL HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12341
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="ES:ACCION HD" tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:ACCION HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12342
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:IBERALIA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12343
+#EXTINF:-1 tvg-id="Historia" tvg-name="ES:HISTORIA" tvg-logo="https://i.ibb.co/zXCLxtt/HIST.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:HISTORIA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12344
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:MOVISTAR DEPORTES FHD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTES FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12345
+#EXTINF:-1 tvg-id="M+ Suspense HD" tvg-name="ES:MOVISTAR SUSPENSE" tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR SUSPENSE
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12347
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES:DAZN 1 SD" tvg-logo="https://i.ibb.co/rmvhsK3/M1SD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DAZN 1 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12348
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES:Odisea HD" tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Odisea HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12349
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:Movistar LaLiga HD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Movistar LaLiga HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12350
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES:COSMO" tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:COSMO
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12351
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES:MOVISTAR DRAMA HD HEVC" tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DRAMA HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12352
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:MOVISTAR DEPORTESHD HEVC" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTESHD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12353
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="ES:LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="https://i.ibb.co/JqW00RS/LIGBAR.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:LA LIGA TV BAR 1 [LIVE-EVENT]
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12354
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES:HOLLYWOODHD HEVC" tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:HOLLYWOODHD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12355
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="ES:FOX HD HEVC" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:FOX HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12357
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="ES:EUROSPORT 1 HD HEVC" tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:EUROSPORT 1 HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12358
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="ES:COMEDY CENTRAL HD HEVC" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:COMEDY CENTRAL HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12359
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ES:#VAMOS HD HEVC" tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:#VAMOS HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12360
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:AMC BREAK
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12365
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="ES:BABY TV" tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:BABY TV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12366
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="ES:MOVISTAR ORIGINALES HD" tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR ORIGINALES HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12367
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="ES:24 Horas HD" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:24 Horas HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12368
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ES:A3 Series HD" tvg-logo="https://i.ibb.co/MPXTDdd/ATRESS.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:A3 Series HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12369
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:MOVISTAR LALIGA HD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR LALIGA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12370
+#EXTINF:-1 tvg-id="Bloomberg TV Europe" tvg-name="ES:BLOOMBERG" tvg-logo="https://i.ibb.co/MRzq0f4/BL.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:BLOOMBERG
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12371
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF HD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12372
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES:CANAL ODISEA" tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CANAL ODISEA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12373
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="ES:CANAL SUR" tvg-logo="https://i.ibb.co/0jvhmDR/CANSUR.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CANAL SUR
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12374
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES:AMC CRIME" tvg-logo="https://i.ibb.co/DVwmC0m/CYM.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:AMC CRIME
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12375
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES:DISCOVERY HD" tvg-logo="https://i.ibb.co/0C4srzC/DCR.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DISCOVERY HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12376
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES:DMAX" tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DMAX
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12377
+#EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-name="ES:GALICIA TV" tvg-logo="https://i.ibb.co/GCgcy78/TVGAL.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:GALICIA TV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12379
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:Movistar LaLiga" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Movistar LaLiga
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12380
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="ES:MOVISTAR DEPORTES 2 HD" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTES 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12382
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="ES:MOVISTAR COMEDIA HD" tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR COMEDIA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12383
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="ES:MOVISTAR SERIE HD" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR SERIE HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12384
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES:TOROLE TV HD" tvg-logo="https://i.ibb.co/St6Dg05/torole.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TOROLE TV HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12392
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES:TRECE TV" tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TRECE TV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12393
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="ES:TVE 24H" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TVE 24H
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12394
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="ES:Teledeporte HD" tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Teledeporte HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12395
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ES:MADRID TV HD" tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MADRID TV HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12396
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES:DAZN F1 HD" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DAZN F1 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12397
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF FHD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12398
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:Movistar Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Movistar Deportes HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12399
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA TV" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:IBERALIA TV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12400
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="ES:GOL PLAY" tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:GOL PLAY
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12401
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES:Movistar Liga de Campeones HD" tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Movistar Liga de Campeones HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12404
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES:MEZZO LIVE HD" tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MEZZO LIVE HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12405
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES:Mega HD" tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Mega HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12406
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="ES:FOX HD" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:FOX HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12408
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="ES:FDF HD" tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:FDF HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12409
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES:DKISS" tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DKISS
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12410
+#EXTINF:-1 tvg-id="Divinity" tvg-name="ES:Divinity HD" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Divinity HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12411
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DISNEY CHANEL HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12412
+#EXTINF:-1 tvg-id="Divinity" tvg-name="ES:DIVINITY SD" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DIVINITY SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12413
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES:Disney Jr" tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Disney Jr
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12414
+#EXTINF:-1 tvg-id="Decasa" tvg-name="ES:CANAL DECASA" tvg-logo="https://i.ibb.co/GM66GvR/DECASA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CANAL DECASA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12415
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES:Cosmo HD" tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Cosmo HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12416
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="ES:Comedy Central HD" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Comedy Central HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12417
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="ES:CANAL COCINA" tvg-logo="https://i.ibb.co/x2VVRrS/CACOC.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CANAL COCINA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12418
+#EXTINF:-1 tvg-id="Clan" tvg-name="ES:CLAN TVE" tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CLAN TVE
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12419
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES:Caza y Pesca HD" tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Caza y Pesca HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12420
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="ES:CALLE 13 HD" tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:CALLE 13 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12421
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:AMC BREAK
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12422
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="ES:Be Mad HD" tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Be Mad HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12423
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES HD" tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:AXN MOVIES HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12425
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES:AXN HD" tvg-logo="https://i.ibb.co/CH7Fr1q/AXN.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:AXN HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12426
+#EXTINF:-1 tvg-id="Aragón TV" tvg-name="ES:ARAGON TV" tvg-logo="https://i.ibb.co/bPwWv5J/ARAGTV.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:ARAGON TV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12427
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES:AMC HD" tvg-logo="https://i.ibb.co/3f0jppr/AMC.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:AMC HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12428
+#EXTINF:-1 tvg-id="Nova" tvg-name="ES:Nova HD" tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Nova HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12429
+#EXTINF:-1 tvg-id="Boing" tvg-name="ES:Boing HD" tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Boing HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12430
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES:HOLLYWOOD HD" tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:HOLLYWOOD HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12431
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES:XTRM" tvg-logo="https://i.ibb.co/jRTVnt5/XTRM.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:XTRM
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12432
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="ES:BUEN VIAJE HD" tvg-logo="https://i.ibb.co/PT2Rthq/BUENV.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:BUEN VIAJE HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12433
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="ES:WARNER SD" tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:WARNER SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12434
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ES:TELEMADRID HD" tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TELEMADRID HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12435
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES:TCM HD" tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TCM HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12436
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="ES:SYFY HD" tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:SYFY HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12437
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="ES:SUNDANCE HD" tvg-logo="https://i.ibb.co/vh9Qz0V/SUNDAN.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:SUNDANCE HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12438
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="ES:PARAMOUNT NETWORK" tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:PARAMOUNT NETWORK
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12439
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="ES:ENFAMILIA" tvg-logo="https://i.ibb.co/Fmkk9Cj/PANDA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:ENFAMILIA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12440
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES:ODISEA" tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:ODISEA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12441
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES:NICKELODEON HD" tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:NICKELODEON HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12442
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="ES:NICK JUNIOR" tvg-logo="https://i.ibb.co/GdZ5DBF/NICKJR.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:NICK JUNIOR
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12443
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES:NAT GEO WILD HD" tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:NAT GEO WILD HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12444
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES:NAT GEOGRAPHIC HD" tvg-logo="https://i.ibb.co/cwt5sVk/NATGEO.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:NAT GEOGRAPHIC HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12445
+#EXTINF:-1 tvg-id="MTV España" tvg-name="ES:MTV ESPAÑA" tvg-logo="https://i.ibb.co/fDHQk0m/MTV.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MTV ESPAÑA
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12446
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="ES:MOVISTAR CINE HD" tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR CINE HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12447
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="ES:MOVISTAR CINE ESPAÑOL HD" tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR CINE ESPAÑOL HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12448
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANNEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:DISNEY CHANNEL HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12449
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="ES:MOVISTAR ACCION HD" tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR ACCION HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12450
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ES:La Sexta HD" tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:La Sexta HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12451
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES:Cuatro HD" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Cuatro HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12452
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES:Antena 3 HD" tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Antena 3 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12453
+#EXTINF:-1 tvg-id="La 2" tvg-name="ES:TVE LA 2 HD" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TVE LA 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12454
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES:TVE LA 1 HD" tvg-logo="1 mes por € 6.99 3 meses por € 14.99 6 meses por € 29.99 1 año por € 49.99" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TVE LA 1 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12455
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="ES:MOVISTAR COMEDIA HD HEVC" tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR COMEDIA HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12457
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 UHD" tvg-name="ES:MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]" tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12458
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES:MOVISTAR LIGA CAMPEONES HEVC" tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MOVISTAR LIGA CAMPEONES HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12459
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES:MEZZO LIVE HD HEVC" tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:MEZZO LIVE HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12460
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES:NATIONAL GEO WILD HD HEVC" tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:NATIONAL GEO WILD HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12461
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="ES:SYFY HD HEVC" tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:SYFY HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12462
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES:TCM HD HEVC" tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:TCM HD HEVC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12463
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:Movistar LaLiga" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Movistar LaLiga
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12465
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES:Movistar Liga de Campeones" tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Movistar Liga de Campeones
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12468
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:Movistar Deportes" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Movistar Deportes
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12470
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ES:ETB 1 HD" tvg-logo="https://i.ibb.co/df6vD3x/ETB1.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:ETB 1 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12471
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="ES:ETB 2 HD" tvg-logo="https://i.ibb.co/Z22CRth/ETB2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:ETB 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12476
+#EXTINF:-1 tvg-id="ETB Sat" tvg-name="ES:ETB Basque" tvg-logo="https://i.ibb.co/2dc5DnM/ETB-Basque-2022-logo-svg.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:ETB Basque
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12485
+#EXTINF:-1 tvg-id="" tvg-name="ES:Eurosport 2 HD" tvg-logo="https://i.ibb.co/1fvRMsJ/ESP2.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES:Eurosport 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/247837
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 HD" tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: Eurosport 1 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/247838
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACTIVA TV HD" tvg-logo="" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: ACTIVA TV HD
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ATRESERIES " tvg-logo="" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: ATRESERIES
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/257728
+#EXTINF:-1 tvg-id="" tvg-name="ES: CADENA ELITE DASH" tvg-logo="https://cdn.m3u.cl/logo/1075_Cadena_Elite.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: CADENA ELITE DASH
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RNE PARA TODOS DASH" tvg-logo="" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: RNE PARA TODOS DASH
+https://ztnr.rtve.es/ztnr/6688753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE STAR DASH" tvg-logo="" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: TVE STAR DASH
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL RED" tvg-logo="" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: CANAL RED
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265590
+#EXTINF:-1 tvg-id="" tvg-name="ES: OUT TV" tvg-logo="" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: OUT TV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265670
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL QUICKIE" tvg-logo="https://www.tivify.es/wp-content/uploads/2024/06/Canal-Quickie-web-150x150.png.webp" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: CANAL QUICKIE
+https://daiconnect.com/live/hls/tvup/tivify-canalquickie/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TODO NOVELAS" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/09/Todo-novelas.png" group-title="→ ESPAÑA ←" group-title="→ ESPAÑA ←",ES: TODO NOVELAS
+https://daiconnect.com/live/hls/tvup/tvfy-FNovelas/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA  FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60244
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60261
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60262
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60263
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA HD (H.265)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60264
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LA LIGA UHD 4K
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 SD" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA 2 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60267
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60268
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA 2 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60269
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LA LIGA 3 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60270
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN LA LIGA 4 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60271
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN F1 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60349
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN F1 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60350
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN F1 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60351
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD (50 FPS)" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN F1 HD (50 FPS)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60352
+#EXTINF:-1 tvg-id="" tvg-name="DAZN  F1 [Low Conx]" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN  F1 [Low Conx]
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60353
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 1 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60354
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN FHD 1
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60356
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 2 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60357
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60358
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 2 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60359
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 3 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60361
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 3 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60362
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 4 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60363
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",DAZN 4 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60364
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",ES | DAZN 1 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12361
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",ES | DAZN 2 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12362
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",ES | DAZN 3
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12364
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="→ ESPAÑA DAZN ←" group-title="→ ESPAÑA DAZN ←",ES | DAZN 4 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/12363
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ED• M+ VAMOS (HD) »1«" tvg-logo="https://i.ibb.co/VD98408/descarga.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ VAMOS (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60323
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ED• M+ VAMOS (HD) »2«" tvg-logo="https://i.ibb.co/VD98408/descarga.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ VAMOS (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60324
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ED• M+ VAMOS (HD) »3«" tvg-logo="https://i.ibb.co/VD98408/descarga.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ VAMOS (HD) »3«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60325
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ED• M+ DEPORTES (HD) »1«" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/25795
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ED• M+ DEPORTES (HD) »2«" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/25800
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ED• M+ DEPORTES (HD) »3«" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES (HD) »3«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/25801
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 2 (HD) »1«" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 2 (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60331
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 2 (HD) »2«" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 2 (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60332
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 3 (HD) »1«" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 3 (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60333
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 3 (HD) »2«" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 3 (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60334
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 4 (HD) »1«" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 4 (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60335
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 4 (HD) »2«" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 4 (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60336
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 5 (HD) »1«" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 5 (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60337
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 5 (HD) »2«" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 5 (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60338
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ DEPORTES 6 (HD) »1«" tvg-logo="https://i.ibb.co/7XwzxKy/MULTI8.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ DEPORTES 6 (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60339
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ED• M+ ELLAS (HD) »1«" tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ ELLAS (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60340
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ED• M+ ELLAS (HD) »2«" tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ ELLAS (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60341
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ED• M+ ELLAS (HD) »3«" tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ ELLAS (HD) »3«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60342
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ED• M+ GOLF (HD) »1«" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ GOLF (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60343
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ED• M+ GOLF (HD) »2«" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ GOLF (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60344
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ED• M+ GOLF (HD) »3«" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ GOLF (HD) »3«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60345
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+  GOLF 2 (HD) »1«" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+  GOLF 2 (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60346
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ GOLF 2 (HD) »2«" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ GOLF 2 (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60347
+#EXTINF:-1 tvg-id="" tvg-name="ED• M+ GOLF 2 (HD) »3«" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• M+ GOLF 2 (HD) »3«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60348
+#EXTINF:-1 tvg-id="" tvg-name="ED• ONETORO (HD) »1«" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• ONETORO (HD) »1«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236540
+#EXTINF:-1 tvg-id="" tvg-name="ED• ONETORO (HD) »2«" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• ONETORO (HD) »2«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236541
+#EXTINF:-1 tvg-id="" tvg-name="ED• ONETORO (HD) »3«" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ED• ONETORO (HD) »3«
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236542
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV DASH" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: REAL MADRID TV DASH
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC" tvg-logo="https://yt3.googleusercontent.com/gf1V6XGYNe3dG5paixxaQuGkrsZGjgPOAGeAGdHWhWF94Sr2uOt5Pi9WuX08YMxlkcWOvs3rjnc=s900-c-k-c0x00ffffff-no-rj" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: SEVILLA FC
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/256749
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOP Barça DASH" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: TOP Barça DASH
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=2b7dfe92-859a-4b74-8909-ce6960a37a65&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIFA+ DASH" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e37664a3-8cb2-4f78-b683-8ed89d108924.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: FIFA+ DASH
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=32ac6101-ee3f-4b5f-a393-a383ab527789&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
+#EXTINF:-1 tvg-id="" tvg-name="ES: MyPadel TV DASH" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: MyPadel TV DASH
+https://daiconnect.com/live/hls/tvup/rk-mypadeltv/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=4399&ads_rtv_content_language=spa&ads_streaming_id=0c819437-7b48-400d-9783-a604517507ff&ads_tcs_channel_id=929&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga Inside DASH" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: LaLiga Inside DASH
+https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=25da1304-5015-41a1-a9a8-54d95ffecca6&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="" tvg-name="ES: FUEL TV DASH" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: FUEL TV DASH
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4802&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=aee25891-1fc6-44ae-967e-7ff8ea897101&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="" tvg-name="ES: World Billiards TV DASH" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: World Billiards TV DASH
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hard Knocks Fighting Championship DASH" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: Hard Knocks Fighting Championship DASH
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.csid=zeus_eu_hardknocks_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=fa3625fd-d194-41c7-905d-9d9a8dc68c11&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=HardKnocks&ads.xumo_streamId=88883037
+#EXTINF:-1 tvg-id="" tvg-name="ES: GLORY Kickboxing DASH" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: GLORY Kickboxing DASH
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: USGA DASH" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/32f1ce41-3762-4fed-8871-b14acc14277d-usga-1622457489.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: USGA DASH
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=USGA&ads.csid=zeus_eu_usga_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3273&ads.rakuten_streaming_id=f2b82d0a-b761-47fe-97c1-44c1f07cc3e7&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883058&ads.xumo_contentId=1829&ads.xumo_contentName=USGA&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1829&ads.xumo_providerName=USGA&ads.xumo_streamId=88883058
+#EXTINF:-1 tvg-id="" tvg-name="ES: Surf Channel DASH" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: Surf Channel DASH
+https://fdd0a769b16845d981dce6fd9c9f6195.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_SurfChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Motorsport.tv DASH" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/d1e02c44-7aa4-443e-aa8d-e5bd1389b9a3.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: Motorsport.tv DASH
+https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MAVTV Motorsports Network DASH" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/87aa040f-78e1-44f4-89bd-3afb3991db9f.jpeg" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: MAVTV Motorsports Network DASH
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Red Bull TV DASH" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/afe53397-ce7d-4788-93b3-dfbff54d309a.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: Red Bull TV DASH
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTORVISION.TV DASH" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1c0727dc-17ab-4c8b-b6d9-3b300fb3f458.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: MOTORVISION.TV DASH
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=3c59a9bf-0008-43e8-82ff-ec4cea68b528&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish&ads.xumo_streamId=88883004
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 1" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 1
+https://ztnr.rtve.es/ztnr/6712432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 2" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 2
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve18_main_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 3" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 3
+https://rtvelivestream.akamaized.net/eventual/oca/irtve19_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE 4" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE 4
+https://rtvelivestream.akamaized.net/eventual/oca/irtve20_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 5" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 5
+https://rtvelivestream.akamaized.net/eventual/oca/irtve21_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 6" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 6
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve22_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 7" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 7
+https://rtvelivestream.akamaized.net/eventual/oca/irtve23_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 8" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 8
+https://rtvelivestream.akamaized.net/eventual/oca/irtve24_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE PLAY 9" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: RTVE PLAY 9
+https://rtvelivestream.akamaized.net/eventual/oca/irtve26_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV Dash" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Realmadrid TV Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258831
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Motor Dash" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Pluto TV Motor Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258832
+#EXTINF:-1 tvg-id="" tvg-name="Tuning Dash" tvg-logo="https://stitcher.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Tuning Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258833
+#EXTINF:-1 tvg-id="" tvg-name="Monster Jam Dash" tvg-logo="https://images.pluto.tv/channels/65c347ae3a116800078c93c5/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Monster Jam Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258834
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Deportes Dash" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Pluto TV Deportes Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258835
+#EXTINF:-1 tvg-id="" tvg-name="PFL MMA Dash" tvg-logo="https://images.pluto.tv/channels/654a5f7d4d6d8f00084ecaac/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",PFL MMA Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258836
+#EXTINF:-1 tvg-id="" tvg-name="Unbeaten Sports Dash" tvg-logo="https://images.pluto.tv/channels/64c3af96e4391c0008e16d17/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Unbeaten Sports Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258837
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Classic Wrestling Dash" tvg-logo="https://images.pluto.tv/channels/65251b51c52b3600083d2d9e/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Ultimate Classic Wrestling Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258838
+#EXTINF:-1 tvg-id="" tvg-name="Triton Poker Dash" tvg-logo="https://images.pluto.tv/channels/66275d2d039f940008cc47b4/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Triton Poker Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258839
+#EXTINF:-1 tvg-id="" tvg-name="World Poker Tour Dash" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",World Poker Tour Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258840
+#EXTINF:-1 tvg-id="" tvg-name="Top Gear Dash" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",Top Gear Dash
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/258830
+#EXTINF:-1 tvg-id="" tvg-name="ESPORT 3" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ESPORT 3
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←" group-title="→ ESPAÑA DEPORTES ←",ES: BETIS TV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265587
+#EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+  LA LIGA SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60235
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60236
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60237
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60238
+#EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA FHD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+  LA LIGA FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60239
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA  FHD (FIBRA)" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA  FHD (FIBRA)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60240
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD  (FIBRA 2)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA FHD  (FIBRA 2)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60241
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD ( FIBRA 3)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA FHD ( FIBRA 3)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60242
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD (H.265)" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA FHD (H.265)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60243
+#EXTINF:-1 tvg-id="" tvg-name="M+LA LIGA FHD ( OP B)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+LA LIGA FHD ( OP B)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60245
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA 4K
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60246
+#EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA 2 FHD (FIBRA)" tvg-logo="https://i.ibb.co/8bnKBps/MLIG1.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+  LA LIGA 2 FHD (FIBRA)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60249
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 2 SD" tvg-logo="https://i.ibb.co/8bnKBps/MLIG1.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA 2 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60250
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2 HD" tvg-logo="https://i.ibb.co/8bnKBps/MLIG1.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LALIGA 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60251
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 3 FHD" tvg-logo="https://i.ibb.co/tCDG3Z3/MLIG2.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LALIGA 3 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60252
+#EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+  LA LIGA 4 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60253
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LALIGA 4 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60254
+#EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+  LA LIGA 5 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60255
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LALIGA 5 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60256
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LALIGA 5 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60257
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA 6 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60258
+#EXTINF:-1 tvg-id="" tvg-name="M+ COPA DEL REY (EVENTO)" tvg-logo="https://i.ibb.co/VJ3n1D2/Copa-del-Rey256x.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",M+ COPA DEL REY (EVENTO)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60260
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION  SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION  SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60309
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION  HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION  HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60310
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LALIGA TV HYPERMOTION FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60311
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60312
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION  FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60313
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION 2 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60314
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LALIGA TV HYPERMOTION 2 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60316
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60315
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION 3 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60317
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV HYPERMOTION 3 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60318
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YE4Z35BWVyQvicFP7ptgLBzA2hVuxQ0b4Q&s" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LA LIGA TV BAR FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60319
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA BAR TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YE4Z35BWVyQvicFP7ptgLBzA2hVuxQ0b4Q&s" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",ES: LIGA BAR TV FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/254286
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV FHD (INGLES)" tvg-logo="" group-title="→ ESPAÑA LA LIGA ←" group-title="→ ESPAÑA LA LIGA ←",LALIGA TV FHD (INGLES)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/256385
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60279
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60280
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60283
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES HD(OP B)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES HD(OP B)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60281
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES FHD (OP B)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES FHD (OP B)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60287
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES FHD (RAW)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES FHD (RAW)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60282
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES FHD (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA CAMPEONES FHD (FIBRA)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60284
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES FHD (ORANGE)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES FHD (ORANGE)
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60285
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 2 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60286
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 2 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60288
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60305
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 3
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60289
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 SD" tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 3 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60290
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 3 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60291
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 3 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60292
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 4
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60293
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 SD" tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 4 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60294
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 HD" tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 4 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60295
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 FHD" tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 4 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60296
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="https://i.ibb.co/VqBdzJs/CHAP4.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 5
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60297
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 SD" tvg-logo="https://i.ibb.co/VqBdzJs/CHAP4.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 5 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60298
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 HD" tvg-logo="https://i.ibb.co/VqBdzJs/CHAP4.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 5 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60299
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 FHD" tvg-logo="https://i.ibb.co/VqBdzJs/CHAP4.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 5 FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60300
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 6" tvg-logo="https://i.ibb.co/mhpPZkN/CHAP5.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 6
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60301
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 6 SD" tvg-logo="https://i.ibb.co/mhpPZkN/CHAP5.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 6 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60302
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 7 HD" tvg-logo="https://i.ibb.co/LzTt2GW/CHAP6.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 7 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60303
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 8 HD" tvg-logo="https://i.ibb.co/k5GcLH8/CHAP7.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←" group-title="→ ESPAÑA LIGA DE CAMPEONES ←",M+ LIGA DE CAMPEONES 8 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/60304
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 1 SD" tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | LA 1 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236478
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 1 HD" tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | La 1 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236479
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 2 SD" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | LA 2 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236480
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 2 HD" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | La 2 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236481
+#EXTINF:-1 tvg-id="" tvg-name="ES | Antena 3 SD" tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Antena 3 SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236482
+#EXTINF:-1 tvg-id="" tvg-name="ES | Antena 3 HD" tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Antena 3 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236483
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cuatro SD" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Cuatro SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236484
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cuatro HD" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Cuatro HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236485
+#EXTINF:-1 tvg-id="" tvg-name="ES | Telecinco SD" tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Telecinco SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236486
+#EXTINF:-1 tvg-id="" tvg-name="ES | Telecinco HD" tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Telecinco HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236487
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Sexta SD" tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | La Sexta SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236488
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Sexta HD" tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | La Sexta HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236489
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24 Horas SD" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | 24 Horas SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236490
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24 Horas HD" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | 24 Horas HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236491
+#EXTINF:-1 tvg-id="" tvg-name="ES | BeMad SD" tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | BeMad SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236492
+#EXTINF:-1 tvg-id="" tvg-name="ES | BeMad HD" tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | BeMad HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236493
+#EXTINF:-1 tvg-id="" tvg-name="ES | Divinity SD" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Divinity SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236494
+#EXTINF:-1 tvg-id="" tvg-name="ES | Divinity HD" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Divinity HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236495
+#EXTINF:-1 tvg-id="" tvg-name="ES | DKiss SD" tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | DKiss SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236496
+#EXTINF:-1 tvg-id="" tvg-name="ES | DKiss HD" tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | DKiss HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236497
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dmax SD" tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Dmax SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236498
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dmax HD" tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Dmax HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236499
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro TV SD" tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | El Toro TV SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236500
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro TV HD" tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | El Toro TV HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236501
+#EXTINF:-1 tvg-id="" tvg-name="ES | Energy SD" tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Energy SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236502
+#EXTINF:-1 tvg-id="" tvg-name="ES | Energy HD" tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Energy HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236503
+#EXTINF:-1 tvg-id="" tvg-name="ES | FDF SD" tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | FDF SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236504
+#EXTINF:-1 tvg-id="" tvg-name="ES | FDF HD" tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | FDF HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236505
+#EXTINF:-1 tvg-id="" tvg-name="ES | Gol Play SD" tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Gol Play SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236506
+#EXTINF:-1 tvg-id="" tvg-name="ES | Gol Play HD" tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Gol Play HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236507
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mega SD" tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Mega SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236508
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mega HD" tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Mega HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236509
+#EXTINF:-1 tvg-id="" tvg-name="ES | Negocios SD" tvg-logo="https://i.ibb.co/7WWxwTv/NEGOTV.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Negocios SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236510
+#EXTINF:-1 tvg-id="" tvg-name="ES | Negocios HD" tvg-logo="https://i.ibb.co/7WWxwTv/NEGOTV.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Negocios HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236511
+#EXTINF:-1 tvg-id="" tvg-name="ES | Neox SD" tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Neox SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236512
+#EXTINF:-1 tvg-id="" tvg-name="ES | Neox HD" tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Neox HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236513
+#EXTINF:-1 tvg-id="" tvg-name="ES | Nova SD" tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Nova SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236514
+#EXTINF:-1 tvg-id="" tvg-name="ES | Nova HD" tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Nova HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236515
+#EXTINF:-1 tvg-id="" tvg-name="ES | Teledeporte SD" tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Teledeporte SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236516
+#EXTINF:-1 tvg-id="" tvg-name="ES | Teledeporte HD" tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Teledeporte HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236517
+#EXTINF:-1 tvg-id="" tvg-name="ES | TEN SD" tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | TEN SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236518
+#EXTINF:-1 tvg-id="" tvg-name="ES | TEN HD" tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | TEN HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236519
+#EXTINF:-1 tvg-id="" tvg-name="ES | Trece HD" tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Trece HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236520
+#EXTINF:-1 tvg-id="" tvg-name="ES | Trece HD" tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | Trece HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236521
+#EXTINF:-1 tvg-id="" tvg-name="ES | DISNEY CHANNEL SD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | DISNEY CHANNEL SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236530
+#EXTINF:-1 tvg-id="" tvg-name="ES | DISNEY CHANNEL FHD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | DISNEY CHANNEL FHD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236531
+#EXTINF:-1 tvg-id="" tvg-name="ES | BOING SD" tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | BOING SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236532
+#EXTINF:-1 tvg-id="" tvg-name="ES | BOING HD" tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | BOING HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236533
+#EXTINF:-1 tvg-id="" tvg-name="ES | CLAN TVE SD" tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | CLAN TVE SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236534
+#EXTINF:-1 tvg-id="" tvg-name="ES | CLAN TVE HD" tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | CLAN TVE HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236535
+#EXTINF:-1 tvg-id="" tvg-name="ES | PARAMOUNT NETWORK SD" tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | PARAMOUNT NETWORK SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236536
+#EXTINF:-1 tvg-id="" tvg-name="ES | PARAMOUNT NETWORK HD" tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | PARAMOUNT NETWORK HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236537
+#EXTINF:-1 tvg-id="" tvg-name="ES | REAL MADRID TV SD" tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | REAL MADRID TV SD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236538
+#EXTINF:-1 tvg-id="" tvg-name="ES | REAL MADRID TV HD" tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES | REAL MADRID TV HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/236539
+#EXTINF:-1 tvg-id="" tvg-name="ES: 9 la loma tv" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: 9 la loma tv
+https://9laloma.tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 DASH" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: 3/24 DASH
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALICANTI TV HD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: ALICANTI TV HD
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALCARRIA TV HD" tvg-logo="https://cdn.m3u.cl/logo/629_Alcarria_TV.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: ALCARRIA TV HD
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Á PUNT DASH" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: Á PUNT DASH
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BON DIA DASH" tvg-logo="https://cdn.m3u.cl/logo/601_Bon_Dia.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: BON DIA DASH
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 4 MANCHA CENTRO DASH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFP3pZEp9t4_5_vVZPmsSaTusxnyWI0dUouQ&s" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL 4 MANCHA CENTRO DASH
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 4 TENERIFE DASH" tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2023/11/logo-canal4-digital@150.webp" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL 4 TENERIFE DASH
+https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 10 EMPORDA DASH" tvg-logo="https://www.canal10.cat/img/logocom.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL 10 EMPORDA DASH
+https://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 25 TV DASH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lWNviqg8vTv5Gj7UbrEPbJ1K4U453rJD8WsSWZaFq4SxDYuzlIizXpmMB8ognPL0teE&usqp=CAU" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL 25 TV DASH
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 33 MADRID DASH" tvg-logo="https://cdn.m3u.cl/logo/602_Canal_33_Madrid.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL 33 MADRID DASH
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 56 DASH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9i39S-tpgHTSLOZrOHz1r8RZ8oDK9XHLUjtqueY&usqp=CAE&s" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL 56 DASH
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Diocesano DASH" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: Canal Diocesano DASH
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DOÑANA DASH" tvg-logo="https://yt3.googleusercontent.com/0h9yvWI-7WhW3erzWuBe0Dts5xpLY-UDpvmTTprR6gO5KbE9DK_GbsCabKCaPUgL1QBfyE4Q=s900-c-k-c0x00ffffff-no-rj" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL DOÑANA DASH
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREMADURA DASH" tvg-logo="https://cdn.m3u.cl/logo/612_Extremadura.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: EXTREMADURA DASH
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL MALAGA RTV DASH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7K9oydryRIxJ70a7Zoj_29Z_hQC4jmOeWA&s" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL MALAGA RTV DASH
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PARLAMENTO DASH" tvg-logo="https://cdn.m3u.cl/logo/632_Canal_Parlamento___Madrid.png" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL PARLAMENTO DASH
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SAN ROQUE DASH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3DgERA1TopbuAg4mERo0H62-KPMbqAXG9g&s" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL SAN ROQUE DASH
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SIERRA DE CADIZ DASH" tvg-logo="https://yt3.googleusercontent.com/Dp8E-VqEJyNYdTgmfnDb63EuR-IGuQFREKD1tqjDo3K89EOdE-I10GFZlygNuVZ3ln58LPpjeSM=s900-c-k-c0x00ffffff-no-rj" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL SIERRA DE CADIZ DASH
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Taronja Osona, Moianès i Lluçanès DASH" tvg-logo="https://www.canaltaronja.cat/osona/wp-content/uploads/2016/12/logo-nou.png" group-title="→ ESPAÑA TDT ←",ES: Canal Taronja Osona group-title="→ ESPAÑA TDT ←", Moianès i Lluçanès DASH
+https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE Catalunya" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: TVE Catalunya
+https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/SHO_L-APRO/mp4/7/2/1729270243327.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16294073
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECANARIAS 2" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: TELECANARIAS 2
+https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_STECACA/mp4/7/2/1729274523527.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16294505
+#EXTINF:-1 tvg-id="" tvg-name="7 TeleValencia" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",7 TeleValencia
+https://live-edge-eu-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/0G1NTJGD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Mediterraneo FHD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",La 8 Mediterraneo FHD
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ibiza Global TV (only event)" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",Ibiza Global TV (only event)
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7 tv murcia FHD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",7 tv murcia FHD
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w1013198667_b3300000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Melilla tv HD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",Melilla tv HD
+https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RIOJA HD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",TV RIOJA HD
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w514421644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTVCE FHD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",RTVCE FHD
+https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 324 HD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: 324 HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265581
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 Andalucía HD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: 7 Andalucía HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265582
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV HD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: ANDALUCIA TV HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265583
+#EXTINF:-1 tvg-id="" tvg-name="ES: BondiaTV" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: BondiaTV
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265588
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREMADURA HD" tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: EXTREMADURA HD
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265589
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR INT." tvg-logo="" group-title="→ ESPAÑA TDT ←" group-title="→ ESPAÑA TDT ←",ES: CANAL SUR INT.
+http://canal-pro.xyz:8080/936958851tv/4y9n6h/265591
