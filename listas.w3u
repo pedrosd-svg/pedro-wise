@@ -5,7 +5,13 @@
     "author": "by Pedro",
     "groups": 
 	[
-			
+		{
+        "name": "CLASICO",
+        "image": "https://periodistas-es.com/wp-content/uploads/2013/10/63199_N_19-10-13-22-53-05-1.jpg",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/clasico.m3u",
+        "info":"BY PEDRO"
+       
+        },
 
 {
         "name": "Nueva 11",
@@ -78,6 +84,7 @@
 
 	]
 }
+
 
 
 
