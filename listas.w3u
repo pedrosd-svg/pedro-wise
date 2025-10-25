@@ -13,12 +13,59 @@
        
         },
 
+{
+        "name": "1",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio1.m3u",
+        "info":"BY PEDRO"
+       
+        },
+
+{
+        "name": "2",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio2.m3u",
+        "info":"BY PEDRO"
+       
+        },
+
+{
+        "name": "3",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio3.m3u",
+        "info":"BY PEDRO"
+       
+        },
+
+{
+        "name": "4",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio4.m3u",
+        "info":"BY PEDRO"
+       
+        },
+{
+        "name": "5",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio5.m3u",
+        "info":"BY PEDRO"
+       
+        },
+{
+        "name": "6",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio6.m3u",
+        "info":"BY PEDRO"
+       
+        },
+
 
 	
 
 
 	]
 }
+
 
 
 
