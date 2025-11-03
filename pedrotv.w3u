@@ -13,6 +13,12 @@
       "url": "http://vipvodbn.top:8080/get.php?username=VOD4431754332198004&password=ba75c590a7d0&type=m3u_plus&output=mpegts",
       "info": "BY PEDRO"
     },
+ {
+      "name": "PELICULAS portada",
+      "image": "https://bimar.byethost31.com/pelis.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis_porta.m3u",
+      "info": "BY PEDRO"
+    },
     {
       "name": "CARRASCO",
       "image": "https://bimar.byethost31.com/usuario1.png",
@@ -39,6 +45,7 @@
     }
   ]
 }
+
 
 
 
