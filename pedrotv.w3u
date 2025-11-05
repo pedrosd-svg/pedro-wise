@@ -14,9 +14,9 @@
       "info": "BY PEDRO"
     },
  {
-      "name": "PELICULAS portada",
-      "image": "https://bimar.byethost31.com/pelis.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis_porta.m3u",
+      "name": "PEDRO ACESTREAM",
+      "image": "https://bimar.byethost31.com/ace.png",
+      "url": "https://af1cionados.vercel.app/AcEStREAM%20iDs.w3u",
       "info": "BY PEDRO"
     },
     {
@@ -45,6 +45,7 @@
     }
   ]
 }
+
 
 
 
