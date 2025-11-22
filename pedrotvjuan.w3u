@@ -10,7 +10,7 @@
     {
       "name": "PELICULAS",
       "image": "https://bimar.byethost31.com/pelis.png",
-      "url": "http://vipvodbn.top:8080/get.php?username=VOD4431754332198004&password=ba75c590a7d0&type=m3u_plus&output=mpegts",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelisjuan.m3u",
       "info": "BY PEDRO"
     },
  
@@ -23,9 +23,6 @@
    
   ]
 }
-
-
-
 
 
 
