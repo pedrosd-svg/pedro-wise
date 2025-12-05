@@ -9,9 +9,9 @@
   "groups": [
     
     {
-      "name": "IPTV Sportium",
+      "name": "IPTV Sportium 1",
       "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "http://26854.sportiumvip.xyz:8080/get.php?username=TV-12778195&password=390036048374&type=m3u_plus&output=mpegts",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/sportiumTV.m3u",
       "info": "BY PEDRO"
     },
     {
@@ -32,6 +32,7 @@
   ]
 
 }
+
 
 
 
