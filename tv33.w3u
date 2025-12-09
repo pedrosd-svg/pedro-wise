@@ -22,9 +22,17 @@
     },
     
  {
-      "name": "IPTV Espa 6 meses",
+      "name": "IPTV hasta Febrero 26",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "http://pc213.eshofrcep.top:8080/get.php?username=es8931764350336378&password=6208f7675ce4&type=m3u_plus&output=mpegts",
+      "info": "BY PEDRO"
+    },
+
+
+{
+      "name": "IPTV hasta Marzo 26",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "http://gn223.esnqptan.top:8080/get.php?username=es5041765307892385&password=3ed65d595694&type=m3u_plus&output=mpegts",
       "info": "BY PEDRO"
     }
 
@@ -32,6 +40,7 @@
   ]
 
 }
+
 
 
 
