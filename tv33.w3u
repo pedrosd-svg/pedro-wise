@@ -20,7 +20,8 @@
       "url": "http://68703.tvdev.club/get.php?username=TV-56494891&password=493659703456&type=m3u_plus&output=m3u8",
       "info": "BY PEDRO"
     },
-  
+ 
+{ 
       "name": "IPTV CADu",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "http://vipccrcscx.top:8080/get.php?username=VIP015651754332198535&password=abe70f8bd7cc&type=m3u_plus&output=mpegts",
@@ -46,6 +47,7 @@
   ]
 
 }
+
 
 
 
