@@ -10,9 +10,9 @@
       "image": "https://i.imgur.com/IconoFuego.png",
       "stations": [
         {
-          "name": "Título de la Película 1",
-          "image": "https://i.imgur.com/PosterPelicula1.jpg",
-          "url": "https://servidor.com/video_pelicula_1.mp4",
+          "name": "Los Cuatro Fantásticos: Primeros pasos",
+          "image": "https://images.justwatch.com/poster/330025048/s718/los-4-fantasticos-2023.jpg",
+          "url": "https://sv3.iboprufeno.lat/7e/eb/7eb4d7fbc4d.m3u8",
           "subtitle": "Opcional: URL de subtítulos .srt",
           "is_direct": true
         },
@@ -57,3 +57,4 @@
   ]
 
 }
+
