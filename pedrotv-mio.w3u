@@ -1,11 +1,11 @@
 {
-  "name": "Pedro TV MIO (Actualizado 12/12/2025)",
+  "name": "Pedro TV MIO (Actualizado 13/12/2025)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 12-12-2025",
+  "info": "BY PEDRO • Última actualización: 13-12-2025",
   "groups": [
      {
       "name": "PEDRO ACESTREAM",
@@ -27,6 +27,7 @@
     }
   ]
 }
+
 
 
 
