@@ -32,7 +32,7 @@
 {
       "name": "IPTV hasta Marzo 26",
       "image": "https://iptvpedro.byethost7.com/mio.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/nuevaMarzo2026.m3u",
+      "url": "http://gn223.esnqptan.top:8080/get.php?username=es5041765307892385&password=3ed65d595694&type=m3u_plus&output=mpegts",
       "info": "BY PEDRO"
     }
 
@@ -40,6 +40,7 @@
   ]
 
 }
+
 
 
 
