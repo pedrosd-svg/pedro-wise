@@ -13,6 +13,14 @@
       "url": "https://af1cionados.vercel.app/AcEStREAM%20iDs.w3u",
       "info": "BY PEDRO"
     },
+
+     {
+      "name": "PELICULAS",
+      "image": "https://bimar.byethost31.com/ace.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.m3u",
+      "info": "BY PEDRO"
+    },
+
     {
       "name": "PEDRO",
       "image": "https://bimar.byethost31.com/usuario1.png",
@@ -27,6 +35,7 @@
     }
   ]
 }
+
 
 
 
