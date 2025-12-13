@@ -1,7 +1,7 @@
 {
   "name": "Mis Películas",
   "author": "Neoworld",
-  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.m3u",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.w3u",
   "info": "Lista actualizada de películas variadas",
   "image": "https://i.imgur.com/TuLogoPrincipal.png",
   "groups": [
@@ -55,4 +55,5 @@
       ]
     }
   ]
+
 }
