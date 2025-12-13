@@ -1,0 +1,58 @@
+{
+  "name": "Mis Películas",
+  "author": "Neoworld",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.m3u",
+  "info": "Lista actualizada de películas variadas",
+  "image": "https://i.imgur.com/TuLogoPrincipal.png",
+  "groups": [
+    {
+      "name": "🔥 Novedades y Estrenos",
+      "image": "https://i.imgur.com/IconoFuego.png",
+      "stations": [
+        {
+          "name": "Título de la Película 1",
+          "image": "https://i.imgur.com/PosterPelicula1.jpg",
+          "url": "https://servidor.com/video_pelicula_1.mp4",
+          "subtitle": "Opcional: URL de subtítulos .srt",
+          "is_direct": true
+        },
+        {
+          "name": "Título de la Película 2",
+          "image": "https://i.imgur.com/PosterPelicula2.jpg",
+          "url": "https://servidor.com/video_pelicula_2.mkv",
+          "is_direct": true
+        }
+      ]
+    },
+    {
+      "name": "💀 Terror y Suspense",
+      "image": "https://i.imgur.com/IconoCalavera.png",
+      "stations": [
+        {
+          "name": "Título de Película de Miedo",
+          "image": "https://via.placeholder.com/300x450?text=Poster+Terror",
+          "url": "PON_AQUI_TU_ENLACE_MP4_O_M3U8",
+          "is_direct": true
+        }
+      ]
+    },
+    {
+      "name": "🎬 Acción y Aventura",
+      "image": "https://i.imgur.com/IconoAccion.png",
+      "stations": [
+        {
+          "name": "Ejemplo Película Acción",
+          "image": "https://via.placeholder.com/300x450?text=Poster+Accion",
+          "url": "PON_AQUI_TU_ENLACE_VIDEO",
+          "is_direct": true
+        },
+        {
+          "name": "Ejemplo Enlace YouTube",
+          "image": "https://via.placeholder.com/300x450?text=Youtube",
+          "url": "https://www.youtube.com/watch?v=VIDEO_ID",
+          "is_direct": false
+        }
+      ]
+    }
+  ]
+}
