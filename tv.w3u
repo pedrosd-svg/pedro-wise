@@ -15,12 +15,6 @@
       "info": "BY PEDRO"
     },
     {
-      "name": "IPTV Dragon",
-      "image": "https://bimar.byethost31.com/logo2.png",
-      "url": "http://68703.tvdev.club/get.php?username=TV-56494891&password=493659703456&type=m3u_plus&output=m3u8",
-      "info": "BY PEDRO"
-    },
-   {
       "name": "IPTV Espa 6 meses",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "http://pc213.eshofrcep.top:8080/get.php?username=es8931764350336378&password=6208f7675ce4&type=m3u_plus&output=mpegts",
@@ -31,6 +25,7 @@
   ]
 
 }
+
 
 
 
