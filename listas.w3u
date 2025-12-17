@@ -6,65 +6,34 @@
     "groups": 
 	[
 		{
-        "name": "CLASICO",
+        "name": "2027-02-01",
         "image": "https://periodistas-es.com/wp-content/uploads/2013/10/63199_N_19-10-13-22-53-05-1.jpg",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/clasico.m3u",
+        "url": "http://esproookttm.top:8080/get.php?username=es7741738414820002&password=c8c0fb578fee&type=m3u_plus",
         "info":"BY PEDRO"
        
         },
 
 {
-        "name": "1",
+        "name": "2026-11-06",
         "image": "",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio1.m3u",
+        "url": "http://esproookttm.top:8080/get.php?username=es2531762429080368&password=9db98de8b551&type=m3u_plus",
         "info":"BY PEDRO"
        
         },
 
 {
-        "name": "2",
+        "name": "2026-11-01",
         "image": "",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio2.m3u",
+        "url": "http://esproookttm.top:8080/get.php?username=es2661761997707365&password=683abc7d27c4&type=m3u_plus",
         "info":"BY PEDRO"
        
-        },
+        }
 
-{
-        "name": "3",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio3.m3u",
-        "info":"BY PEDRO"
-       
-        },
-
-{
-        "name": "4",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio4.m3u",
-        "info":"BY PEDRO"
-       
-        },
-{
-        "name": "5",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio5.m3u",
-        "info":"BY PEDRO"
-       
-        },
-{
-        "name": "6",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mio6.m3u",
-        "info":"BY PEDRO"
-       
-        },
-
-
-	
 
 
 	]
 }
+
 
 
 
