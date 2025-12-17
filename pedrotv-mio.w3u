@@ -1,5 +1,5 @@
 {
-  "name": "Pedro TV MIO (Actualizado 17/12/2025)",
+  "name": "Pedro TV MIO (Actualizado 18/12/2025)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
@@ -15,7 +15,7 @@
     },
 
      {
-      "name": "PELICULAS MIAS",
+      "name": "PELICULAS MIAS  offline",
       "image": "https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies-thumbnail.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.w3u",
       "info": "BY PEDRO"
@@ -35,6 +35,7 @@
     }
   ]
 }
+
 
 
 
