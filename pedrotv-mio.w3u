@@ -1,23 +1,16 @@
 {
-  "name": "Pedro TV MIO (Actualizado 17/12/2025)",
+  "name": "Pedro TV MIO (Actualizado 19/12/2025)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 13-12-2025",
+  "info": "BY PEDRO • Última actualización: 19-12-2025",
   "groups": [
      {
       "name": "PEDRO ACESTREAM",
       "image": "https://bimar.byethost31.com/ace.png",
       "url": "https://af1cionados.vercel.app/AcEStREAM%20iDs.w3u",
-      "info": "BY PEDRO"
-    },
-
-     {
-      "name": "PELICULAS MIAS  offline",
-      "image": "https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies-thumbnail.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.w3u",
       "info": "BY PEDRO"
     },
 
@@ -28,13 +21,14 @@
       "info": "BY PEDRO"
     },
     {
-      "name": "VPN LISTAS INTERNET",
+      "name": "LISTAS INTERNET",
       "image": "https://bimar.byethost31.com/externas.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
       "info": "BY PEDRO"
     }
   ]
 }
+
 
 
 
