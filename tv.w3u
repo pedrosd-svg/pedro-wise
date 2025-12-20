@@ -11,7 +11,14 @@
     {
       "name": "IPTV Sportium",
       "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/sportiumTV.m3u",
+      "url": "http://esproookttm.top:8080/get.php?username=es7741738414820002&password=c8c0fb578fee&type=m3u_plus",
+      "info": "BY PEDRO"
+    },
+
+ {
+      "name": "IPTV Sportium 2",
+      "image": "https://bimar.byethost31.com/logo1.png",
+      "url": "http://esproookttm.top:8080/get.php?username=es2531762429080368&password=9db98de8b551&type=m3u_plus",
       "info": "BY PEDRO"
     },
     {
@@ -25,6 +32,7 @@
   ]
 
 }
+
 
 
 
