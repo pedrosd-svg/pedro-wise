@@ -8,7 +8,7 @@
 		{
         "name": "2027-02-01",
         "image": "https://www.shutterstock.com/image-vector/iptv-badge-icon-logo-neon-260nw-2061508586.jpg",
-        "url": "http://esproookttm.top:8080/get.php?username=es7741738414820002&password=c8c0fb578fee&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa1.m3u",
         "info":"BY PEDRO"
        
         },
@@ -16,7 +16,7 @@
 {
         "name": "2026-11-06",
         "image": "https://www.shutterstock.com/image-vector/iptv-badge-icon-logo-neon-260nw-2061508586.jpg",
-        "url": "http://esproookttm.top:8080/get.php?username=es2531762429080368&password=9db98de8b551&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa2.m3u",
         "info":"BY PEDRO"
        
         },
@@ -24,7 +24,7 @@
 {
         "name": "2026-11-01",
         "image": "https://www.shutterstock.com/image-vector/iptv-badge-icon-logo-neon-260nw-2061508586.jpg",
-        "url": "http://esproookttm.top:8080/get.php?username=es2661761997707365&password=683abc7d27c4&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa3.m3u",
         "info":"BY PEDRO"
        
         },
@@ -33,10 +33,10 @@
 {
         "name": "2026-03-24",
         "image": "https://www.shutterstock.com/image-vector/iptv-badge-icon-logo-neon-260nw-2061508586.jpg",
-        "url": "http://esproookttm.top:8080/get.php?username=es5101742815745246&password=afeb56f5507d&type=m3u_plus",
+        "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/espa4.m3u",
         "info":"BY PEDRO"
        
-        }, 
+        } 
 
 {
         "name": "2027-02-01",
@@ -180,6 +180,7 @@
 
 	]
 }
+
 
 
 
