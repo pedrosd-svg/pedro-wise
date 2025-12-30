@@ -1,0 +1,44 @@
+{
+    "name": "Peliculas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Film_reel.svg/640px-Film_reel.svg.png",
+    "author": "by Pedro",
+    "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelismias.w3u",
+    "groups": [
+        {
+            "name": "ILIMITADA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Film_reel.svg/640px-Film_reel.svg.png",
+            "url": "http://magiz.net:8080/get.php?username=juarez&password=12345678&type=m3u_plus&output=mpegts",
+            "info": "BY PEDRO"
+        },
+        {
+            "name": "2026-09-02",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Film_reel.svg/640px-Film_reel.svg.png",
+            "url": "http://main.afroditatv.xyz:8080/get.php?username=Ix9sX2btzD&password=PTMlYOoClD&type=m3u_plus",
+            "info": "BY PEDRO"
+        },
+        {
+            "name": "2026-08-26",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Film_reel.svg/640px-Film_reel.svg.png",
+            "url": "http://main.afroditatv.xyz:8080/get.php?username=pablopacolopez&password=SWZvdrTBAh3S&type=m3u_plus",
+            "info": "BY PEDRO"
+        },
+        {
+            "name": "2026-08-11",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Film_reel.svg/640px-Film_reel.svg.png",
+            "url": "http://main.afroditatv.xyz:8080/get.php?username=YqlzFDZoJP&password=vtPmToaiby&type=m3u_plus",
+            "info": "BY PEDRO"
+        },
+        {
+            "name": "2026-04-16",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Film_reel.svg/640px-Film_reel.svg.png",
+            "url": "http://main.afroditatv.xyz:8080/get.php?username=manolopintor&password=w2SMdVQYrS6g&type=m3u_plus",
+            "info": "BY PEDRO"
+        },
+        {
+            "name": "2026-01-01",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Film_reel.svg/640px-Film_reel.svg.png",
+            "url": "http://main.afroditatv.xyz:8080/get.php?username=AemccT6qkLRt&password=5kkq93apWM5B&type=m3u_plus",
+            "info": "BY PEDRO"
+        }
+    ]
+}
