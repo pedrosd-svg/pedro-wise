@@ -17,7 +17,7 @@
     {
      "name": "IPTV3 Ver usuarios",
   "image": "https://bimar.byethost31.com/logo3.png",
-  "url": "http://pedrotv.alwaysdata.net/lista_activa.php",
+  "url": "https://pedrotv.alwaysdata.net/lista_activa.php",
   "type": "json",
   "info": "BY PEDRO"
     },
@@ -33,6 +33,7 @@
   ]
 
 }
+
 
 
 
