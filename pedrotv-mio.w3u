@@ -1,11 +1,11 @@
 {
-  "name": "Pedro TV MIO (Actualizado 31/12/2025)",
+  "name": "Pedro TV MIO (Actualizado 05/01/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 19-12-2025",
+  "info": "BY PEDRO • Última actualización: 05-01-2026",
   "groups": [
      {
       "name": "PEDRO ACESTREAM",
@@ -36,8 +36,8 @@
 
 {
       "name": "PELIS",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelismias.w3u",
+      "image": "https://i.imgur.com/rnGjRi9.jpeg",
+      "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
       "info": "BY PEDRO"
     },
 
@@ -51,6 +51,7 @@
 
   ]
 }
+
 
 
 
