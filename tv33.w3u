@@ -15,10 +15,11 @@
       "info": "BY PEDRO"
     },
     {
-      "name": "IPTV hasta Febrero 26",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://pc213.eshofrcep.top:8080/get.php?username=es8931764350336378&password=6208f7675ce4&type=m3u_plus&output=mpegts",
-      "info": "BY PEDRO"
+     "name": "IPTV (Pulsa para ver usuarios y canal)",
+  "image": "https://bimar.byethost31.com/logo3.png",
+  "url": "http://bimar.byethost31.com/lista_activa.php",
+  "type": "wlist",
+  "info": "BY PEDRO"
     },
 
 
@@ -33,6 +34,7 @@
   ]
 
 }
+
 
 
 
