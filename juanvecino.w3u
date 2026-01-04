@@ -1,0 +1,29 @@
+{
+  "name": "Pedro TV (Actualizado 0/01/2026)",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/juanvecino.w3u",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "author": "by Pedro",
+  "version": "1.0.0",
+  "updated": "2025-10-02T00:00:00Z",
+  "info": "BY PEDRO • Última actualización: 02-11-2025",
+  "groups": [
+    
+    {
+      "name": "TV 2026",
+      "image": "https://bimar.byethost31.com/logo1.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/sportiumTV.m3u",
+      "info": "BY PEDRO"
+    },
+
+ {
+      "name": "TV Opcion 2",
+      "image": "https://bimar.byethost31.com/logo1.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
+      "info": "BY PEDRO"
+    }    
+
+    
+  ]
+
+}
+
