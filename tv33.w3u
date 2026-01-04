@@ -15,21 +15,12 @@
       "info": "BY PEDRO"
     },
     {
-     "name": "IPTV2 Ver usuarios",
+     "name": "IPTV3 Ver usuarios",
   "image": "https://bimar.byethost31.com/logo3.png",
-  "url": "https://bimar.byethost31.com/lista_activa.php",
+  "url": "http://pedrotv.alwaysdata.net/lista_activa.php",
   "type": "json",
   "info": "BY PEDRO"
     },
-
-{
-     "name": "prueba 2",
-  "image": "https://bimar.byethost31.com/logo3.png",
-  "url": "https://bimar.byethost31.com/prueba.json",
-  "type": "json",
-  "info": "BY PEDRO"
-    },
-
 
 {
       "name": "IPTV hasta Marzo 26",
@@ -42,6 +33,7 @@
   ]
 
 }
+
 
 
 
