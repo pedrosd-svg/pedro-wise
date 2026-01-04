@@ -7,34 +7,29 @@
   "updated": "2025-10-02T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 02-11-2025",
   "groups": [
-    
     {
       "name": "IPTV Sportium 26-02-26",
       "image": "https://bimar.byethost31.com/logo1.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/sportiumTV.m3u",
-      "info": "BY PEDRO"
+      "info": "BY PEDRO",
+      "type": "m3u"
     },
     {
-     "name": "IPTV4 Ver usuarios",
-  "image": "https://bimar.byethost31.com/logo3.png",
-  "url": "https://pedrotv.alwaysdata.net/lista_activa.php",
-  "type": "json",
-  "info": "BY PEDRO"
+      "name": "IPTV8 Ver usuarios (Pulsa aquí)",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://pedrotv.alwaysdata.net/lista_activa.php",
+      "type": "wlist",
+      "info": "Carga en tiempo real"
     },
-
-{
+    {
       "name": "IPTV hasta Marzo 26",
       "image": "https://iptvpedro.byethost7.com/mio.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/nuevaMarzo2026.m3u",
-      "info": "BY PEDRO"
+      "info": "BY PEDRO",
+      "type": "m3u"
     }
-
-    
   ]
-
 }
-
-
 
 
 
