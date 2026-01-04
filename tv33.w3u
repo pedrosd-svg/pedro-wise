@@ -15,7 +15,7 @@
       "type": "m3u"
     },
     {
-      "name": "IPTV8 Ver usuarios (Pulsa aquí)",
+      "name": "IPTV10 Ver usuarios (Pulsa aquí)",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://pedrotv.alwaysdata.net/lista_activa.php",
       "type": "wlist",
@@ -30,6 +30,7 @@
     }
   ]
 }
+
 
 
 
