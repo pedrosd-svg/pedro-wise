@@ -15,10 +15,10 @@
       "info": "BY PEDRO"
     },
     {
-     "name": "IPTV (Pulsa para ver usuarios y canal)",
+     "name": "IPTV Ver usuarios",
   "image": "https://bimar.byethost31.com/logo3.png",
   "url": "http://bimar.byethost31.com/lista_activa.php",
-  "type": "wlist",
+  "type": "json",
   "info": "BY PEDRO"
     },
 
@@ -34,6 +34,7 @@
   ]
 
 }
+
 
 
 
