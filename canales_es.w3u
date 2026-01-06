@@ -1,0 +1,29 @@
+{
+    "name": "Spain 2026",
+    "image": "https://bimar.byethost31.com/logo2026.png",
+    "author": "by Pedro",
+    "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/canales_es.w3u",
+    "groups": [
+        {
+            "name": "2026-10-26",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-10-05_ESP.m3u",
+            "info": "BY PEDRO"
+        },
+        {
+            "name": "ilimitada_ESP",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/ilimitada_ESP.m3u",
+            "info": "BY PEDRO"
+        },
+        {
+            "name": "2026-10-05",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-10-05.m3u",
+            "info": "BY PEDRO"
+        }
+        
+                
+    ]
+
+}
