@@ -35,6 +35,13 @@
     },
 
 {
+      "name": "SPAIN 2 2026",
+      "image": "https://bimar.byethost31.com/logo2026.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/canales_es.w3u",
+      "info": "BY PEDRO"
+    },
+
+{
       "name": "PELIS",
       "image": "https://i.imgur.com/rnGjRi9.jpeg",
       "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
@@ -51,6 +58,7 @@
 
   ]
 }
+
 
 
 
