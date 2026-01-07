@@ -15,11 +15,10 @@
       "type": "m3u"
     },
     {
-      "name": "IPTV10 Ver usuarios (Pulsa aquí)",
+      "name": "IPTV febrero",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://pedrotv.alwaysdata.net/lista_activa.php",
-      "type": "wlist",
-      "info": "Carga en tiempo real"
+      "url": "http://pc213.eshofrcep.top:8080/get.php?username=es8931764350336378&password=6208f7675ce4&type=m3u_plus&output=mpegts",
+      "info": "m3u"
     },
     {
       "name": "IPTV hasta Marzo 26",
@@ -30,6 +29,7 @@
     }
   ]
 }
+
 
 
 
