@@ -1,5 +1,5 @@
 {
-  "name": "Pedro TV MIO (Actualizado 07/01/2026)",
+  "name": "Pedro TV MIO (Actualizado 09/01/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
@@ -18,6 +18,12 @@
       "name": "PEDRO",
       "image": "https://bimar.byethost31.com/usuario1.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
+      "info": "BY PEDRO"
+    },
+{
+      "name": "futbol",
+      "image": "https://bimar.byethost31.com/usuario1.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/laliga_optimizada.m3u",
       "info": "BY PEDRO"
     },
     {
@@ -64,6 +70,7 @@
 
   ]
 }
+
 
 
 
