@@ -1,5 +1,5 @@
 {
-  "name": "Pedro TV MIO (Actualizado 11/01/2026)",
+  "name": "Pedro TV MIO (Actualizado 17/01/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
@@ -20,33 +20,12 @@
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
       "info": "BY PEDRO"
     },
-{
-      "name": "SUPER COPA",
-      "image": "https://bimar.byethost31.com/usuario1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/supercopafinal.m3u",
-      "info": "BY PEDRO"
-    },
-    {
-      "name": "LISTAS INTERNET",
-      "image": "https://bimar.byethost31.com/externas.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
-      "info": "BY PEDRO"
-    },
-
-{
+   {
       "name": "SPAIN 2026",
       "image": "https://bimar.byethost31.com/logo2026.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listasSpain.w3u",
       "info": "BY PEDRO"
     },
-
-{
-      "name": "SPAIN 2 2026",
-      "image": "https://bimar.byethost31.com/logo2026.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/canales_es.w3u",
-      "info": "BY PEDRO"
-    },
-
 {
       "name": "PELIS",
       "image": "https://i.imgur.com/rnGjRi9.jpeg",
@@ -70,6 +49,7 @@
 
   ]
 }
+
 
 
 
