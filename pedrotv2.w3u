@@ -1,5 +1,5 @@
 {
-  "name": "Pedro TV Movistar (Actualizado 01/12/2025)",
+  "name": "Pedro TV 2026 (Actualizado 19/12/2025)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv2.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Neo",
@@ -11,12 +11,18 @@
     {
       "name": "TV",
       "image": "https://bimar.byethost31.com/usuario1.png",
-      "url": "http://pc213.eshofrcep.top:8080/get.php?username=es8931764350336378&password=6208f7675ce4&type=m3u_plus&output=mpegts",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPORTIUM_TV.m3u",
       "info": "BY PEDRO"
-    }
-   
+    },
+ {
+      "name": "PELICULAS",
+      "image": "https://bimar.byethost31.com/usuario1.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPORTIUM_PELIS.m3u",
+      "info": "BY PEDRO"
+    }   
   ]
 }
+
 
 
 
