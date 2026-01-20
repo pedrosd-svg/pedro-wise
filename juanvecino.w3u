@@ -8,22 +8,28 @@
   "info": "BY PEDRO • Última actualización: 02-11-2025",
   "groups": [
     
-    {
-      "name": "TV 2026",
-      "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/sportiumTV.m3u",
-      "info": "BY PEDRO"
-    },
+        {
+          "name": "TV 2026 AntiBloqueo",
+          "image": "https://bimar.byethost31.com/logo1.png",
+          "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-08-31bueno.m3u",
+          "info": "BY PEDRO"
+        },
+      {
+            "name": "AntiBloqueo Op2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-08-31.m3u",
+            "info": "BY PEDRO"
+        },
 
- {
-      "name": "TV Opcion 2",
-      "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
-      "info": "BY PEDRO"
-    }    
-
+{
+            "name": "AntiBloqueo Op3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPAIN_NUEVA.m3u",
+            "info": "BY PEDRO"
+        }
     
   ]
 
 }
+
 
