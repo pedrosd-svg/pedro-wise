@@ -49,12 +49,25 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
             "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPAIN_NUEVA.m3u",
             "info": "BY PEDRO"
+        },
+ {
+            "name": "nueva SPAIN 800",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPAIN_ordenados_800.m3u",
+            "info": "BY PEDRO"
+        },
+ {
+            "name": "nueva 2026-06-20",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-06-20.m3u",
+            "info": "BY PEDRO"
         }
         
                 
     ]
 
 }
+
 
 
 
