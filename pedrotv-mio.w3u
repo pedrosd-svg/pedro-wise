@@ -43,9 +43,9 @@
     },
 
 {
-      "name": "PELIS NET",
+      "name": "LISTAS EXTRAS",
       "image": "https://st.depositphotos.com/1005920/4430/i/450/depositphotos_44302379-stock-photo-test-icon.jpg",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis1.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/EXTRAS.w3u",
       "info": "BY PEDRO"
     },
 
@@ -58,6 +58,7 @@
 
   ]
 }
+
 
 
 
