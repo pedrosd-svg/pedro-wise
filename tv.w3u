@@ -9,20 +9,14 @@
   "groups": [
     
     {
-      "name": "TV AntiBloqueo",
-      "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "http://esproookttm.top:8080/get.php?username=es7741738414820002&password=c8c0fb578fee&type=m3u_plus",
-      "info": "BY PEDRO"
-    },
-    {
-            "name": "AntiBloqueo Op2",
+            "name": "AntiBloqueo Op1",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
             "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-08-31.m3u",
             "info": "BY PEDRO"
         },
 
 {
-            "name": "AntiBloqueo Op3",
+            "name": "AntiBloqueo Op2",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
             "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPAIN_NUEVA.m3u",
             "info": "BY PEDRO"
@@ -39,6 +33,7 @@
   ]
 
 }
+
 
 
 
