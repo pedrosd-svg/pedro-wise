@@ -5,16 +5,16 @@
     "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listasSpain.w3u",
     "groups": [
         {
-            "name": "2026-08-31",
+            "name": "00--2026-02-27",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-08-31bueno.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-02-27.m3u",
             "info": "BY PEDRO"
         },
 
 {
-            "name": "ilimitada1",
+            "name": "00--2026-06-20.m3u",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/ilimitada1.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-06-20.m3u",
             "info": "BY PEDRO"
         },
 
@@ -25,9 +25,9 @@
             "info": "BY PEDRO"
         },
 {
-            "name": "2026-10-05",
+            "name": "00--xxx",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-10-05.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/xxx.m3u",
             "info": "BY PEDRO"
         },
 
@@ -67,6 +67,7 @@
     ]
 
 }
+
 
 
 
