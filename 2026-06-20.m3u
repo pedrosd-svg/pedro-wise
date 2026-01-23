@@ -1,584 +1,941 @@
 #EXTM3U
-# ========== FUTBOL: LALIGA (1ª y 2ª División) ==========
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga FHD ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6069
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga HD ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1042
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/7428
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-1-es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga 1 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97241
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-2-es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga 2 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97240
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-3-es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga 3 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97239
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 4 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-4-es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga 4 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97238
-#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 5 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-5-es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",Movistar LaLiga 5 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97237
-#EXTINF:-1 tvg-id="beIN LaLiga 1 ES" tvg-name="beIN LA Liga FHD ES" tvg-logo="https://static.epg.best/es/beINLaLigaMAX1.es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",beIN LA Liga FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4403
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",DAZN LaLiga ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/124616
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank TV 1 FHD ES" tvg-logo="https://picaoplomo.com/wp-content/uploads/2020/01/logoSegundaDivision.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",LaLiga SmartBank TV 1 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/110120
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank Tv 2 FHD ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/08/smartbank_color_blanco_agrupado_color2.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",LaLiga SmartBank Tv 2 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/110121
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank TV 3 FHD ES" tvg-logo="" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",LaLiga SmartBank TV 3 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118876
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga 123 FHD ES" tvg-logo="https://futhead.cursecdn.com/static/img/17/leagues/54.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",LaLiga 123 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/8694
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="ES | FUTBOL LALIGA" group-title="ES | FUTBOL LALIGA",LaLiga TV Bar ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1062
-
-# ========== FUTBOL: CHAMPIONS LEAGUE ==========
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga Campeones FHD ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ES | FUTBOL CHAMPIONS" group-title="ES | FUTBOL CHAMPIONS",Movistar Liga Campeones FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79810
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga Campeones ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ES | FUTBOL CHAMPIONS" group-title="ES | FUTBOL CHAMPIONS",Movistar Liga Campeones ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79802
-
-# ========== DEPORTES: DAZN / F1 / MOTO / OTROS ==========
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ES" tvg-logo="https://static.epg.best/it/DAZN.it.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",DAZN ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79814
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dazn2-de.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Dazn 2 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96351
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",DAZN F1 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104475
-#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-name="Dazn F1 FHD VIP ES" tvg-logo="https://static.epg.best/es/MovistarFormula1.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Dazn F1 FHD VIP ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13960
-#EXTINF:-1 tvg-id="" tvg-name="M. DAZN F1 HD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",M. DAZN F1 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104474
-#EXTINF:-1 tvg-id="" tvg-name="M. DAZN F1 SD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",M. DAZN F1 SD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104473
-#EXTINF:-1 tvg-id="" tvg-name="#Vamos FHD ES" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",#Vamos FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24157
-#EXTINF:-1 tvg-id="" tvg-name="#Vamos HD ES" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",#Vamos HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4405
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ VAMOS HD ES" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vamos-es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",MOVISTAR+ VAMOS HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79808
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS FHD ES" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",MOVISTAR VAMOS FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79779
-#EXTINF:-1 tvg-id="" tvg-name="#Vamos ES" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",#Vamos ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24158
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS SD ES" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",MOVISTAR VAMOS SD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79778
-#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-name="Movistar Deportes 1 FHD ES" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Movistar Deportes 1 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6071
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes FHD ES" tvg-logo="https://static.epg.best/es/MovistarDeportes.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Movistar Deportes FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79809
-#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-name="Movistar Deportes 1 ES" tvg-logo="http://tugapt.com/picons/movistardeportes1.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Movistar Deportes 1 ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1064
-#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="Movistar Golf FHD ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Movistar Golf FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4402
-#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="Movistar Golf ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Movistar Golf ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1061
-#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="Eurosport 1 FHD ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Eurosport 1 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6065
-#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="EuroSport 1 HD ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",EuroSport 1 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1036
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ES" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",EUROSPORT 1 ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79800
-#EXTINF:-1 tvg-id="Eurosport 2 ES" tvg-name="Eurosport 2 HD ES" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Eurosport 2 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6064
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ES" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",EUROSPORT 2 ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79801
-#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY FHD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",GOL PLAY FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118904
-#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY HD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",GOL PLAY HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118903
-#EXTINF:-1 tvg-id="GOL ES" tvg-name="Gol TV HD ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Gol TV HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6066
-#EXTINF:-1 tvg-id="GOL ES" tvg-name="Gol TV ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Gol TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1040
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="https://static.epg.best/es/RealMadridTV.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Real Madrid TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1037
-#EXTINF:-1 tvg-id="" tvg-name="Barca+ TV FHD ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Barca+ TV FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/91068
-#EXTINF:-1 tvg-id="Barca TV ES" tvg-name="Barca TV ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Barca TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1038
-#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FHD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Teledeporte FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118885
-#EXTINF:-1 tvg-id="" tvg-name="tdp FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-hd-es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",tdp FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/75417
-#EXTINF:-1 tvg-id="" tvg-name="Teledeporte HD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Teledeporte HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118884
-#EXTINF:-1 tvg-id="" tvg-name="Teledeporte ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Teledeporte ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118886
-#EXTINF:-1 tvg-id="" tvg-name="tdp ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",tdp ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79795
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-multideporte-es.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",MULTIDEPORTE ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79725
-#EXTINF:-1 tvg-id="" tvg-name="eSport 3 FHD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",eSport 3 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104457
-#EXTINF:-1 tvg-id="" tvg-name="eSport 3 HD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",eSport 3 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104456
-#EXTINF:-1 tvg-id="" tvg-name="beINSport HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",beINSport HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1043
-#EXTINF:-1 tvg-id="" tvg-name="Ubeat FHD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Ubeat FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118878
-#EXTINF:-1 tvg-id="" tvg-name="Ubeat HD ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Ubeat HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118877
-#EXTINF:-1 tvg-id="" tvg-name="Ubeat ES" tvg-logo="" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",Ubeat ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118879
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ES | DEPORTES VARIOS" group-title="ES | DEPORTES VARIOS",TYC SPORT HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79788
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 01 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 01 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104472
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 02 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 02 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104471
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 03 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 03 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104470
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 04 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 04 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104469
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 08 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 08 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104465
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 09 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 09 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104464
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 10 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 10 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104463
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 11 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES | DEPORTES EVENTOS" group-title="ES | DEPORTES EVENTOS",Eventos 11 FHD (DAZN Y FOOTTERS) ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104462
-
-# ========== CINE: ACCION, ESTRENOS, DRAMA ==========
-#EXTINF:-1 tvg-id="Movistar Estrenos ES" tvg-name="Movistar Estrenos FHD ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Estrenos FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4408
-#EXTINF:-1 tvg-id="Movistar Estrenos ES" tvg-name="Movistar Estrenos ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Estrenos ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1072
-#EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="Movistar Acción FHD ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Acción FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4409
-#EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="Movistar Acción ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Acción ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1070
-#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar Drama Cine FHD ES" tvg-logo="http://tugapt.com/picons/movistardcine.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Drama Cine FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4407
-#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar DCine ES" tvg-logo="http://tugapt.com/picons/movistardcine.png" group-title="ES | CINE" group-title="ES | CINE",Movistar DCine ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1068
-#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar Drama FHD ES" tvg-logo="http://tugapt.com/picons/movistardrama.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Drama FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24156
-#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar Drama ES" tvg-logo="http://tugapt.com/picons/movistardrama.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Drama ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24155
-#EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="Movistar Comedia FHD ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Comedia FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6083
-#EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="Movistar Comedia ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Comedia ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1069
-#EXTINF:-1 tvg-id="Movistar Cine Espanol ES" tvg-name="Movistar Cine Ñ ES" tvg-logo="http://tugapt.com/picons/movistarcinen.png" group-title="ES | CINE" group-title="ES | CINE",Movistar Cine Ñ ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24154
-#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="Hollywood HD ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ES | CINE" group-title="ES | CINE",Hollywood HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6080
-#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="Hollywood ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ES | CINE" group-title="ES | CINE",Hollywood ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1060
-#EXTINF:-1 tvg-id="AMC ES" tvg-name="AMC FHD ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES | CINE" group-title="ES | CINE",AMC FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6082
-#EXTINF:-1 tvg-id="AMC ES" tvg-name="AMC HD ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES | CINE" group-title="ES | CINE",AMC HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1053
-#EXTINF:-1 tvg-id="" tvg-name="AMC ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES | CINE" group-title="ES | CINE",AMC ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79791
-#EXTINF:-1 tvg-id="TCM ES" tvg-name="TCM FHD ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",TCM FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6081
-#EXTINF:-1 tvg-id="TCM ES" tvg-name="TCM ES" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ES | CINE" group-title="ES | CINE",TCM ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1059
-#EXTINF:-1 tvg-id="" tvg-name="Dark Channel HD ES" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="ES | CINE" group-title="ES | CINE",Dark Channel HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/17624
-#EXTINF:-1 tvg-id="" tvg-name="XTRM ES" tvg-logo="https://static.epg.best/es/Xtrm.es.png" group-title="ES | CINE" group-title="ES | CINE",XTRM ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6076
-#EXTINF:-1 tvg-id="Sundance ES" tvg-name="Sundance TV ES" tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="ES | CINE" group-title="ES | CINE",Sundance TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6072
-#EXTINF:-1 tvg-id="" tvg-name="Somos FHD ES" tvg-logo="http://tugapt.com/picons/somos.png" group-title="ES | CINE" group-title="ES | CINE",Somos FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/44471
-#EXTINF:-1 tvg-id="" tvg-name="Somos ES" tvg-logo="http://tugapt.com/picons/somos.png" group-title="ES | CINE" group-title="ES | CINE",Somos ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/44472
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL ES" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="ES | CINE" group-title="ES | CINE",PARAMOUNT CHANNEL ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79796
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 1 HD ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",Rakuten TV Top 1 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104460
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 2 HD ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",Rakuten TV Top 2 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104459
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Family HD ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",Rakuten TV Family HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104458
-#EXTINF:-1 tvg-id="" tvg-name="My Time Movie Network HD ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",My Time Movie Network HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104454
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Suspense FHD ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",MoviStar Suspense FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118890
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Suspense HD ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",MoviStar Suspense HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118889
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Suspense ES" tvg-logo="" group-title="ES | CINE" group-title="ES | CINE",MoviStar Suspense ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118888
-
-# ========== SERIES ==========
-#EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="Movistar Series FHD ES" tvg-logo="http://tugapt.com/picons/movistarseries.png" group-title="ES | SERIES" group-title="ES | SERIES",Movistar Series FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4410
-#EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="Movistar Series HD ES" tvg-logo="http://tugapt.com/picons/movistarseries.png" group-title="ES | SERIES" group-title="ES | SERIES",Movistar Series HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1067
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIESMANIA FHD ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ES | SERIES" group-title="ES | SERIES",MOVISTAR SERIESMANIA FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79731
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIESMANIA SD ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ES | SERIES" group-title="ES | SERIES",MOVISTAR SERIESMANIA SD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79730
-#EXTINF:-1 tvg-id="FOX ES" tvg-name="Fox FHD ES" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ES | SERIES" group-title="ES | SERIES",Fox FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4415
-#EXTINF:-1 tvg-id="FOX Life ES" tvg-name="Fox HD ES" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ES | SERIES" group-title="ES | SERIES",Fox HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1055
-#EXTINF:-1 tvg-id="AXN ES" tvg-name="AXN FHD ES" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ES | SERIES" group-title="ES | SERIES",AXN FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4414
-#EXTINF:-1 tvg-id="AXN ES" tvg-name="AXN HD ES" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ES | SERIES" group-title="ES | SERIES",AXN HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1052
-#EXTINF:-1 tvg-id="AXN White ES" tvg-name="AXN White FHD ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ES | SERIES" group-title="ES | SERIES",AXN White FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4413
-#EXTINF:-1 tvg-id="AXN White ES" tvg-name="AXN White ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ES | SERIES" group-title="ES | SERIES",AXN White ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1051
-#EXTINF:-1 tvg-id="SYFY ES" tvg-name="SyFy FHD ES" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ES | SERIES" group-title="ES | SERIES",SyFy FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4420
-#EXTINF:-1 tvg-id="SYFY ES" tvg-name="SyFy HD ES" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ES | SERIES" group-title="ES | SERIES",SyFy HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1050
-#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="Calle 13 FHD ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES | SERIES" group-title="ES | SERIES",Calle 13 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4416
-#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="Calle 13 HD ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES | SERIES" group-title="ES | SERIES",Calle 13 HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1049
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES | SERIES" group-title="ES | SERIES",CALLE 13 ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79805
-#EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT FHD ES" tvg-logo="http://tugapt.com/picons/tntse.png" group-title="ES | SERIES" group-title="ES | SERIES",TNT FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6074
-#EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT ES" tvg-logo="http://tugapt.com/picons/tntse.png" group-title="ES | SERIES" group-title="ES | SERIES",TNT ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1058
-#EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="Comedy Central FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="ES | SERIES" group-title="ES | SERIES",Comedy Central FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6073
-#EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="Comedy Central HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="ES | SERIES" group-title="ES | SERIES",Comedy Central HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1048
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="ES | SERIES" group-title="ES | SERIES",COMEDY CENTRAL ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79803
-#EXTINF:-1 tvg-id="" tvg-name="Cosmo FHD ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ES | SERIES" group-title="ES | SERIES",Cosmo FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4412
-#EXTINF:-1 tvg-id="" tvg-name="Cosmo HD ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ES | SERIES" group-title="ES | SERIES",Cosmo HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1047
-#EXTINF:-1 tvg-id="" tvg-name="a3series HD ES" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="ES | SERIES" group-title="ES | SERIES",a3series HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6097
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fdf-es.png" group-title="ES | SERIES" group-title="ES | SERIES",FDF ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1045
-#EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ES | SERIES" group-title="ES | SERIES",Energy ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1044
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Originales FHD ES" tvg-logo="" group-title="ES | SERIES" group-title="ES | SERIES",MoviStar Originales FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118899
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Originales HD ES" tvg-logo="" group-title="ES | SERIES" group-title="ES | SERIES",MoviStar Originales HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118898
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Originales ES" tvg-logo="" group-title="ES | SERIES" group-title="ES | SERIES",MoviStar Originales ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118897
-#EXTINF:-1 tvg-id="" tvg-name="Factoría de Ficció HD ES" tvg-logo="" group-title="ES | SERIES" group-title="ES | SERIES",Factoría de Ficció HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118905
-#EXTINF:-1 tvg-id="" tvg-name="Factoría de Ficció ES" tvg-logo="" group-title="ES | SERIES" group-title="ES | SERIES",Factoría de Ficció ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118906
-
-# ========== GENERALISTAS & TDT ==========
-#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 FHD ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",LA 1 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4428
-#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="La 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",La 1 ES
+#EXTINF:-1 tvg-id="" tvg-name="##########   Adults   ##########" tvg-logo="http://tugapt.com/picons/adults.png" group-title="For Adults" group-title="For Adults",##########   Adults   ##########
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/2547
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Erotic Adult" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Balkan_Erotic.png" group-title="For Adults" group-title="For Adults",Balkan Erotic Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13590
+#EXTINF:-1 tvg-id="" tvg-name="Barely Legal Adult" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/149684440837_barely_legal_tv.jpg" group-title="For Adults" group-title="For Adults",Barely Legal Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13571
+#EXTINF:-1 tvg-id="" tvg-name="Beate-Uhse.TV Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Beate-Uhse.TV_Logo.png" group-title="For Adults" group-title="For Adults",Beate-Uhse.TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19550
+#EXTINF:-1 tvg-id="" tvg-name="Bizarre TV Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Bizarre TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13572
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV Adult" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/brazzers.png" group-title="For Adults" group-title="For Adults",Brazzers TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13585
+#EXTINF:-1 tvg-id="" tvg-name="CentoXCento Adult" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0a9f29fcda6db9473303f296541b1555.jpeg" group-title="For Adults" group-title="For Adults",CentoXCento Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13588
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV FHD Adult" tvg-logo="http://eroteve.com/wp-content/uploads/2016/04/abd1e9eb08a4664356f9436b51865512.jpeg" group-title="For Adults" group-title="For Adults",Dorcel TV FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13587
+#EXTINF:-1 tvg-id="" tvg-name="Dusk Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dusk_TV.svg/1200px-Dusk_TV.svg.png" group-title="For Adults" group-title="For Adults",Dusk Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13586
+#EXTINF:-1 tvg-id="" tvg-name="Erox TV Adult" tvg-logo="http://eroteve.com/wp-content/uploads/2020/03/e8e83fc0ec61b284c54d5ac01a282145.jpeg" group-title="For Adults" group-title="For Adults",Erox TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13570
+#EXTINF:-1 tvg-id="" tvg-name="Eroxxx TV Adult" tvg-logo="https://i.pinimg.com/736x/76/10/f0/7610f08c40ca8c66f84a176760c9e812.jpg" group-title="For Adults" group-title="For Adults",Eroxxx TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13569
+#EXTINF:-1 tvg-id="" tvg-name="Evil Angel Adult" tvg-logo="https://images.xbiz.com/images/news/241723/680x383.jpg" group-title="For Adults" group-title="For Adults",Evil Angel Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13584
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 1 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 1 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13561
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 2 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 2 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13560
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 3 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 3 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13559
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 4 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 4 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13558
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 5 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 5 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13557
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 6 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 6 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13556
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 7 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 7 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13555
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 9 FHD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",HotClub 9 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13553
+#EXTINF:-1 tvg-id="" tvg-name="Hustler TV FHD Adult" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/89/Hustler_TV_%281999-.n.v.%29.png" group-title="For Adults" group-title="For Adults",Hustler TV FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13583
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin.tv Adult" tvg-logo="https://karnei4.github.io/convert/Jasmin_TV_(18).png" group-title="For Adults" group-title="For Adults",Jasmin.tv Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13568
+#EXTINF:-1 tvg-id="" tvg-name="Fap TV Teens Adult" tvg-logo="http://eroteve.com/wp-content/uploads/2020/03/80f13defbef7656b4eb925bfec489b3e-320x180.jpeg" group-title="For Adults" group-title="For Adults",Fap TV Teens Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13602
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Sex Prive Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13562
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 1 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="For Adults" group-title="For Adults",Movies Cinema Erotic 1 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13595
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 2 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="For Adults" group-title="For Adults",Movies Cinema Erotic 2 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13594
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 3 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="For Adults" group-title="For Adults",Movies Cinema Erotic 3 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13593
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 4 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="For Adults" group-title="For Adults",Movies Cinema Erotic 4 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13592
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 5 FHD Adult" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="For Adults" group-title="For Adults",Movies Cinema Erotic 5 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13591
+#EXTINF:-1 tvg-id="" tvg-name="PassieXXX Adult" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/passion-xxx-logo.jpeg" group-title="For Adults" group-title="For Adults",PassieXXX Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13589
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse 1 FHD Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="For Adults" group-title="For Adults",Penthouse 1 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13581
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse 2 FHD Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="For Adults" group-title="For Adults",Penthouse 2 FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13580
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold FHD Adult" tvg-logo="https://www.lyngsat.com/logo/tv/pp/penthouse-gold-us.png" group-title="For Adults" group-title="For Adults",Penthouse Gold FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13582
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 1 Adult" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/Pink-Erotic-TV-logo.png" group-title="For Adults" group-title="For Adults",Pink Erotic 1 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13601
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 2 Adult" tvg-logo="https://www.pngkey.com/png/detail/146-1463388_erotic2-logo-erotic-2-tv.png" group-title="For Adults" group-title="For Adults",Pink Erotic 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13600
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 3 Adult" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Pink-Erotic-3.jpg" group-title="For Adults" group-title="For Adults",Pink Erotic 3 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13599
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 4 Adult" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Pink-Erotic-4.jpg" group-title="For Adults" group-title="For Adults",Pink Erotic 4 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13598
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 5 Adult" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink_erotic_5_logo.png" group-title="For Adults" group-title="For Adults",Pink Erotic 5 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13597
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 6 Adult" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink_erotic_6_logo.png" group-title="For Adults" group-title="For Adults",Pink Erotic 6 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13596
+#EXTINF:-1 tvg-id="" tvg-name="Pinko TV Adult" tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2020/05/Pinko-TV.png" group-title="For Adults" group-title="For Adults",Pinko TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13579
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy Adult" tvg-logo="https://static.epg.best/ar/Playboy.ar.png" group-title="For Adults" group-title="For Adults",PlayBoy Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13578
+#EXTINF:-1 tvg-id="" tvg-name="Private HD Adult" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png" group-title="For Adults" group-title="For Adults",Private HD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13577
+#EXTINF:-1 tvg-id="" tvg-name="HOT FHD PT ADULT" tvg-logo="https://static.epg.best/pt/Hot.pt.png" group-title="For Adults" group-title="For Adults",HOT FHD PT ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/74250
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Teen HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",RedTraffic Teen HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/74249
+#EXTINF:-1 tvg-id="" tvg-name="Glam HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Glam HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/74248
+#EXTINF:-1 tvg-id="" tvg-name="Reality Kings TV Adult" tvg-logo="https://static.wikia.nocookie.net/everything-allowed/images/2/21/Realitykings.png" group-title="For Adults" group-title="For Adults",Reality Kings TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13567
+#EXTINF:-1 tvg-id="" tvg-name="Redlight FHD ADult" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png" group-title="For Adults" group-title="For Adults",Redlight FHD ADult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13576
+#EXTINF:-1 tvg-id="" tvg-name="SCT Adult" tvg-logo="https://www.pngkey.com/png/detail/146-1463680_sct-logo-sct-tv.png" group-title="For Adults" group-title="For Adults",SCT Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13575
+#EXTINF:-1 tvg-id="" tvg-name="Sesto Senso TV Adult" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0c393cfcbc605a008ad4098ec6b6adab.jpeg" group-title="For Adults" group-title="For Adults",Sesto Senso TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13574
+#EXTINF:-1 tvg-id="" tvg-name="Venus TV Adult" tvg-logo="https://static.epg.best/pt/Venus.pt.png" group-title="For Adults" group-title="For Adults",Venus TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13573
+#EXTINF:-1 tvg-id="" tvg-name="Vivid Red FHD Adult" tvg-logo="https://www.digitaltveurope.com/files/2020/01/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="For Adults" group-title="For Adults",Vivid Red FHD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13565
+#EXTINF:-1 tvg-id="" tvg-name="Vivid TV Adult" tvg-logo="https://www.digitaltveurope.com/files/2017/12/Vivid_Entertainment_logo.png" group-title="For Adults" group-title="For Adults",Vivid TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13566
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",XXL TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13564
+#EXTINF:-1 tvg-id="" tvg-name="XYPlus HD TV Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",XYPlus HD TV Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13563
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME Adult" tvg-logo="https://static.epg.best/pt/Sextreme.pt.png" group-title="For Adults" group-title="For Adults",SEXTREME Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78412
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler ADULT" tvg-logo="https://static.epg.best/gr/BlueHustler.gr.png" group-title="For Adults" group-title="For Adults",Blue Hustler ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78666
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse BLACK HD ADULT" tvg-logo="https://static.epg.best/us/PenthouseBlack.us.png" group-title="For Adults" group-title="For Adults",Penthouse BLACK HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78696
+#EXTINF:-1 tvg-id="" tvg-name="X1-Bizarre HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",X1-Bizarre HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78697
+#EXTINF:-1 tvg-id="" tvg-name="MOFOS HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",MOFOS HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78698
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV ANAL ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",FAP TV ANAL ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78699
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 1 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX 1 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78700
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 2 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX 2 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78701
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 3 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX 3 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78702
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 4 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX 4 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78703
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 5 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX 5 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78704
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 6 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX 6 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78705
+#EXTINF:-1 tvg-id="" tvg-name="MY DIRTY HOBBY 1 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",MY DIRTY HOBBY 1 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78706
+#EXTINF:-1 tvg-id="" tvg-name="MY DIRTY HOBBY 2 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",MY DIRTY HOBBY 2 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78707
+#EXTINF:-1 tvg-id="" tvg-name="MY DIRTY HOBBY 3 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",MY DIRTY HOBBY 3 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78708
+#EXTINF:-1 tvg-id="" tvg-name="MY DIRTY HOBBY 4 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",MY DIRTY HOBBY 4 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78709
+#EXTINF:-1 tvg-id="" tvg-name="MY DIRTY HOBBY 5 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",MY DIRTY HOBBY 5 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78710
+#EXTINF:-1 tvg-id="" tvg-name="XY Mix HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",XY Mix HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78711
+#EXTINF:-1 tvg-id="" tvg-name="XY Max HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",XY Max HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78712
+#EXTINF:-1 tvg-id="" tvg-name="Passie XxX FHD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Passie XxX FHD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78713
+#EXTINF:-1 tvg-id="" tvg-name="Passie XxX ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Passie XxX ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78714
+#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",NUART ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78715
+#EXTINF:-1 tvg-id="" tvg-name="Girls Studs ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Girls Studs ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78716
+#EXTINF:-1 tvg-id="" tvg-name="XY Mix FHD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",XY Mix FHD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78717
+#EXTINF:-1 tvg-id="" tvg-name="PinkX ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",PinkX ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78719
+#EXTINF:-1 tvg-id="" tvg-name="XY Max FHD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",XY Max FHD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78720
+#EXTINF:-1 tvg-id="" tvg-name="Babes TV FHD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Babes TV FHD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78721
+#EXTINF:-1 tvg-id="" tvg-name="Super One HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Super One HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78722
+#EXTINF:-1 tvg-id="" tvg-name="Nubiles Porn Ricky ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Nubiles Porn Ricky ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78724
+#EXTINF:-1 tvg-id="" tvg-name="DANCING BEAR HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",DANCING BEAR HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78725
+#EXTINF:-1 tvg-id="" tvg-name="iFlixBlonde TV HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",iFlixBlonde TV HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78727
+#EXTINF:-1 tvg-id="" tvg-name="Girls Studs HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Girls Studs HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78729
+#EXTINF:-1 tvg-id="" tvg-name="GangBang HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",GangBang HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78730
+#EXTINF:-1 tvg-id="" tvg-name="Blacked Raw HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Blacked Raw HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78731
+#EXTINF:-1 tvg-id="" tvg-name="Bunga Bunga ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Bunga Bunga ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78735
+#EXTINF:-1 tvg-id="" tvg-name="Adult TINY4K 1 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Adult TINY4K 1 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78736
+#EXTINF:-1 tvg-id="" tvg-name="Adult TINY4K 2 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Adult TINY4K 2 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78737
+#EXTINF:-1 tvg-id="" tvg-name="Adult TINY4K 3 HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Adult TINY4K 3 HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78738
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX HD1 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX HD1 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78739
+#EXTINF:-1 tvg-id="" tvg-name="ALBA XXX HD2 ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",ALBA XXX HD2 ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78740
+#EXTINF:-1 tvg-id="" tvg-name="XY Plus FHD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",XY Plus FHD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78741
+#EXTINF:-1 tvg-id="" tvg-name="SuperOne HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",SuperOne HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/78746
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Reality HD ADULT" tvg-logo="" group-title="For Adults" group-title="For Adults",Penthouse Reality HD ADULT
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/89985
+#EXTINF:-1 tvg-id="" tvg-name="HOTCLUB BABES 3 FHD Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HOTCLUB BABES 3 FHD Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104837
+#EXTINF:-1 tvg-id="" tvg-name="HOTCLUB BABES 1 FHD Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HOTCLUB BABES 1 FHD Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104836
+#EXTINF:-1 tvg-id="" tvg-name="HOTCLUB BABES 2 FHD Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HOTCLUB BABES 2 FHD Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104835
+#EXTINF:-1 tvg-id="" tvg-name="HOTCLUB BABES 4 FHD Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HOTCLUB BABES 4 FHD Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104834
+#EXTINF:-1 tvg-id="" tvg-name="HOTCLUB BABES 5 FHD Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HOTCLUB BABES 5 FHD Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104833
+#EXTINF:-1 tvg-id="" tvg-name="Babes One 4K Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Babes One 4K Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104832
+#EXTINF:-1 tvg-id="" tvg-name="Babes Two 4K Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Babes Two 4K Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104831
+#EXTINF:-1 tvg-id="" tvg-name="Babes Three 4K Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Babes Three 4K Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104830
+#EXTINF:-1 tvg-id="" tvg-name="Pure Babes TV Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Pure Babes TV Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104829
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 1 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 1 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104828
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 2 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 2 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104827
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 3 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 3 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104826
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 4 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 4 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104825
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 5 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 5 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104824
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 6 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 6 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104823
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 7 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 7 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104822
+#EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 8 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Primafila Hot Club 8 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104821
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI-3D Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HENTAI-3D Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104820
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI-3D 1 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HENTAI-3D 1 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104819
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI-3D 2 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HENTAI-3D 2 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104818
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI-3D 3 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",HENTAI-3D 3 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104817
+#EXTINF:-1 tvg-id="" tvg-name=" GAY TV Adults" tvg-logo="" group-title="For Adults" group-title="For Adults", GAY TV Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104816
+#EXTINF:-1 tvg-id="" tvg-name="Teen Thai's FHD 1 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Teen Thai's FHD 1 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104815
+#EXTINF:-1 tvg-id="" tvg-name="Teen Thai's FHD 2 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Teen Thai's FHD 2 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104814
+#EXTINF:-1 tvg-id="" tvg-name="Teen Thai's FHD 3 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Teen Thai's FHD 3 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104813
+#EXTINF:-1 tvg-id="" tvg-name="Teen Thai's FHD 4 Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Teen Thai's FHD 4 Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104812
+#EXTINF:-1 tvg-id="" tvg-name="Porno Movies Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Porno Movies Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104811
+#EXTINF:-1 tvg-id="" tvg-name="Publick Agent FHD Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Publick Agent FHD Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104810
+#EXTINF:-1 tvg-id="" tvg-name="Russian Girls Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Russian Girls Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104808
+#EXTINF:-1 tvg-id="" tvg-name="Asian Porn Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Asian Porn Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104807
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Mic Licking Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Sexy Mic Licking Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104806
+#EXTINF:-1 tvg-id="" tvg-name="Super One Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Super One Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104805
+#EXTINF:-1 tvg-id="" tvg-name="Skye Blue Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Skye Blue Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104804
+#EXTINF:-1 tvg-id="" tvg-name="Threesome Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Threesome Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104802
+#EXTINF:-1 tvg-id="" tvg-name="Trans Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Trans Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104801
+#EXTINF:-1 tvg-id="" tvg-name="Real Passion Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Passion Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120638
+#EXTINF:-1 tvg-id="" tvg-name="BooB HD Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",BooB HD Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120637
+#EXTINF:-1 tvg-id="" tvg-name="Devils Home Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Devils Home Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120636
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 1 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 1 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120878
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120879
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 3 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 3 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120880
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 4 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 4 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120881
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 5 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 5 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120882
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 6 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 6 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120883
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 7 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 7 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120884
+#EXTINF:-1 tvg-id="" tvg-name="bravoerotica 8 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",bravoerotica 8 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120885
+#EXTINF:-1 tvg-id="" tvg-name="Casting 1 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Casting 1 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120871
+#EXTINF:-1 tvg-id="" tvg-name="Casting 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Casting 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120872
+#EXTINF:-1 tvg-id="" tvg-name="Casting 3 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Casting 3 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120873
+#EXTINF:-1 tvg-id="" tvg-name="Casting 4 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Casting 4 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120874
+#EXTINF:-1 tvg-id="" tvg-name="Casting 5 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Casting 5 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120875
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy 1 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Fantasy 1 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120876
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Fantasy 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120877
+#EXTINF:-1 tvg-id="" tvg-name="Real Tapes 7 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Tapes 7 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120635
+#EXTINF:-1 tvg-id="" tvg-name="Real Tapes 6 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Tapes 6 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120634
+#EXTINF:-1 tvg-id="" tvg-name="Real Tapes 5 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Tapes 5 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120633
+#EXTINF:-1 tvg-id="" tvg-name="Real Tapes 4 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Tapes 4 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120632
+#EXTINF:-1 tvg-id="" tvg-name="Real Tapes 3 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Tapes 3 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120631
+#EXTINF:-1 tvg-id="" tvg-name="Real Tapes 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Tapes 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120630
+#EXTINF:-1 tvg-id="" tvg-name="Real Tapes 1 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Real Tapes 1 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/120629
+#EXTINF:-1 tvg-id="" tvg-name="Young Sex Adults" tvg-logo="" group-title="For Adults" group-title="For Adults",Young Sex Adults
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104799
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Brazzers Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121375
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Brazzers 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121376
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers 3 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Brazzers 3 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121377
+#EXTINF:-1 tvg-id="" tvg-name="BangBros Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",BangBros Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121386
+#EXTINF:-1 tvg-id="" tvg-name="BangBros 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",BangBros 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121396
+#EXTINF:-1 tvg-id="" tvg-name="Reality kings Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Reality kings Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121378
+#EXTINF:-1 tvg-id="" tvg-name="Reality kings 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Reality kings 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121379
+#EXTINF:-1 tvg-id="" tvg-name="Score Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Score Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121394
+#EXTINF:-1 tvg-id="" tvg-name="Massage Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Massage Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121393
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Anal Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Hardcore Anal Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121392
+#EXTINF:-1 tvg-id="" tvg-name="Teacher Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Teacher Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121391
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel Club Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Dorcel Club Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121390
+#EXTINF:-1 tvg-id="" tvg-name="Ginger Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Ginger Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121388
+#EXTINF:-1 tvg-id="" tvg-name="Naughty America Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Naughty America Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121387
+#EXTINF:-1 tvg-id="" tvg-name="Reality kings 3 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Reality kings 3 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121385
+#EXTINF:-1 tvg-id="" tvg-name="Holed Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Holed Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121384
+#EXTINF:-1 tvg-id="" tvg-name="Double BBC Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Double BBC Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121395
+#EXTINF:-1 tvg-id="" tvg-name="Teen BJ Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Teen BJ Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121383
+#EXTINF:-1 tvg-id="" tvg-name="Threesome Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Threesome Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121382
+#EXTINF:-1 tvg-id="" tvg-name="Threesome 2 Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Threesome 2 Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121389
+#EXTINF:-1 tvg-id="" tvg-name="Tiny Teen Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Tiny Teen Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121381
+#EXTINF:-1 tvg-id="" tvg-name="Single Girl Adult" tvg-logo="" group-title="For Adults" group-title="For Adults",Single Girl Adult
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/121380
+#EXTINF:-1 tvg-id="" tvg-name="##########   Spain   ##########" tvg-logo="" group-title="Spain" group-title="Spain",##########   Spain   ##########
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/2532
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="La 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Spain" group-title="Spain",La 1 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1086
-#EXTINF:-1 tvg-id="" tvg-name="TVE LA 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TVE LA 1 ES
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 FHD ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Spain" group-title="Spain",LA 1 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4428
+#EXTINF:-1 tvg-id="" tvg-name="TVE LA 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Spain" group-title="Spain",TVE LA 1 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/126747
-#EXTINF:-1 tvg-id="" tvg-name="TVE LA 2 ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TVE LA 2 ES
+#EXTINF:-1 tvg-id="" tvg-name="TVE LA 2 ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="Spain" group-title="Spain",TVE LA 2 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1085
-#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="Antena 3 FHD ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Antena 3 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4427
-#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="Antena 3 HD ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Antena 3 HD ES
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="Antena 3 HD ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Spain" group-title="Spain",Antena 3 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1084
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",ANTENA 3 ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79811
-#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco FHD ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Telecinco FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4425
-#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco HD ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Telecinco HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1077
-#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Telecinco ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1082
-#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro FHD ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Cuatro FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4426
-#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Cuatro ES
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="Antena 3 FHD ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Spain" group-title="Spain",Antena 3 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4427
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="Spain" group-title="Spain",Cuatro ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1083
-#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="LA Sexta FHD ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",LA Sexta FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4424
-#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="La Sexta HD ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",La Sexta HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1076
-#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="La Sexta ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",La Sexta ES
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro FHD ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="Spain" group-title="Spain",Cuatro FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4426
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Spain" group-title="Spain",Telecinco ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1082
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco HD ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Spain" group-title="Spain",Telecinco HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1077
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco FHD ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Spain" group-title="Spain",Telecinco FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4425
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="La Sexta ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Spain" group-title="Spain",La Sexta ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1081
-#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0 FHD ES" tvg-logo="http://tugapt.com/picons/0number.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",#0 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6085
-#EXTINF:-1 tvg-id="#0 ES" tvg-name="#0 ES" tvg-logo="http://tugapt.com/picons/0number.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",#0 ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1056
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Plus+ FHD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",MoviStar Plus+ FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118896
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Plus+ HD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",MoviStar Plus+ HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118895
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Plus+ ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",MoviStar Plus+ ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118894
-#EXTINF:-1 tvg-id="Neox ES" tvg-name="Neox ES" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Neox ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1079
-#EXTINF:-1 tvg-id="Nova ES" tvg-name="Nova ES" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Nova ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1080
-#EXTINF:-1 tvg-id="" tvg-name="Divinity ES" tvg-logo="http://tugapt.com/picons/divinity.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Divinity ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/44226
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD TV HD ES" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",BE MAD TV HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79781
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD ES" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",BE MAD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79780
-#EXTINF:-1 tvg-id="13 TV ES" tvg-name="13 TV ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",13 TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6093
-#EXTINF:-1 tvg-id="" tvg-name="Ten HD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Ten HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118882
-#EXTINF:-1 tvg-id="" tvg-name="TEN ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TEN ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118883
-#EXTINF:-1 tvg-id="" tvg-name="DKiss TV ES" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",DKiss TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6040
-#EXTINF:-1 tvg-id="" tvg-name="Enfamilia FHD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Enfamilia FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118908
-#EXTINF:-1 tvg-id="" tvg-name="Enfamilia HD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Enfamilia HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118907
-#EXTINF:-1 tvg-id="" tvg-name="Enfamilia ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Enfamilia ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118909
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 FHD ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TV3 FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79792
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TV3 Cat ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1019
-#EXTINF:-1 tvg-id="" tvg-name="TELE MADRID FHD ES" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TELE MADRID FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79790
-#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/aragon-tv-es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Aragon TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6091
-#EXTINF:-1 tvg-id="Canal Sur ES" tvg-name="Canal SUR ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Canal SUR ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1057
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía HD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Canal Sur Andalucía HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118912
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Canal Sur Andalucía ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118913
-#EXTINF:-1 tvg-id="" tvg-name="EITB Basque HD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",EITB Basque HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118910
-#EXTINF:-1 tvg-id="" tvg-name="EITB Basque ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",EITB Basque ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118911
-#EXTINF:-1 tvg-id="" tvg-name="ETB 1 ES" tvg-logo="https://static.epg.best/es/ETB1.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",ETB 1 ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/82744
-#EXTINF:-1 tvg-id="" tvg-name="TVG Europa HD ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TVG Europa HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118880
-#EXTINF:-1 tvg-id="" tvg-name="TVG Europa ES" tvg-logo="" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TVG Europa ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118881
-#EXTINF:-1 tvg-id="" tvg-name="Galicia TV ES" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Galicia TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1075
-#EXTINF:-1 tvg-id="Andalucia TV ES" tvg-name="Andalucia TV ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Andalucia TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1039
-#EXTINF:-1 tvg-id="Canal Extremadura ES" tvg-name="C+ Estrellas ES" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",C+ Estrellas ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1046
-#EXTINF:-1 tvg-id="" tvg-name="Extremadura TV ES" tvg-logo="https://static.epg.best/es/CanalExtremadura.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Extremadura TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1078
-#EXTINF:-1 tvg-id="8 tv ES" tvg-name="8TV Madrid ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/8tv-es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",8TV Madrid ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6094
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional ES" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",TVE Internacional ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/7427
-#EXTINF:-1 tvg-id="" tvg-name="Esperanza TV ES" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-tv-esperanza-canal-10.jpg" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Esperanza TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1020
-#EXTINF:-1 tvg-id="" tvg-name="Gracia TV ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_canal_TVGracia.png" group-title="ES | GENERALISTAS" group-title="ES | GENERALISTAS",Gracia TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/7091
-
-# ========== DOCUMENTALES & ESTILO DE VIDA ==========
-#EXTINF:-1 tvg-id="National Geographic ES" tvg-name="Nat Geo FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Nat Geo FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4419
-#EXTINF:-1 tvg-id="National Geographic ES" tvg-name="Nat Geo ES" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Nat Geo ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1033
-#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="Nat Geo Wild FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Nat Geo Wild FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4418
-#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="Nat Geo Wild HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Nat Geo Wild HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1032
-#EXTINF:-1 tvg-id="Discovery Channel ES" tvg-name="Discovery Channel FHD ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Discovery Channel FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6057
-#EXTINF:-1 tvg-id="Discovery Channel ES" tvg-name="Discovery HD ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Discovery HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1030
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",DISCOVERY CHANNEL ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79797
-#EXTINF:-1 tvg-id="Historia ES" tvg-name="Historia FHD ES" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Historia FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6055
-#EXTINF:-1 tvg-id="Historia ES" tvg-name="Historia ES" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Historia ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1029
-#EXTINF:-1 tvg-id="Odisea ES" tvg-name="Odisea HD ES" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Odisea HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1034
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA ES" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",ODISEA ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79798
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break FHD ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",AMC Break FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118919
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break HD ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",AMC Break HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118918
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",AMC Break ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118920
-#EXTINF:-1 tvg-id="" tvg-name="Break ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Break ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1028
-#EXTINF:-1 tvg-id="" tvg-name="AMC Crime HD ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",AMC Crime HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118916
-#EXTINF:-1 tvg-id="" tvg-name="AMC Crime ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",AMC Crime ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118917
-#EXTINF:-1 tvg-id="Crimen e Investigacion ES" tvg-name="Crimen e Investigacion ES" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Crimen e Investigacion ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6058
-#EXTINF:-1 tvg-id="" tvg-name="DMAX ES" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",DMAX ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79794
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE ES" tvg-logo="https://static.epg.best/es/Blaze.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",BLAZE ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79812
-#EXTINF:-1 tvg-id="Canal Cocina ES" tvg-name="Canal Cocina ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-cocina-es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Canal Cocina ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1025
-#EXTINF:-1 tvg-id="Canal Decasa ES" tvg-name="Canal Decasa ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Canal Decasa ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1024
-#EXTINF:-1 tvg-id="" tvg-name="DECASA ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",DECASA ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79804
-#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="Caza Y Pesca FHD ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Caza Y Pesca FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4417
-#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="Caza Y Pesca ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Caza Y Pesca ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1027
-#EXTINF:-1 tvg-id="Iberalia TV ES" tvg-name="Iberalia TV ES" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Iberalia TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6056
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="Toros TV FHD ES" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Toros TV FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6067
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="Toros TV ES" tvg-logo="http://tugapt.com/picons/torostv.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Toros TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1065
-#EXTINF:-1 tvg-id="" tvg-name="MundoToro FHD ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",MundoToro FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/113639
-#EXTINF:-1 tvg-id="Mega ES" tvg-name="Mega HD ES" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Mega HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1012
-#EXTINF:-1 tvg-id="" tvg-name="BuenViaje HD ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",BuenViaje HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118914
-#EXTINF:-1 tvg-id="" tvg-name="BuenViaje ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",BuenViaje ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118915
-#EXTINF:-1 tvg-id="" tvg-name="Nature Time FHD ES" tvg-logo="" group-title="ES | DOCUMENTALES" group-title="ES | DOCUMENTALES",Nature Time FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/89984
-
-# ========== INFANTIL ==========
-#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="Disney Channel FHD ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Disney Channel FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4422
-#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="Disney Channel HD ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Disney Channel HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1017
-#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="Disney Junior ES" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Disney Junior ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6050
-#EXTINF:-1 tvg-id="Disney XD ES" tvg-name="Disney XD ES" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Disney XD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1016
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney HD ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Movistar Disney HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79726
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Movistar Disney ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79727
-#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="Nickelodeon FHD ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Nickelodeon FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6048
-#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="Nickelodeon HD ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Nickelodeon HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1014
-#EXTINF:-1 tvg-id="Nick Jr. ES" tvg-name="Nick Junior ES" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Nick Junior ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1013
-#EXTINF:-1 tvg-id="Clan TVE ES" tvg-name="Clan TVE ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Clan TVE ES
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="La Sexta HD ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Spain" group-title="Spain",La Sexta HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1076
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="LA Sexta FHD ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Spain" group-title="Spain",LA Sexta FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4424
+#EXTINF:-1 tvg-id="Clan TVE ES" tvg-name="Clan TVE ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="Spain" group-title="Spain",Clan TVE ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1031
-#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Boing ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1015
-#EXTINF:-1 tvg-id="Canal Panda ES" tvg-name="Canal Panda ES" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Canal Panda ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1023
-#EXTINF:-1 tvg-id="Baby TV ES" tvg-name="Baby TV ES" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Baby TV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6051
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks Animation FHD ES" tvg-logo="" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Dreamworks Animation FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104453
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks Animation HD ES" tvg-logo="" group-title="ES | INFANTIL" group-title="ES | INFANTIL",Dreamworks Animation HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104452
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Superagentes FHD ES" tvg-logo="" group-title="ES | INFANTIL" group-title="ES | INFANTIL",MoviStar Superagentes FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118892
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Superagentes HD ES" tvg-logo="" group-title="ES | INFANTIL" group-title="ES | INFANTIL",MoviStar Superagentes HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118891
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Superagentes ES" tvg-logo="" group-title="ES | INFANTIL" group-title="ES | INFANTIL",MoviStar Superagentes ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118893
-
-# ========== MUSICA ==========
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Indie FHD ES" tvg-logo="" group-title="ES | MUSICA" group-title="ES | MUSICA",MoviStar Indie FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118902
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Indie HD ES" tvg-logo="" group-title="ES | MUSICA" group-title="ES | MUSICA",MoviStar Indie HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118901
-#EXTINF:-1 tvg-id="" tvg-name="MoviStar Indie ES" tvg-logo="" group-title="ES | MUSICA" group-title="ES | MUSICA",MoviStar Indie ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118900
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Fest FHD ES" tvg-logo="" group-title="ES | MUSICA" group-title="ES | MUSICA",Movistar Fest FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104455
-#EXTINF:-1 tvg-id="MTV ES" tvg-name="MTV ES" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="ES | MUSICA" group-title="ES | MUSICA",MTV ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6046
-#EXTINF:-1 tvg-id="VH1 ES" tvg-name="MTV 00s ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-00s-uk.png" group-title="ES | MUSICA" group-title="ES | MUSICA",MTV 00s ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6044
-#EXTINF:-1 tvg-id="MTV ROCKS ES" tvg-name="MTV Rocks ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-rocks-uk.png" group-title="ES | MUSICA" group-title="ES | MUSICA",MTV Rocks ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6045
-#EXTINF:-1 tvg-id="Mezzo Live HD ES" tvg-name="Mezzo Live FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/mezzo-live-hd-es.png" group-title="ES | MUSICA" group-title="ES | MUSICA",Mezzo Live FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6043
-#EXTINF:-1 tvg-id="Classica ES" tvg-name="Classica ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/stingray-classica-es.png" group-title="ES | MUSICA" group-title="ES | MUSICA",Classica ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6042
-
-# ========== NOTICIAS ==========
-#EXTINF:-1 tvg-id="" tvg-name="Negocios TV HD ES" tvg-logo="" group-title="ES | NOTICIAS" group-title="ES | NOTICIAS",Negocios TV HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118887
-#EXTINF:-1 tvg-id="" tvg-name="TVE 24h ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ES | NOTICIAS" group-title="ES | NOTICIAS",TVE 24h ES
+#EXTINF:-1 tvg-id="Nova ES" tvg-name="Nova ES" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="Spain" group-title="Spain",Nova ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1080
+#EXTINF:-1 tvg-id="Neox ES" tvg-name="Neox ES" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="Spain" group-title="Spain",Neox ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1079
+#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/aragon-tv-es.png" group-title="Spain" group-title="Spain",Aragon TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6091
+#EXTINF:-1 tvg-id="Canal Sur ES" tvg-name="Canal SUR ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="Spain" group-title="Spain",Canal SUR ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1057
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true" group-title="Spain" group-title="Spain",DAZN LaLiga ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/124616
+#EXTINF:-1 tvg-id="" tvg-name="Extremadura TV ES" tvg-logo="https://static.epg.best/es/CanalExtremadura.es.png" group-title="Spain" group-title="Spain",Extremadura TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1078
+#EXTINF:-1 tvg-id="" tvg-name="========== ES Cine ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES Cine ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19514
+#EXTINF:-1 tvg-id="Movistar Cine Espanol ES" tvg-name="Movistar Cine Ñ ES" tvg-logo="http://tugapt.com/picons/movistarcinen.png" group-title="Spain" group-title="Spain",Movistar Cine Ñ ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24154
+#EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="Movistar Acción ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png" group-title="Spain" group-title="Spain",Movistar Acción ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1070
+#EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="Movistar Acción FHD ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png" group-title="Spain" group-title="Spain",Movistar Acción FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4409
+#EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="Movistar Comedia ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png" group-title="Spain" group-title="Spain",Movistar Comedia ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1069
+#EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="Movistar Comedia FHD ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png" group-title="Spain" group-title="Spain",Movistar Comedia FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6083
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar DCine ES" tvg-logo="http://tugapt.com/picons/movistardcine.png" group-title="Spain" group-title="Spain",Movistar DCine ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1068
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar Drama Cine FHD ES" tvg-logo="http://tugapt.com/picons/movistardcine.png" group-title="Spain" group-title="Spain",Movistar Drama Cine FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4407
+#EXTINF:-1 tvg-id="Movistar Estrenos ES" tvg-name="Movistar Estrenos ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png" group-title="Spain" group-title="Spain",Movistar Estrenos ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1072
+#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-name="Movistar Estrenos FHD ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png" group-title="Spain" group-title="Spain",Movistar Estrenos FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4408
+#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="Hollywood ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="Spain" group-title="Spain",Hollywood ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1060
+#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="Hollywood HD ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="Spain" group-title="Spain",Hollywood HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6080
+#EXTINF:-1 tvg-id="TCM ES" tvg-name="TCM ES" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="Spain" group-title="Spain",TCM ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1059
+#EXTINF:-1 tvg-id="TCM ES" tvg-name="TCM FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",TCM FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6081
+#EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT ES" tvg-logo="http://tugapt.com/picons/tntse.png" group-title="Spain" group-title="Spain",TNT ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1058
+#EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT FHD ES" tvg-logo="http://tugapt.com/picons/tntse.png" group-title="Spain" group-title="Spain",TNT FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6074
+#EXTINF:-1 tvg-id="" tvg-name="Dark Channel HD ES" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="Spain" group-title="Spain",Dark Channel HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/17624
+#EXTINF:-1 tvg-id="" tvg-name="XTRM ES" tvg-logo="https://static.epg.best/es/Xtrm.es.png" group-title="Spain" group-title="Spain",XTRM ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6076
+#EXTINF:-1 tvg-id="" tvg-name="========== ES Entretenimiento ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES Entretenimiento ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19515
+#EXTINF:-1 tvg-id="#0 ES" tvg-name="#0 ES" tvg-logo="http://tugapt.com/picons/0number.png" group-title="Spain" group-title="Spain",#0 ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1056
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0 FHD ES" tvg-logo="http://tugapt.com/picons/0number.png" group-title="Spain" group-title="Spain",#0 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6085
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar Drama ES" tvg-logo="http://tugapt.com/picons/movistardrama.png" group-title="Spain" group-title="Spain",Movistar Drama ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24155
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="Movistar Drama FHD ES" tvg-logo="http://tugapt.com/picons/movistardrama.png" group-title="Spain" group-title="Spain",Movistar Drama FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24156
+#EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="Movistar Series HD ES" tvg-logo="http://tugapt.com/picons/movistarseries.png" group-title="Spain" group-title="Spain",Movistar Series HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1067
+#EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="Movistar Series FHD ES" tvg-logo="http://tugapt.com/picons/movistarseries.png" group-title="Spain" group-title="Spain",Movistar Series FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4410
+#EXTINF:-1 tvg-id="FOX Life ES" tvg-name="Fox HD ES" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="Spain" group-title="Spain",Fox HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1055
+#EXTINF:-1 tvg-id="FOX ES" tvg-name="Fox FHD ES" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="Spain" group-title="Spain",Fox FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4415
+#EXTINF:-1 tvg-id="AMC ES" tvg-name="AMC HD ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="Spain" group-title="Spain",AMC HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1053
+#EXTINF:-1 tvg-id="AMC ES" tvg-name="AMC FHD ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="Spain" group-title="Spain",AMC FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6082
+#EXTINF:-1 tvg-id="AXN ES" tvg-name="AXN HD ES" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="Spain" group-title="Spain",AXN HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1052
+#EXTINF:-1 tvg-id="AXN ES" tvg-name="AXN FHD ES" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="Spain" group-title="Spain",AXN FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4414
+#EXTINF:-1 tvg-id="AXN White ES" tvg-name="AXN White ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="Spain" group-title="Spain",AXN White ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1051
+#EXTINF:-1 tvg-id="AXN White ES" tvg-name="AXN White FHD ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="Spain" group-title="Spain",AXN White FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4413
+#EXTINF:-1 tvg-id="SYFY ES" tvg-name="SyFy HD ES" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="Spain" group-title="Spain",SyFy HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1050
+#EXTINF:-1 tvg-id="SYFY ES" tvg-name="SyFy FHD ES" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="Spain" group-title="Spain",SyFy FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4420
+#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="Calle 13 HD ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="Spain" group-title="Spain",Calle 13 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1049
+#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="Calle 13 FHD ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="Spain" group-title="Spain",Calle 13 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4416
+#EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="Comedy Central HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Spain" group-title="Spain",Comedy Central HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1048
+#EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="Comedy Central FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Spain" group-title="Spain",Comedy Central FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6073
+#EXTINF:-1 tvg-id="" tvg-name="Cosmo HD ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="Spain" group-title="Spain",Cosmo HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1047
+#EXTINF:-1 tvg-id="" tvg-name="Cosmo FHD ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="Spain" group-title="Spain",Cosmo FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4412
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fdf-es.png" group-title="Spain" group-title="Spain",FDF ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1045
+#EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="Spain" group-title="Spain",Energy ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1044
+#EXTINF:-1 tvg-id="Sundance ES" tvg-name="Sundance TV ES" tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="Spain" group-title="Spain",Sundance TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6072
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="Toros TV ES" tvg-logo="http://tugapt.com/picons/torostv.png" group-title="Spain" group-title="Spain",Toros TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1065
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="Toros TV FHD ES" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="Spain" group-title="Spain",Toros TV FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6067
+#EXTINF:-1 tvg-id="" tvg-name="MundoToro FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",MundoToro FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/113639
+#EXTINF:-1 tvg-id="" tvg-name="a3series HD ES" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="Spain" group-title="Spain",a3series HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6097
+#EXTINF:-1 tvg-id="" tvg-name="========== ES Deportes ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES Deportes ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19516
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos ES" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="Spain" group-title="Spain",#Vamos ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24158
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos HD ES" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="Spain" group-title="Spain",#Vamos HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4405
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos FHD ES" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="Spain" group-title="Spain",#Vamos FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/24157
+#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-name="Movistar Deportes 1 ES" tvg-logo="http://tugapt.com/picons/movistardeportes1.png" group-title="Spain" group-title="Spain",Movistar Deportes 1 ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1064
+#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-name="Movistar Deportes 1 FHD ES" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="Spain" group-title="Spain",Movistar Deportes 1 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6071
+#EXTINF:-1 tvg-id="" tvg-name="beINSport HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spain" group-title="Spain",beINSport HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1043
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="Spain" group-title="Spain",Movistar LaLiga ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/7428
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga HD ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="Spain" group-title="Spain",Movistar LaLiga HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1042
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-1-es.png" group-title="Spain" group-title="Spain",Movistar LaLiga 1 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97241
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-2-es.png" group-title="Spain" group-title="Spain",Movistar LaLiga 2 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97240
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-3-es.png" group-title="Spain" group-title="Spain",Movistar LaLiga 3 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97239
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 4 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-4-es.png" group-title="Spain" group-title="Spain",Movistar LaLiga 4 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97238
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 5 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-5-es.png" group-title="Spain" group-title="Spain",Movistar LaLiga 5 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/97237
+#EXTINF:-1 tvg-id="beIN LaLiga 1 ES" tvg-name="beIN LA Liga FHD ES" tvg-logo="https://static.epg.best/es/beINLaLigaMAX1.es.png" group-title="Spain" group-title="Spain",beIN LA Liga FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4403
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga 123 FHD ES" tvg-logo="https://futhead.cursecdn.com/static/img/17/leagues/54.png" group-title="Spain" group-title="Spain",LaLiga 123 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/8694
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="Spain" group-title="Spain",LaLiga TV Bar ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1062
+#EXTINF:-1 tvg-id="" tvg-name="LaLigaTV FHD ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="Spain" group-title="Spain",LaLigaTV FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6069
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank TV 1 FHD ES" tvg-logo="https://picaoplomo.com/wp-content/uploads/2020/01/logoSegundaDivision.png" group-title="Spain" group-title="Spain",LaLiga SmartBank TV 1 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/110120
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank Tv 2 FHD ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/08/smartbank_color_blanco_agrupado_color2.png" group-title="Spain" group-title="Spain",LaLiga SmartBank Tv 2 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/110121
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank TV 3 FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",LaLiga SmartBank TV 3 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118876
+#EXTINF:-1 tvg-id="Barca TV ES" tvg-name="Barca TV ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="Spain" group-title="Spain",Barca TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1038
+#EXTINF:-1 tvg-id="" tvg-name="Barca+ TV FHD ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="Spain" group-title="Spain",Barca+ TV FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/91068
+#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="https://static.epg.best/es/RealMadridTV.es.png" group-title="Spain" group-title="Spain",Real Madrid TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1037
+#EXTINF:-1 tvg-id="" tvg-name="TVE 24h ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Spain" group-title="Spain",TVE 24h ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6092
-#EXTINF:-1 tvg-id="FOX News ES" tvg-name="Fox News ES" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo-2002.png" group-title="ES | NOTICIAS" group-title="ES | NOTICIAS",Fox News ES
+#EXTINF:-1 tvg-id="GOL ES" tvg-name="Gol TV ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="Spain" group-title="Spain",Gol TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1040
+#EXTINF:-1 tvg-id="GOL ES" tvg-name="Gol TV HD ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="Spain" group-title="Spain",Gol TV HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6066
+#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="EuroSport 1 HD ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Spain" group-title="Spain",EuroSport 1 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1036
+#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="Eurosport 1 FHD ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Spain" group-title="Spain",Eurosport 1 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6065
+#EXTINF:-1 tvg-id="Eurosport 2 ES" tvg-name="Eurosport 2 HD ES" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Spain" group-title="Spain",Eurosport 2 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6064
+#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-name="Dazn F1 FHD VIP ES" tvg-logo="https://static.epg.best/es/MovistarFormula1.es.png" group-title="Spain" group-title="Spain",Dazn F1 FHD VIP ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/13960
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="Movistar Golf ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="Spain" group-title="Spain",Movistar Golf ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1061
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="Movistar Golf FHD ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="Spain" group-title="Spain",Movistar Golf FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4402
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",DAZN F1 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104475
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN F1 HD ES" tvg-logo="" group-title="Spain" group-title="Spain",M. DAZN F1 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104474
+#EXTINF:-1 tvg-id="" tvg-name="M. DAZN F1 SD ES" tvg-logo="" group-title="Spain" group-title="Spain",M. DAZN F1 SD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104473
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 01 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 01 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104472
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 02 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 02 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104471
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 03 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 03 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104470
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 04 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 04 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104469
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 08 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 08 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104465
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 09 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 09 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104464
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 10 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 10 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104463
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 11 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="Spain" group-title="Spain",Eventos 11 FHD (DAZN Y FOOTTERS) ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104462
+#EXTINF:-1 tvg-id="" tvg-name="eSport 3 FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",eSport 3 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104457
+#EXTINF:-1 tvg-id="" tvg-name="eSport 3 HD ES" tvg-logo="" group-title="Spain" group-title="Spain",eSport 3 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104456
+#EXTINF:-1 tvg-id="" tvg-name="========== ES Cultura ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES Cultura ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19517
+#EXTINF:-1 tvg-id="Odisea ES" tvg-name="Odisea HD ES" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="Spain" group-title="Spain",Odisea HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1034
+#EXTINF:-1 tvg-id="National Geographic ES" tvg-name="Nat Geo ES" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="Spain" group-title="Spain",Nat Geo ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1033
+#EXTINF:-1 tvg-id="National Geographic ES" tvg-name="Nat Geo FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="Spain" group-title="Spain",Nat Geo FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4419
+#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="Nat Geo Wild HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="Spain" group-title="Spain",Nat Geo Wild HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1032
+#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="Nat Geo Wild FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="Spain" group-title="Spain",Nat Geo Wild FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4418
+#EXTINF:-1 tvg-id="Discovery Channel ES" tvg-name="Discovery HD ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="Spain" group-title="Spain",Discovery HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1030
+#EXTINF:-1 tvg-id="Discovery Channel ES" tvg-name="Discovery Channel FHD ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="Spain" group-title="Spain",Discovery Channel FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6057
+#EXTINF:-1 tvg-id="Crimen e Investigacion ES" tvg-name="Crimen e Investigacion ES" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="Spain" group-title="Spain",Crimen e Investigacion ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6058
+#EXTINF:-1 tvg-id="Historia ES" tvg-name="Historia ES" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="Spain" group-title="Spain",Historia ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1029
+#EXTINF:-1 tvg-id="Historia ES" tvg-name="Historia FHD ES" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="Spain" group-title="Spain",Historia FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6055
+#EXTINF:-1 tvg-id="Canal Decasa ES" tvg-name="Canal Decasa ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="Spain" group-title="Spain",Canal Decasa ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1024
+#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="Caza Y Pesca ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="Spain" group-title="Spain",Caza Y Pesca ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1027
+#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="Caza Y Pesca FHD ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="Spain" group-title="Spain",Caza Y Pesca FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4417
+#EXTINF:-1 tvg-id="Canal Cocina ES" tvg-name="Canal Cocina ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-cocina-es.png" group-title="Spain" group-title="Spain",Canal Cocina ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1025
+#EXTINF:-1 tvg-id="" tvg-name="Break ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="Spain" group-title="Spain",Break ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1028
+#EXTINF:-1 tvg-id="DKISS ES" tvg-name="DKiss TV ES" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="Spain" group-title="Spain",DKiss TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6040
+#EXTINF:-1 tvg-id="Iberalia TV ES" tvg-name="Iberalia TV ES" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png" group-title="Spain" group-title="Spain",Iberalia TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6056
+#EXTINF:-1 tvg-id="Mega ES" tvg-name="Mega HD ES" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="Spain" group-title="Spain",Mega HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1012
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 1 HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Rakuten TV Top 1 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104460
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 2 HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Rakuten TV Top 2 HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104459
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Family HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Rakuten TV Family HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104458
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Fest FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",Movistar Fest FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104455
+#EXTINF:-1 tvg-id="" tvg-name="My Time Movie Network HD ES" tvg-logo="" group-title="Spain" group-title="Spain",My Time Movie Network HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104454
+#EXTINF:-1 tvg-id="" tvg-name="========== ES Musica ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES Musica ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19518
+#EXTINF:-1 tvg-id="MTV ES" tvg-name="MTV ES" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="Spain" group-title="Spain",MTV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6046
+#EXTINF:-1 tvg-id="MTV ROCKS ES" tvg-name="MTV Rocks ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-rocks-uk.png" group-title="Spain" group-title="Spain",MTV Rocks ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6045
+#EXTINF:-1 tvg-id="VH1 ES" tvg-name="MTV 00s ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-00s-uk.png" group-title="Spain" group-title="Spain",MTV 00s ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6044
+#EXTINF:-1 tvg-id="Mezzo Live HD ES" tvg-name="Mezzo Live FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/mezzo-live-hd-es.png" group-title="Spain" group-title="Spain",Mezzo Live FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6043
+#EXTINF:-1 tvg-id="Classica ES" tvg-name="Classica ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/stingray-classica-es.png" group-title="Spain" group-title="Spain",Classica ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6042
+#EXTINF:-1 tvg-id="" tvg-name="========== ES Niños ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES Niños ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19519
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="Disney Channel HD ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Spain" group-title="Spain",Disney Channel HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1017
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="Disney Channel FHD ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Spain" group-title="Spain",Disney Channel FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/4422
+#EXTINF:-1 tvg-id="Disney XD ES" tvg-name="Disney XD ES" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="Spain" group-title="Spain",Disney XD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1016
+#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="Disney Junior ES" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="Spain" group-title="Spain",Disney Junior ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6050
+#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Spain" group-title="Spain",Boing ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1015
+#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="Nickelodeon HD ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="Spain" group-title="Spain",Nickelodeon HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1014
+#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="Nickelodeon FHD ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="Spain" group-title="Spain",Nickelodeon FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6048
+#EXTINF:-1 tvg-id="Nick Jr. ES" tvg-name="Nick Junior ES" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="Spain" group-title="Spain",Nick Junior ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1013
+#EXTINF:-1 tvg-id="Canal Panda ES" tvg-name="Canal Panda ES" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="Spain" group-title="Spain",Canal Panda ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1023
+#EXTINF:-1 tvg-id="Baby TV ES" tvg-name="Baby TV ES" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="Spain" group-title="Spain",Baby TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6051
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks Animation FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",Dreamworks Animation FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104453
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks Animation HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Dreamworks Animation HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/104452
+#EXTINF:-1 tvg-id="" tvg-name="========== ES Noticias ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES Noticias ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19520
+#EXTINF:-1 tvg-id="FOX News ES" tvg-name="Fox News ES" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo-2002.png" group-title="Spain" group-title="Spain",Fox News ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1074
-
-# ========== INTERNACIONAL (En España) ==========
-#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Telenovela_Channel_logo.jpg" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",TELENOVELAS ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79813
-#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/640px-CUBAVISION_2017.png" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",CUBAVISION ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79782
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",CARACOL ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79783
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA FHD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",ECUAVISA FHD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79784
-#EXTINF:-1 tvg-id="" tvg-name="ETC TV ECUADOR ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",ETC TV ECUADOR ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79785
-#EXTINF:-1 tvg-id="" tvg-name="EVISION ES" tvg-logo="https://mva.org/wp-content/uploads/2018/11/eVision-Logo-Blue-Letters-without-Trademark-Symbol-R.png" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",EVISION ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79786
-#EXTINF:-1 tvg-id="" tvg-name="RCN ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/873px-Canal_RCN_logo.svg.png" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",RCN ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79787
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD ES" tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png" group-title="ES | INTERNACIONAL" group-title="ES | INTERNACIONAL",RCN HD ES
-http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79799
-
-# ========== PPV: TAQUILLA & ALQUILER ==========
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 1 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="========== ES PPV ==========" tvg-logo="" group-title="Spain" group-title="Spain",========== ES PPV ==========
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/19521
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 1 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1011
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 2 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 2 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1010
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 3 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 3 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 3 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 3 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1009
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 4 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 4 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 4 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 4 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1008
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 5 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 5 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1007
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 6 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 6 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 6 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 6 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1006
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 7 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 7 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 7 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 7 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1005
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 8 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 8 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 8 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 8 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1004
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 9 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 9 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 9 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 9 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1003
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 10 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Taquilla 10 HD ES
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 10 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="Spain" group-title="Spain",Taquilla 10 HD ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1002
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler Presentation ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler Presentation ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler Presentation ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler Presentation ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96083
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 1 ES" tvg-logo="https://static.epg.best/es/Alquiler.es.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 1 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 1 ES" tvg-logo="https://static.epg.best/es/Alquiler.es.png" group-title="Spain" group-title="Spain",Alquiler 1 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96082
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 2 ES" tvg-logo="https://static.epg.best/es/Alquiler2.es.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 2 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 2 ES" tvg-logo="https://static.epg.best/es/Alquiler2.es.png" group-title="Spain" group-title="Spain",Alquiler 2 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96081
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 3 ES" tvg-logo="https://static.epg.best/es/Alquiler3.es.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 3 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 3 ES" tvg-logo="https://static.epg.best/es/Alquiler3.es.png" group-title="Spain" group-title="Spain",Alquiler 3 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96080
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 4 ES" tvg-logo="https://static.epg.best/es/Alquiler4.es.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 4 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 4 ES" tvg-logo="https://static.epg.best/es/Alquiler4.es.png" group-title="Spain" group-title="Spain",Alquiler 4 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96079
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 5 ES" tvg-logo="https://static.epg.best/es/Alquiler5.es.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 5 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 5 ES" tvg-logo="https://static.epg.best/es/Alquiler5.es.png" group-title="Spain" group-title="Spain",Alquiler 5 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96078
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 6 ES" tvg-logo="https://static.epg.best/es/Alquiler6.es.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 6 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 6 ES" tvg-logo="https://static.epg.best/es/Alquiler6.es.png" group-title="Spain" group-title="Spain",Alquiler 6 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96077
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 7 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 7 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 7 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 7 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96076
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 8 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 8 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 8 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 8 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96075
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 9 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 9 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 9 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 9 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96074
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 10 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 10 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 10 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 10 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96073
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 11 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 11 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 11 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 11 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96072
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 12 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 12 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 12 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 12 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96071
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 13 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 13 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 13 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 13 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96070
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 14 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 14 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 14 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 14 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96069
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 15 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 15 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 15 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 15 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96068
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 16 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 16 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 16 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 16 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96067
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 17 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 17 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 17 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 17 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96066
-#EXTINF:-1 tvg-id="" tvg-name="Alquiler 18 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES | TAQUILLA Y ALQUILER" group-title="ES | TAQUILLA Y ALQUILER",Alquiler 18 ES
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 18 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="Spain" group-title="Spain",Alquiler 18 ES
 http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96065
+#EXTINF:-1 tvg-id="13 TV ES" tvg-name="13 TV ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="Spain" group-title="Spain",13 TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6093
+#EXTINF:-1 tvg-id="8 tv ES" tvg-name="8TV Madrid ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/8tv-es.png" group-title="Spain" group-title="Spain",8TV Madrid ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6094
+#EXTINF:-1 tvg-id="Andalucia TV ES" tvg-name="Andalucia TV ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="Spain" group-title="Spain",Andalucia TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1039
+#EXTINF:-1 tvg-id="Canal Extremadura ES" tvg-name="C+ Estrellas ES" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="Spain" group-title="Spain",C+ Estrellas ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1046
+#EXTINF:-1 tvg-id="" tvg-name="Esperanza TV ES" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-tv-esperanza-canal-10.jpg" group-title="Spain" group-title="Spain",Esperanza TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1020
+#EXTINF:-1 tvg-id="" tvg-name="Galicia TV ES" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Spain" group-title="Spain",Galicia TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1075
+#EXTINF:-1 tvg-id="" tvg-name="Gracia TV ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_canal_TVGracia.png" group-title="Spain" group-title="Spain",Gracia TV ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/7091
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel HD ES" tvg-logo="https://static.epg.best/es/OlympicChannelEs.es.png" group-title="Spain" group-title="Spain",Olympic Channel HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/6063
+#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="Spain" group-title="Spain",TV3 Cat ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/1019
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional ES" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" group-title="Spain" group-title="Spain",TVE Internacional ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/7427
+#EXTINF:-1 tvg-id="" tvg-name="Divinity ES" tvg-logo="http://tugapt.com/picons/divinity.png" group-title="Spain" group-title="Spain",Divinity ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/44226
+#EXTINF:-1 tvg-id="" tvg-name="Somos ES" tvg-logo="http://tugapt.com/picons/somos.png" group-title="Spain" group-title="Spain",Somos ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/44472
+#EXTINF:-1 tvg-id="" tvg-name="Somos FHD ES" tvg-logo="http://tugapt.com/picons/somos.png" group-title="Spain" group-title="Spain",Somos FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/44471
+#EXTINF:-1 tvg-id="" tvg-name="tdp FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-hd-es.png" group-title="Spain" group-title="Spain",tdp FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/75417
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-multideporte-es.png" group-title="Spain" group-title="Spain",MULTIDEPORTE ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79725
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney HD ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="Spain" group-title="Spain",Movistar Disney HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79726
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="Spain" group-title="Spain",Movistar Disney ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79727
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIESMANIA SD ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="Spain" group-title="Spain",MOVISTAR SERIESMANIA SD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79730
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIESMANIA FHD ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="Spain" group-title="Spain",MOVISTAR SERIESMANIA FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79731
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS SD ES" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="Spain" group-title="Spain",MOVISTAR VAMOS SD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79778
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS FHD ES" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="Spain" group-title="Spain",MOVISTAR VAMOS FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79779
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD ES" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="Spain" group-title="Spain",BE MAD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79780
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD TV HD ES" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="Spain" group-title="Spain",BE MAD TV HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79781
+#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/640px-CUBAVISION_2017.png" group-title="Spain" group-title="Spain",CUBAVISION ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79782
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png" group-title="Spain" group-title="Spain",CARACOL ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79783
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA FHD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Spain" group-title="Spain",ECUAVISA FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79784
+#EXTINF:-1 tvg-id="" tvg-name="ETC TV ECUADOR ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Spain" group-title="Spain",ETC TV ECUADOR ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79785
+#EXTINF:-1 tvg-id="" tvg-name="EVISION ES" tvg-logo="https://mva.org/wp-content/uploads/2018/11/eVision-Logo-Blue-Letters-without-Trademark-Symbol-R.png" group-title="Spain" group-title="Spain",EVISION ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79786
+#EXTINF:-1 tvg-id="" tvg-name="RCN ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/873px-Canal_RCN_logo.svg.png" group-title="Spain" group-title="Spain",RCN ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79787
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Spain" group-title="Spain",TYC SPORT HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79788
+#EXTINF:-1 tvg-id="" tvg-name="TELE MADRID FHD ES" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="Spain" group-title="Spain",TELE MADRID FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79790
+#EXTINF:-1 tvg-id="" tvg-name="AMC ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="Spain" group-title="Spain",AMC ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79791
+#EXTINF:-1 tvg-id="" tvg-name="TV3 FHD ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="Spain" group-title="Spain",TV3 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79792
+#EXTINF:-1 tvg-id="" tvg-name="DMAX ES" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="Spain" group-title="Spain",DMAX ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79794
+#EXTINF:-1 tvg-id="" tvg-name="tdp ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-es.png" group-title="Spain" group-title="Spain",tdp ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79795
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL ES" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="Spain" group-title="Spain",PARAMOUNT CHANNEL ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79796
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="Spain" group-title="Spain",DISCOVERY CHANNEL ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79797
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA ES" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="Spain" group-title="Spain",ODISEA ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79798
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD ES" tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png" group-title="Spain" group-title="Spain",RCN HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79799
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ES" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="Spain" group-title="Spain",EUROSPORT 1 ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79800
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ES" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="Spain" group-title="Spain",EUROSPORT 2 ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79801
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga Campeones ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="Spain" group-title="Spain",Movistar Liga Campeones ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79802
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Spain" group-title="Spain",COMEDY CENTRAL ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79803
+#EXTINF:-1 tvg-id="" tvg-name="DECASA ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="Spain" group-title="Spain",DECASA ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79804
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="Spain" group-title="Spain",CALLE 13 ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79805
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ VAMOS HD ES" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vamos-es.png" group-title="Spain" group-title="Spain",MOVISTAR+ VAMOS HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79808
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes FHD ES" tvg-logo="https://static.epg.best/es/MovistarDeportes.es.png" group-title="Spain" group-title="Spain",Movistar Deportes FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79809
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga Campeones FHD ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="Spain" group-title="Spain",Movistar Liga Campeones FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79810
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Spain" group-title="Spain",ANTENA 3 ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79811
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE ES" tvg-logo="https://static.epg.best/es/Blaze.es.png" group-title="Spain" group-title="Spain",BLAZE ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79812
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Telenovela_Channel_logo.jpg" group-title="Spain" group-title="Spain",TELENOVELAS ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79813
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ES" tvg-logo="https://static.epg.best/it/DAZN.it.png" group-title="Spain" group-title="Spain",DAZN ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/79814
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dazn2-de.png" group-title="Spain" group-title="Spain",Dazn 2 FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/96351
+#EXTINF:-1 tvg-id="" tvg-name="ETB 1 ES" tvg-logo="https://static.epg.best/es/ETB1.es.png" group-title="Spain" group-title="Spain",ETB 1 ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/82744
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break ES" tvg-logo="" group-title="Spain" group-title="Spain",AMC Break ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118920
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",AMC Break FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118919
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break HD ES" tvg-logo="" group-title="Spain" group-title="Spain",AMC Break HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118918
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime ES" tvg-logo="" group-title="Spain" group-title="Spain",AMC Crime ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118917
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime HD ES" tvg-logo="" group-title="Spain" group-title="Spain",AMC Crime HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118916
+#EXTINF:-1 tvg-id="" tvg-name="BuenViaje ES" tvg-logo="" group-title="Spain" group-title="Spain",BuenViaje ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118915
+#EXTINF:-1 tvg-id="" tvg-name="BuenViaje HD ES" tvg-logo="" group-title="Spain" group-title="Spain",BuenViaje HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118914
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía ES" tvg-logo="" group-title="Spain" group-title="Spain",Canal Sur Andalucía ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118913
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Canal Sur Andalucía HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118912
+#EXTINF:-1 tvg-id="" tvg-name="EITB Basque ES" tvg-logo="" group-title="Spain" group-title="Spain",EITB Basque ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118911
+#EXTINF:-1 tvg-id="" tvg-name="EITB Basque HD ES" tvg-logo="" group-title="Spain" group-title="Spain",EITB Basque HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118910
+#EXTINF:-1 tvg-id="" tvg-name="Enfamilia ES" tvg-logo="" group-title="Spain" group-title="Spain",Enfamilia ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118909
+#EXTINF:-1 tvg-id="" tvg-name="Enfamilia FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",Enfamilia FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118908
+#EXTINF:-1 tvg-id="" tvg-name="Enfamilia HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Enfamilia HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118907
+#EXTINF:-1 tvg-id="" tvg-name="Factoría de Ficció ES" tvg-logo="" group-title="Spain" group-title="Spain",Factoría de Ficció ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118906
+#EXTINF:-1 tvg-id="" tvg-name="Factoría de Ficció HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Factoría de Ficció HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118905
+#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",GOL PLAY FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118904
+#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY HD ES" tvg-logo="" group-title="Spain" group-title="Spain",GOL PLAY HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118903
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Indie FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Indie FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118902
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Indie HD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Indie HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118901
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Indie ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Indie ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118900
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Originales FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Originales FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118899
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Originales HD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Originales HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118898
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Originales ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Originales ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118897
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Plus+ FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Plus+ FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118896
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Plus+ HD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Plus+ HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118895
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Plus+ ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Plus+ ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118894
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Superagentes ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Superagentes ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118893
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Superagentes FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Superagentes FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118892
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Superagentes HD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Superagentes HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118891
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Suspense FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Suspense FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118890
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Suspense HD ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Suspense HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118889
+#EXTINF:-1 tvg-id="" tvg-name="MoviStar Suspense ES" tvg-logo="" group-title="Spain" group-title="Spain",MoviStar Suspense ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118888
+#EXTINF:-1 tvg-id="" tvg-name="Negocios TV HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Negocios TV HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118887
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte ES" tvg-logo="" group-title="Spain" group-title="Spain",Teledeporte ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118886
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",Teledeporte FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118885
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Teledeporte HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118884
+#EXTINF:-1 tvg-id="" tvg-name="TEN ES" tvg-logo="" group-title="Spain" group-title="Spain",TEN ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118883
+#EXTINF:-1 tvg-id="" tvg-name="Ten HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Ten HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118882
+#EXTINF:-1 tvg-id="" tvg-name="TVG Europa ES" tvg-logo="" group-title="Spain" group-title="Spain",TVG Europa ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118881
+#EXTINF:-1 tvg-id="" tvg-name="TVG Europa HD ES" tvg-logo="" group-title="Spain" group-title="Spain",TVG Europa HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118880
+#EXTINF:-1 tvg-id="" tvg-name="Ubeat ES" tvg-logo="" group-title="Spain" group-title="Spain",Ubeat ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118879
+#EXTINF:-1 tvg-id="" tvg-name="Ubeat FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",Ubeat FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118878
+#EXTINF:-1 tvg-id="" tvg-name="Ubeat HD ES" tvg-logo="" group-title="Spain" group-title="Spain",Ubeat HD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/118877
+#EXTINF:-1 tvg-id="" tvg-name="Nature Time FHD ES" tvg-logo="" group-title="Spain" group-title="Spain",Nature Time FHD ES
+http://38hacibaba38.gentv.to:8080/FlorimRogova/4gDL6RlJvi/89984
