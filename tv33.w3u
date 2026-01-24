@@ -14,6 +14,14 @@
       "info": "BY PEDRO",
       "type": "m3u"
     },
+
+{
+      "name": "CLOUDIO DIC 26",
+      "image": "https://bimar.byethost31.com/logo1.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/1ANOCLOUDIOSPAIN.m3u",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    },
     {
       "name": "IPTV febrero",
       "image": "https://bimar.byethost31.com/logo3.png",
@@ -29,6 +37,7 @@
     }
   ]
 }
+
 
 
 
