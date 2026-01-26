@@ -1,0 +1,58 @@
+{
+  "name": "Pedro TV (Actualizado 24/01/2026)",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv.w3u",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "author": "by Pedro",
+  "version": "1.0.0",
+  "updated": "2025-10-02T00:00:00Z",
+  "info": "BY PEDRO • Última actualización: 04-01-2026",
+  "groups": [
+    {
+      "name": "PELICULAS",
+      "image": "https://bimar.byethost31.com/pelis.png",
+      "url": "http://vipvodbn.top:8080/get.php?username=VOD4431754332198004&password=ba75c590a7d0&type=m3u_plus&output=mpegts",
+      "info": "BY PEDRO"
+    },
+ {
+      "name": "PEDRO ACESTREAM",
+      "image": "https://bimar.byethost31.com/ace.png",
+      "url": "https://af1cionados.vercel.app/AcEStREAM%20iDs.w3u",
+      "info": "BY PEDRO"
+    },
+    {
+      "name": "CARRASCO",
+      "image": "https://bimar.byethost31.com/usuario1.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
+      "info": "BY PEDRO"
+    },
+    {
+      "name": "MIGUEL",
+      "image": "https://bimar.byethost31.com/usuario2.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
+      "info": "BY PEDRO"
+    },
+    {
+      "name": "JUAN VECINO",
+      "image": "https://bimar.byethost31.com/usuario3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/1ANOCLOUDIOSPAIN.m3u",
+      "info": "BY PEDRO"
+    },
+    {
+      "name": "VPN LISTAS INTERNET",
+      "image": "https://bimar.byethost31.com/externas.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listas.w3u",
+      "info": "BY PEDRO"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
