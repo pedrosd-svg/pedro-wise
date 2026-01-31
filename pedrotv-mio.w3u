@@ -1,5 +1,5 @@
 {
-  "name": "Pedro TV MIO (Actualizado 26/01/2026)",
+  "name": "Pedro TV MIO (Actualizado 31/01/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
@@ -20,14 +20,6 @@
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
       "info": "BY PEDRO"
     },
-
-{
-      "name": "DEPORTES VIP",
-      "image": "https://png.pngtree.com/png-vector/20210716/ourmid/pngtree-vip-icon-for-game-golden-crown-with-red-jewel-png-image_3603951.jpg",
-      "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u",
-      "info": "BY PEDRO"
-    },
-
 
    {
       "name": "SPAIN 2026",
@@ -58,6 +50,7 @@
 
   ]
 }
+
 
 
 
