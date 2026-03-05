@@ -1,34 +1,29 @@
 {
-  "name": "Pedro TV 2026 (Actualizado 19/12/2025)",
+  "name": "Pedro TV 2026 (Actualizado 05/03/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv2.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Neo",
   "version": "1.0.0",
   "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 02-11-2025",
+  "info": "BY PEDRO • Última actualización: 05-03-2026",
   "groups": [
  
     {
       "name": "TV",
       "image": "https://bimar.byethost31.com/usuario1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPORTIUM_TV.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/1ANOCLOUDIOSPAIN.m3u",
       "info": "BY PEDRO"
     },
  {
       "name": "PELICULAS",
       "image": "https://cdn-icons-png.freepik.com/512/4221/4221419.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/SPORTIUM_PELIS.m3u",
-      "info": "BY PEDRO"
-    },   
-
-{
-      "name": "PELICULAS EXTERNAS",
-      "image": "https://i.imgur.com/rnGjRi9.jpeg",
-      "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
-      "info": "BY PEDRO"
+      "url": "https://ghostbin.axel.org/paste/o3mbx/raw",
+     "info": "BY PEDRO"
     }   
+
   ]
 }
+
 
 
 
