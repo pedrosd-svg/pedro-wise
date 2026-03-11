@@ -1,11 +1,11 @@
 {
-  "name": "Pedro TV MIO (Actualizado 02/03/2026)",
+  "name": "Pedro TV MIO (Actualizado 11/03/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 02-03-2026",
+  "info": "BY PEDRO • Última actualización: 11-03-2026",
   "groups": [
      {
       "name": "PEDRO ACESTREAM",
@@ -33,14 +33,6 @@
       "url": "https://ghostbin.axel.org/paste/o3mbx/raw",
       "info": "BY PEDRO"
     },
-
-{
-      "name": "LISTAS EXTRAS",
-      "image": "https://st.depositphotos.com/1005920/4430/i/450/depositphotos_44302379-stock-photo-test-icon.jpg",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/EXTRAS.w3u",
-      "info": "BY PEDRO"
-    },
-
 {
       "name": "XXX NET",
       "image": "https://st.depositphotos.com/1005920/4430/i/450/depositphotos_44302379-stock-photo-test-icon.jpg",
@@ -50,6 +42,7 @@
 
   ]
 }
+
 
 
 
