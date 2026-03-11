@@ -4,43 +4,24 @@
     "author": "by Pedro",
     "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listasSpain.w3u",
     "groups": [
-        {
-            "name": "00--2026-02-27",
+
+{
+            "name": "Television Op1",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-03-21.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/1_26.m3u",
             "info": "BY PEDRO"
         },
 
-{
-            "name": "00--2026-06-20.m3u",
+  {
+            "name": "Television Op3",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-06-20.m3u",
-            "info": "BY PEDRO"
-        },
-
-{
-            "name": "Espa",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-08-15.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2_26.m3u",
             "info": "BY PEDRO"
         },
 {
-            "name": "otra",
+            "name": "Television Op4",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-11-29.m3u",
-            "info": "BY PEDRO"
-        },
-
-{
-            "name": "2026-12-09.m3u",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-12-09.m3u",
-            "info": "BY PEDRO"
-        },
-{
-            "name": "300",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/300.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/3_26.m3u",
             "info": "BY PEDRO"
         }
         
@@ -48,6 +29,7 @@
     ]
 
 }
+
 
 
 
