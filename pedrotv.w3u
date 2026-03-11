@@ -1,11 +1,11 @@
 {
-  "name": "Pedro TV (Actualizado 02/03/2026)",
+  "name": "Pedro TV (Actualizado 11/03/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2026-03-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 02-03-2026",
+  "info": "BY PEDRO • Última actualización: 11-03-2026",
   "groups": [
     {
       "name": "PELICULAS",
@@ -35,6 +35,7 @@
     
   ]
 }
+
 
 
 
