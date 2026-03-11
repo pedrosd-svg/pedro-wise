@@ -11,7 +11,7 @@
     {
             "name": "Television Op1",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "http://be15.netfycf1.top:8080/get.php?username=escf1051769805204&password=c88571ef1f0b&type=m3u_plus&output=mpegts",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/1_26.m3u",
             "info": "BY PEDRO"
         },
 
@@ -20,11 +20,24 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
             "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus&output=mpegts",
             "info": "BY PEDRO"
+        },
+    {
+            "name": "Television Op3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2_26.m3u",
+            "info": "BY PEDRO"
+        },
+{
+            "name": "Television Op4",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/3_26.m3u",
+            "info": "BY PEDRO"
         }
     
   ]
 
 }
+
 
 
 
