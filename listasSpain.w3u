@@ -23,41 +23,42 @@
       "info": "BY PEDRO"
     },
     {
-      "name": "Television Op5",
+      "name": "ilimitada",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://canal-pro.xyz:8080/get.php?username=993300790tv&password=95ghr5&type=m3u_plus",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-06-12.m3u",
       "info": "CADUCA: 2027-01-14"
     },
-    {
-      "name": "Television Op6",
+ {
+      "name": "2027-09-18",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://canal-pro.xyz:8080/get.php?username=Manuelmiranda&password=z8WzTML8Vv&type=m3u_plus",
-      "info": "CADUCA: 2026-10-13"
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-09-18.m3u",
+      "info": "CADUCA: 2027-01-14"
     },
-    {
-      "name": "Television Op7",
+ {
+      "name": "2026-10-06",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://canal-pro.xyz:8080/get.php?username=949551075tv&password=g6549qxay&type=m3u_plus",
-      "info": "CADUCA: 2026-06-12"
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-10-06.m3u",
+      "info": "CADUCA: 2027-01-14"
     },
-    {
-      "name": "Television Op8",
+ {
+      "name": "2026-04-24",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://canal-pro.xyz:8080/get.php?username=994763158tv&password=d7t5wq564&type=m3u_plus",
-      "info": "CADUCA: 2026-05-21"
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-04-24.m3u",
+      "info": "CADUCA: 2027-01-14"
     },
-    {
-      "name": "Television Op9",
+ {
+      "name": "2026-04-16",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://canal-pro.xyz:8080/get.php?username=983499912tv&password=51z4ft&type=m3u_plus",
-      "info": "CADUCA: 2026-04-15"
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-04-16.m3u",
+      "info": "CADUCA: 2027-01-14"
     },
-    {
-      "name": "Television Op10",
+ {
+      "name": "2026-03-24",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://canal-pro.xyz:8080/get.php?username=HTGSXXK1vG&password=2Ny6ZnvjPA35&type=m3u_plus",
-      "info": "CADUCA: 2026-04-10"
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-03-24.m3u",
+      "info": "CADUCA: 2027-01-14"
     }
+   
   ]
 }
 
