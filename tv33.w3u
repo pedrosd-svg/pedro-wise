@@ -7,14 +7,7 @@
   "updated": "2025-10-02T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 05-01-2026",
   "groups": [
-    {
-      "name": "IPTV Sportium 26-02-26",
-      "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/sportiumTV.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
-
+    
 {
       "name": "CLOUDIO DIC 26",
       "image": "https://bimar.byethost31.com/logo1.png",
@@ -28,21 +21,9 @@
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "http://be15.netfycf1.top:8080/get.php?username=escf1051769805204&password=c88571ef1f0b&type=m3u_plus&output=mpegts",
       "info": "m3u"
-    },
-
-    {
-      "name": "IPTV febrero",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://pc213.eshofrcep.top:8080/get.php?username=es8931764350336378&password=6208f7675ce4&type=m3u_plus&output=mpegts",
-      "info": "m3u"
-    },
-    {
-      "name": "IPTV hasta Marzo 26",
-      "image": "https://iptvpedro.byethost7.com/mio.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/nuevaMarzo2026.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
     }
+
+   
   ]
 }
 
