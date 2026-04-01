@@ -1,5 +1,5 @@
 {
-  "name": "Pedro TV (Actualizado 11/03/2026)",
+  "name": "Pedro TV (Actualizado 01/04/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
@@ -7,10 +7,18 @@
   "updated": "2026-03-02T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 11-03-2026",
   "groups": [
-    {
-      "name": "PELICULAS",
-      "image": "https://bimar.byethost31.com/pelis.png",
-      "url": "http://vipvodbn.top:8080/get.php?username=VOD4431754332198004&password=ba75c590a7d0&type=m3u_plus&output=mpegts",
+
+{
+      "name": "PELIS chuky",
+      "image": "https://i.imgur.com/rnGjRi9.jpeg",
+      "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
+      "info": "BY PEDRO"
+    },
+
+{
+      "name": "chuky x",
+      "image": "https://i.imgur.com/rnGjRi9.jpeg",
+      "url": "https://raw.githubusercontent.com/tiriti1/tiri/refs/heads/main/GROUP%20CHUKYHOOD%2B18%F0%9F%94%9E.w3u",
       "info": "BY PEDRO"
     },
 
