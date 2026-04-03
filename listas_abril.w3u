@@ -5,52 +5,53 @@
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/listasSpain.w3u",
   "groups": [
     {
-      "name": "2027-02-05",
+      "name": "2026-05-28.m3u",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://rpyees2.top:8080/get.php?username=es3301770314385&password=91f338cc20a9&type=m3u_plus&output=ts",
-      "info": "BY PEDRO"
-    },
-    {
-      "name": "2026-11-27",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://esodette.top:8080/get.php?username=qhhWMHX3SmWx&password=U8MyvnWNNxHy&type=m3u_plus",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-05-28.m3u",
       "info": "BY PEDRO"
     },
     {
       "name": "2026-09-28",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://ultrapremium.cloud:8080/get.php?username=34118113&password=48ug9bj9Cv3&type=m3u_plus&output=m3u8",
+     "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-09-28.m3u",
       "info": "BY PEDRO"
     },
     {
-      "name": "2026-09-15",
+      "name": "2027-10-16-xxx-y-varios",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://d4e.wwdazcpo.top:8080/get.php?username=7551723734426175&password=e9ee20cc3e8a&type=m3u_plus",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-10-16-xxx-y-varios.m3u",
       "info": "BY PEDRO"
     },
     {
-      "name": "2026-09-12",
+      "name": "Espa 1",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://zz050.sviportdaey.top:8080/get.php?username=Barea250912&password=HUGRGY3&type=m3u_plus&output=ts",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/es1.m3u",
       "info": "BY PEDRO"
     },
-    {
-      "name": "2026-09-12 (Alt)",
+ {
+      "name": "Espa 2",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://canal-pro.xyz:8080/get.php?username=fkrhowiijk&password=eEgwXbsWp6CH&type=m3u_plus&output=ts",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/es2.m3u",
       "info": "BY PEDRO"
     },
-    {
-      "name": "2026-08-03",
+ {
+      "name": "Espa 3",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://esodette.top:8080/get.php?username=es5281753471251287&password=cd608f4d29f8&type=m3u_plus",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/es3.m3u",
       "info": "BY PEDRO"
     },
-    {
-      "name": "2026-05-05",
+ {
+      "name": "Espa 4",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-      "url": "http://d4e.wwdazcpo.top:8080/get.php?username=5641746466109743&password=53118fcaea79&type=m3u_plus",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/es4.m3u",
+      "info": "BY PEDRO"
+    },
+ {
+      "name": "Espa 5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/es5.m3u",
       "info": "BY PEDRO"
     }
+    
   ]
 }
