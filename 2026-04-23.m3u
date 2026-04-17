@@ -1,0 +1,105 @@
+#EXTM3U
+
+# --- GRUPO: FUTBOL Y DEPORTES ---
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" group-title="FUTBOL",ESP - BEIN LALIGA 1 (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161871
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" group-title="FUTBOL",ESP - BEIN SPORTS LA LIGA (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161872
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FOTBOL F(M)(720) 4K" group-title="FUTBOL",ESP - MOVISTAR FOTBOL F(M)(720) 4K
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161907
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" group-title="FUTBOL",ESP - Movistar Liga de Campeones (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161959
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" group-title="FUTBOL",ESP - Movistar LaLiga (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/162018
+#EXTINF:-1 tvg-id="" tvg-name="ESP - GOL (TV)(1080)" group-title="DEPORTES",ESP - GOL (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8187
+#EXTINF:-1 tvg-id="" tvg-name="ES DAZN 1 F(M)(720)" group-title="DEPORTES",ES DAZN 1 F(M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161922
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FORMULA 1 (M)(720)" group-title="MOTOR",ESP - MOVISTAR FORMULA 1 (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161910
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTARr GOLF F(M)(720)" group-title="DEPORTES",ESP - MOVISTARr GOLF F(M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161954
+
+# --- GRUPO: CINE ---
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Accion (TV)(1080)" group-title="CINE",ESP - M. Accion (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8196
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Cine Español (TV)(720)" group-title="CINE",ESP - M. Cine Español (TV)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8197
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Bom Cine (TV)(720)" group-title="CINE",ESP - Bom Cine (TV)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8154
+#EXTINF:-1 tvg-id="" tvg-name="ESP - DARK (TV)(1080)" group-title="CINE",ESP - DARK (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8168
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Paramount Channel (TV)(720)" group-title="CINE",ESP - Paramount Channel (TV)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8231
+#EXTINF:-1 tvg-id="" tvg-name="ESP - TCM (TV)(1080)" group-title="CINE",ESP - TCM (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8239
+#EXTINF:-1 tvg-id="" tvg-name="ESP - SUNDANCE (M)(720)" group-title="CINE",ESP - SUNDANCE (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161991
+
+# --- GRUPO: SERIES ---
+#EXTINF:-1 tvg-id="" tvg-name="ESP - A3Series (TV)(1080)" group-title="SERIES",ESP - A3Series (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8138
+#EXTINF:-1 tvg-id="" tvg-name="ESP - AMC (TV)(1080)" group-title="SERIES",ESP - AMC (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8140
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Calle 13 (TV)(1080)" group-title="SERIES",ESP - Calle 13 (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8156
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox (M)(720)" group-title="SERIES",ESP - Fox (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161887
+#EXTINF:-1 tvg-id="" tvg-name="ESP - TNT (M)(720)" group-title="SERIES",ESP - TNT (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161898
+
+# --- GRUPO: INFANTIL ---
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Disney Channel (TV)(1080)" group-title="INFANTIL",ESP - Disney Channel (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8171
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (TV)(1080)" group-title="INFANTIL",ESP - Nickelodeon (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8226
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BABY TV (M)(720)" group-title="INFANTIL",ESP - BABY TV (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161927
+#EXTINF:-1 tvg-id="" tvg-name="ESP - PANDA (M)(720)" group-title="INFANTIL",ESP - PANDA (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161993
+
+# --- GRUPO: DOCUMENTALES Y ESTILO DE VIDA ---
+#EXTINF:-1 tvg-id="National.Geographic.es" tvg-name="ESP - National Geographic (TV)(1080)" group-title="DOCUMENTALES",ESP - National Geographic (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8221
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Odisea (TV)(720)" group-title="DOCUMENTALES",ESP - Odisea (TV)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8229
+#EXTINF:-1 tvg-id="" tvg-name="ESP - HISTORIA (M)(720)" group-title="DOCUMENTALES",ESP - HISTORIA (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161906
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Cocina TV (M)(720)" group-title="ESTILO DE VIDA",ESP - Cocina TV (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161891
+#EXTINF:-1 tvg-id="" tvg-name="ESP -  VIAJAR (M)(720)" group-title="VIAJES",ESP -  VIAJAR (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161899
+
+# --- GRUPO: GENERAL Y REGIONALES ---
+#EXTINF:-1 tvg-id="" tvg-name="ESP - La 1 (TV)(1080)" group-title="GENERAL",ESP - La 1 (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8192
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Telecinco (TV)(1080)" group-title="GENERAL",ESP - Telecinco (TV)(1080)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8241
+#EXTINF:-1 tvg-id="" tvg-name="ESP - ARAGON TV (M)(720)" group-title="REGIONAL",ESP - ARAGON TV (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161981
+#EXTINF:-1 tvg-id="" tvg-name="ESP - CANAL SUR (M)(720)" group-title="REGIONAL",ESP - CANAL SUR (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161934
+#EXTINF:-1 tvg-id="" tvg-name="ESP - ETB 1 (M)(720)" group-title="REGIONAL",ESP - ETB 1 (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/162024
+
+# --- GRUPO: NOTICIAS ---
+#EXTINF:-1 tvg-id="" tvg-name="ESP - 24h (TV)(720)" group-title="NOTICIAS",ESP - 24h (TV)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/8136
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BLOOMBERG (M)(720)" group-title="NOTICIAS",ESP - BLOOMBERG (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/161932
+
+# --- GRUPO: ADULTOS (CANALES) ---
+#EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:HUSTLER (M)(720)" group-title="ADULTOS",Adultos + 18 - XXX:HUSTLER (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/163950
+#EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - Playboy TV (M)(720)" group-title="ADULTOS",Adultos + 18 - Playboy TV (M)(720)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/163955
+#EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:Brazzers TV (i)" group-title="ADULTOS",Adultos + 18 - XXX:Brazzers TV (i)
+http://tv.diablotv.net:8080/SJby5LLrtF/f29e63e51ab8/164503
+
+# --- GRUPO: ADULTOS (VOD) ---
+#EXTINF:-1 tvg-id="" tvg-name="A los 18 años me volví una zorra" group-title="VOD ADULTOS",A los 18 años me volví una zorra
+http://tv.diablotv.net:8080/movie/SJby5LLrtF/f29e63e51ab8/10503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gina Ferocious - Private" group-title="VOD ADULTOS",Gina Ferocious - Private
+http://tv.diablotv.net:8080/movie/SJby5LLrtF/f29e63e51ab8/126197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad Parodia XXX" group-title="VOD ADULTOS",Breaking Bad Parodia XXX
+http://tv.diablotv.net:8080/movie/SJby5LLrtF/f29e63e51ab8/10506.mp4
