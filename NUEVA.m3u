@@ -1,0 +1,645 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES | Veo7 FHD" tvg-logo="https://logo.m3uassets.com/gol.png" group-title="ES | ENTRETENIMIENTO",ES | Veo7 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505727
+#EXTINF:-1 tvg-id="HBOMaxAvances.es" tvg-name="ES | Max Avances FHD" tvg-logo="https://logo.m3uassets.com/avance.png" group-title="ES | ENTRETENIMIENTO",ES | Max Avances FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505790
+#EXTINF:-1 tvg-id="MovistarPlus+.es" tvg-name="ES | M+ Plus FHD" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Plus FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505791
+#EXTINF:-1 tvg-id="SkyShowtime1.es" tvg-name="ES | M+ Sky Showtime FHD" tvg-logo="https://logo.m3uassets.com/skyshowtime1.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Sky Showtime FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505792
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Cine bélico FHD" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | M+ Cine bélico FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505793
+#EXTINF:-1 tvg-id="M+LosGoya.es" tvg-name="ES | M+ Los Goya" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | M+ Los Goya
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505794
+#EXTINF:-1 tvg-id="M+Estrenos.es" tvg-name="ES | M+ Estrenos FHD" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Estrenos FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505795
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES | M+ Cine Español FHD" tvg-logo="https://logo.m3uassets.com/mcineespanol.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Cine Español FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505796
+#EXTINF:-1 tvg-id="M+Originales.es" tvg-name="ES | M+ Originales FHD" tvg-logo="https://logo.m3uassets.com/originalespormovistarplus.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Originales FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505797
+#EXTINF:-1 tvg-id="M+Hits.es" tvg-name="ES | M+ Hits FHD" tvg-logo="https://logo.m3uassets.com/hits.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Hits FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505798
+#EXTINF:-1 tvg-id="M+Accion.es" tvg-name="ES | M+ Accion FHD" tvg-logo="https://logo.m3uassets.com/maccion.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Accion FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505799
+#EXTINF:-1 tvg-id="M+Comedia.es" tvg-name="ES | M+ Comedia FHD" tvg-logo="https://logo.m3uassets.com/mcomedia.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Comedia FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505800
+#EXTINF:-1 tvg-id="M+Drama.es" tvg-name="ES | M+ Drama FHD" tvg-logo="https://logo.m3uassets.com/mdrama.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Drama FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505801
+#EXTINF:-1 tvg-id="M+Indie.es" tvg-name="ES | M+ Indie FHD" tvg-logo="https://logo.m3uassets.com/indiepormovistarplus.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Indie FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505802
+#EXTINF:-1 tvg-id="M+Documentales.es" tvg-name="ES | M+ Documentales FHD" tvg-logo="https://logo.m3uassets.com/documentalespormovistarplus.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Documentales FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505803
+#EXTINF:-1 tvg-id="M+Clasicos.es" tvg-name="ES | M+ Clásicos FHD" tvg-logo="https://logo.m3uassets.com/movistarclasicos.png" group-title="ES | ENTRETENIMIENTO",ES | M+ Clásicos FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505804
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal FlixOlé 1" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Canal FlixOlé 1
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505805
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal FlixOlé 2" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Canal FlixOlé 2
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505806
+#EXTINF:-1 tvg-id="" tvg-name="ES | VinTV FHD" tvg-logo="https://logo.m3uassets.com/vintv.png" group-title="ES | ENTRETENIMIENTO",ES | VinTV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505807
+#EXTINF:-1 tvg-id="" tvg-name="ES | Anime Visión" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Anime Visión
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505808
+#EXTINF:-1 tvg-id="" tvg-name="ES | Anime Visión Classics" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Anime Visión Classics
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505809
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES | AMC FHD" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="ES | ENTRETENIMIENTO",ES | AMC FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505810
+#EXTINF:-1 tvg-id="AMCCrime.es" tvg-name="ES | AMC Crime FHD" tvg-logo="https://logo.m3uassets.com/amccrime.png" group-title="ES | ENTRETENIMIENTO",ES | AMC Crime FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505811
+#EXTINF:-1 tvg-id="AMCBreak.es" tvg-name="ES | AMC Break FHD" tvg-logo="https://logo.m3uassets.com/amcbreak.png" group-title="ES | ENTRETENIMIENTO",ES | AMC Break FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505812
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES | AXN FHD" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="ES | ENTRETENIMIENTO",ES | AXN FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505813
+#EXTINF:-1 tvg-id="" tvg-name="ES | AXN Movies FHD" tvg-logo="https://logo.m3uassets.com/axnmovies.png" group-title="ES | ENTRETENIMIENTO",ES | AXN Movies FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505814
+#EXTINF:-1 tvg-id="" tvg-name="ES | SELEKT FHD" tvg-logo="https://logo.m3uassets.com/selekt.png" group-title="ES | ENTRETENIMIENTO",ES | SELEKT FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505815
+#EXTINF:-1 tvg-id="DARK.es" tvg-name="ES | Canal Dark FHD" tvg-logo="https://logo.m3uassets.com/canaldark.png" group-title="ES | ENTRETENIMIENTO",ES | Canal Dark FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505816
+#EXTINF:-1 tvg-id="WarnerTV.es" tvg-name="ES | Warner TV FHD" tvg-logo="https://logo.m3uassets.com/warnertv.png" group-title="ES | ENTRETENIMIENTO",ES | Warner TV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505817
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES | XTRM FHD" tvg-logo="https://logo.m3uassets.com/xtrm.png" group-title="ES | ENTRETENIMIENTO",ES | XTRM FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505818
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES | Calle 13 FHD" tvg-logo="https://logo.m3uassets.com/calle13.png" group-title="ES | ENTRETENIMIENTO",ES | Calle 13 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505819
+#EXTINF:-1 tvg-id="StarChannel.es" tvg-name="ES | Star Channel FHD" tvg-logo="https://logo.m3uassets.com/starchannel.png" group-title="ES | ENTRETENIMIENTO",ES | Star Channel FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505820
+#EXTINF:-1 tvg-id="SYFY.es" tvg-name="ES | SyFy FHD" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="ES | ENTRETENIMIENTO",ES | SyFy FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505821
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES | TCM FHD" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="ES | ENTRETENIMIENTO",ES | TCM FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505822
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES | Comedy Central FHD" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="ES | ENTRETENIMIENTO",ES | Comedy Central FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505823
+#EXTINF:-1 tvg-id="COSMO.es" tvg-name="ES | Cosmo FHD" tvg-logo="https://logo.m3uassets.com/cosmo.png" group-title="ES | ENTRETENIMIENTO",ES | Cosmo FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505824
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES | Canal Hollywood FHD" tvg-logo="https://logo.m3uassets.com/canalhollywood.png" group-title="ES | ENTRETENIMIENTO",ES | Canal Hollywood FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505825
+#EXTINF:-1 tvg-id="" tvg-name="ES | Vivir con gatos" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Vivir con gatos
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505826
+#EXTINF:-1 tvg-id="" tvg-name="ES | Vivir con perros" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Vivir con perros
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505827
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia FHD" tvg-logo="https://logo.m3uassets.com/iberalia.png" group-title="ES | ENTRETENIMIENTO",ES | Iberalia FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505828
+#EXTINF:-1 tvg-id="" tvg-name="ES | Iberalia 100% Caza FHD" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Iberalia 100% Caza FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505829
+#EXTINF:-1 tvg-id="" tvg-name="ES | Iberalia 100% Pesca FHD" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Iberalia 100% Pesca FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505830
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pesca FHD" tvg-logo="https://logo.m3uassets.com/cazaypesca.png" group-title="ES | ENTRETENIMIENTO",ES | Caza y Pesca FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505831
+#EXTINF:-1 tvg-id="Cazavision.es" tvg-name="ES | Cazavision FHD" tvg-logo="https://logo.m3uassets.com/cazavision.png" group-title="ES | ENTRETENIMIENTO",ES | Cazavision FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505832
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES | Somos FHD" tvg-logo="https://logo.m3uassets.com/somos.png" group-title="ES | ENTRETENIMIENTO",ES | Somos FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505833
+#EXTINF:-1 tvg-id="Discovery.es" tvg-name="ES | Discovery Channel FHD" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="ES | ENTRETENIMIENTO",ES | Discovery Channel FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505834
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | Canal Odisea FHD" tvg-logo="https://logo.m3uassets.com/canalodisea.png" group-title="ES | ENTRETENIMIENTO",ES | Canal Odisea FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505835
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES | Canal Cocina FHD" tvg-logo="https://logo.m3uassets.com/canalcocina.png" group-title="ES | ENTRETENIMIENTO",ES | Canal Cocina FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505836
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Decasa FHD" tvg-logo="https://logo.m3uassets.com/canaldecasa.png" group-title="ES | ENTRETENIMIENTO",ES | Canal Decasa FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505837
+#EXTINF:-1 tvg-id="" tvg-name="ES | NatureTime" tvg-logo="https://logo.m3uassets.com/naturetime.png" group-title="ES | ENTRETENIMIENTO",ES | NatureTime
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505838
+#EXTINF:-1 tvg-id="" tvg-name="ES | Love the Planet" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Love the Planet
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505839
+#EXTINF:-1 tvg-id="" tvg-name="ES | Love Wine" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Love Wine
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505840
+#EXTINF:-1 tvg-id="" tvg-name="ES | Historia y Vida" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Historia y Vida
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505841
+#EXTINF:-1 tvg-id="" tvg-name="ES | Buen Viaje FHD" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Buen Viaje FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505842
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES | Nat Geo Wild FHD" tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="ES | ENTRETENIMIENTO",ES | Nat Geo Wild FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505843
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES | National Geographic FHD" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="ES | ENTRETENIMIENTO",ES | National Geographic FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505844
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES | Historia FHD" tvg-logo="https://logo.m3uassets.com/historia.png" group-title="ES | ENTRETENIMIENTO",ES | Historia FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505845
+#EXTINF:-1 tvg-id="NegociosTV.es" tvg-name="ES | Negocios TV" tvg-logo="https://logo.m3uassets.com/negocios.png" group-title="ES | ENTRETENIMIENTO",ES | Negocios TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505846
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="ES | Sundance TV FHD" tvg-logo="https://logo.m3uassets.com/sundancetv.png" group-title="ES | ENTRETENIMIENTO",ES | Sundance TV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505847
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cines Verdi TV FHD" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Cines Verdi TV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505848
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cine Feel Good FHD" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Cine Feel Good FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505849
+#EXTINF:-1 tvg-id="" tvg-name="ES | Inglés total - Multinivel" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Inglés total - Multinivel
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505850
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tastemade" tvg-logo="https://logo.m3uassets.com/tastemade.png" group-title="ES | ENTRETENIMIENTO",ES | Tastemade
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505851
+#EXTINF:-1 tvg-id="" tvg-name="ES | SX3" tvg-logo="https://logo.m3uassets.com/el33sx3.png" group-title="ES | ENTRETENIMIENTO",ES | SX3
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505852
+#EXTINF:-1 tvg-id="BBCEarth.es" tvg-name="ES | M+ BBC Earth FHD" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="ES | ENTRETENIMIENTO",ES | M+ BBC Earth FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505853
+#EXTINF:-1 tvg-id="" tvg-name="ES | BBC Drama FHD" tvg-logo="https://logo.m3uassets.com/bbcdrama.png" group-title="ES | ENTRETENIMIENTO",ES | BBC Drama FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505854
+#EXTINF:-1 tvg-id="" tvg-name="ES | BBC World FHD" tvg-logo="https://logo.m3uassets.com/bbcworld.png" group-title="ES | ENTRETENIMIENTO",ES | BBC World FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505855
+#EXTINF:-1 tvg-id="BBCTopGear.es" tvg-name="ES | BBC Top Gear FHD" tvg-logo="https://logo.m3uassets.com/topgear.png" group-title="ES | ENTRETENIMIENTO",ES | BBC Top Gear FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505856
+#EXTINF:-1 tvg-id="BBCWorld.es" tvg-name="ES | BBC History FHD" tvg-logo="https://logo.m3uassets.com/history.png" group-title="ES | ENTRETENIMIENTO",ES | BBC History FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505857
+#EXTINF:-1 tvg-id="BBCFood.es" tvg-name="ES | BBC Food FHD" tvg-logo="https://logo.m3uassets.com/bbcfood.png" group-title="ES | ENTRETENIMIENTO",ES | BBC Food FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505858
+#EXTINF:-1 tvg-id="" tvg-name="ES | BBC News FHD" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="ES | ENTRETENIMIENTO",ES | BBC News FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505859
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cetelmon TV España" tvg-logo="https://logo.m3uassets.com/cetelmontv.png" group-title="ES | ENTRETENIMIENTO",ES | Cetelmon TV España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505860
+#EXTINF:-1 tvg-id="" tvg-name="ES | TBN España" tvg-logo="https://logo.m3uassets.com/tbnespana.png" group-title="ES | ENTRETENIMIENTO",ES | TBN España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505861
+#EXTINF:-1 tvg-id="" tvg-name="ES | Solidaria TV España" tvg-logo="https://logo.m3uassets.com/solidariatv.png" group-title="ES | ENTRETENIMIENTO",ES | Solidaria TV España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505862
+#EXTINF:-1 tvg-id="" tvg-name="ES | RTV Vida España" tvg-logo="https://logo.m3uassets.com/rtvvida.png" group-title="ES | ENTRETENIMIENTO",ES | RTV Vida España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505863
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ecclesia COPE España" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Ecclesia COPE España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505864
+#EXTINF:-1 tvg-id="" tvg-name="ES | RTV Diocesana Toledo España" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | RTV Diocesana Toledo España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505865
+#EXTINF:-1 tvg-id="BBCSeries.es" tvg-name="ES | BBC Series FHD" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | BBC Series FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505866
+#EXTINF:-1 tvg-id="BBCLifestyle.es" tvg-name="ES | BBC LifeStyle FHD" tvg-logo="https://logo.m3uassets.com/bbclifestyle.png" group-title="ES | ENTRETENIMIENTO",ES | BBC LifeStyle FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505867
+#EXTINF:-1 tvg-id="" tvg-name="ES | Corazon" tvg-logo="https://logo.m3uassets.com/corazon.png" group-title="ES | ENTRETENIMIENTO",ES | Corazon
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505881
+#EXTINF:-1 tvg-id="" tvg-name="ES | Kanal D" tvg-logo="https://logo.m3uassets.com/kanald.png" group-title="ES | ENTRETENIMIENTO",ES | Kanal D
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505882
+#EXTINF:-1 tvg-id="" tvg-name="ES | My Time" tvg-logo="https://logo.m3uassets.com/ctime.png" group-title="ES | ENTRETENIMIENTO",ES | My Time
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505883
+#EXTINF:-1 tvg-id="DiscoveryMax.es" tvg-name="ES | DMAX FHD" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="ES | ENTRETENIMIENTO",ES | DMAX FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505884
+#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="ES | Paramount Network FHD" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="ES | ENTRETENIMIENTO",ES | Paramount Network FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505885
+#EXTINF:-1 tvg-id="BOMCine.es" tvg-name="ES | Bom Cine FHD" tvg-logo="https://logo.m3uassets.com/bomcine.png" group-title="ES | ENTRETENIMIENTO",ES | Bom Cine FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505886
+#EXTINF:-1 tvg-id="BEMAD.es" tvg-name="ES | BeMad FHD" tvg-logo="https://logo.m3uassets.com/bemad.png" group-title="ES | ENTRETENIMIENTO",ES | BeMad FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505887
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cine Feel Good" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Cine Feel Good
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505888
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cines Verdi TV" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Cines Verdi TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505889
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Sangre Fria" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Sangre Fria
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505890
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Crimen" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Crimen
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505891
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Curro Jimenez" tvg-logo="https://logo.m3uassets.com/currojimenez.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Curro Jimenez
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505892
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Ana y los 7" tvg-logo="https://logo.m3uassets.com/anaylos7.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Ana y los 7
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505893
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Familia" tvg-logo="https://logo.m3uassets.com/familytime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Familia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505894
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Comedia" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Comedia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505895
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Romance" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Romance
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505896
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Thriller+Terror" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Thriller+Terror
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505897
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Series" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Series
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505898
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Clasicos" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Clasicos
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505899
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Accion" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Accion
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505900
+#EXTINF:-1 tvg-id="" tvg-name="ES | RUN:TIME Cine y Series" tvg-logo="https://logo.m3uassets.com/runtime.png" group-title="ES | ENTRETENIMIENTO",ES | RUN:TIME Cine y Series
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505901
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Pais" tvg-logo="https://logo.m3uassets.com/elpaistv.png" group-title="ES | ENTRETENIMIENTO",ES | El Pais
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505902
+#EXTINF:-1 tvg-id="CGTNEspanol.es" tvg-name="ES | CGTN Español" tvg-logo="https://logo.m3uassets.com/cgtnespanol.png" group-title="ES | ENTRETENIMIENTO",ES | CGTN Español
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505903
+#EXTINF:-1 tvg-id="Euronews.es" tvg-name="ES | Euro News. Español" tvg-logo="https://logo.m3uassets.com/euronewse.png" group-title="ES | ENTRETENIMIENTO",ES | Euro News. Español
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505904
+#EXTINF:-1 tvg-id="" tvg-name="ES | Oficios Perdidos" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Oficios Perdidos
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505905
+#EXTINF:-1 tvg-id="" tvg-name="ES | Naturaleza" tvg-logo="https://logo.m3uassets.com/naturaleza.png" group-title="ES | ENTRETENIMIENTO",ES | Naturaleza
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505906
+#EXTINF:-1 tvg-id="" tvg-name="ES | CRIMENES REALES" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | CRIMENES REALES
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505907
+#EXTINF:-1 tvg-id="" tvg-name="ES | TODO CRIMEN" tvg-logo="https://logo.m3uassets.com/docucrime.png" group-title="ES | ENTRETENIMIENTO",ES | TODO CRIMEN
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505908
+#EXTINF:-1 tvg-id="" tvg-name="ES | ARCHIVOS FORENSES" tvg-logo="https://logo.m3uassets.com/archivosforenses.png" group-title="ES | ENTRETENIMIENTO",ES | ARCHIVOS FORENSES
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505909
+#EXTINF:-1 tvg-id="" tvg-name="ES | COPS en Español" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | COPS en Español
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505910
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA FIEBRE DEL JADE" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | LA FIEBRE DEL JADE
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505911
+#EXTINF:-1 tvg-id="" tvg-name="ES | PILOTOS DEL ARTICO" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | PILOTOS DEL ARTICO
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505912
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten EN FAMILIA" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten EN FAMILIA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505913
+#EXTINF:-1 tvg-id="" tvg-name="ES | HOLA Play" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | HOLA Play
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505914
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ideas en 5 Minutos" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Ideas en 5 Minutos
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505915
+#EXTINF:-1 tvg-id="" tvg-name="ES | travelxp" tvg-logo="https://logo.m3uassets.com/travelxp.png" group-title="ES | ENTRETENIMIENTO",ES | travelxp
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505916
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten Estilo y Vida" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten Estilo y Vida
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505917
+#EXTINF:-1 tvg-id="" tvg-name="ES | FUEL Tv" tvg-logo="https://logo.m3uassets.com/fueltv.png" group-title="ES | ENTRETENIMIENTO",ES | FUEL Tv
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505918
+#EXTINF:-1 tvg-id="" tvg-name="ES | FAILARMY" tvg-logo="https://logo.m3uassets.com/failarmy.png" group-title="ES | ENTRETENIMIENTO",ES | FAILARMY
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505919
+#EXTINF:-1 tvg-id="" tvg-name="ES | PEOPLE ARE AWESOME" tvg-logo="https://logo.m3uassets.com/peopleareawesome.png" group-title="ES | ENTRETENIMIENTO",ES | PEOPLE ARE AWESOME
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505920
+#EXTINF:-1 tvg-id="" tvg-name="ES | The Pet Collective" tvg-logo="https://logo.m3uassets.com/thepetcollective.png" group-title="ES | ENTRETENIMIENTO",ES | The Pet Collective
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505921
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mr. Bean" tvg-logo="https://logo.m3uassets.com/mrbean.png" group-title="ES | ENTRETENIMIENTO",ES | Mr. Bean
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505922
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mr. Bean Animado" tvg-logo="https://logo.m3uassets.com/mrbean.png" group-title="ES | ENTRETENIMIENTO",ES | Mr. Bean Animado
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505923
+#EXTINF:-1 tvg-id="" tvg-name="ES | Todo Novelas" tvg-logo="https://logo.m3uassets.com/novelas.png" group-title="ES | ENTRETENIMIENTO",ES | Todo Novelas
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505924
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten VIKI" tvg-logo="https://logo.m3uassets.com/rakutenviki.png" group-title="ES | ENTRETENIMIENTO",ES | Rakuten VIKI
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505925
+#EXTINF:-1 tvg-id="" tvg-name="ES | BBC DOCTOR WHO" tvg-logo="https://logo.m3uassets.com/doctorwho.png" group-title="ES | ENTRETENIMIENTO",ES | BBC DOCTOR WHO
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505926
+#EXTINF:-1 tvg-id="" tvg-name="ES | SCI-FI" tvg-logo="https://logo.m3uassets.com/sci.png" group-title="ES | ENTRETENIMIENTO",ES | SCI-FI
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505927
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten CRIMEN" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten CRIMEN
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505928
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cine WESTERN" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Cine WESTERN
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505929
+#EXTINF:-1 tvg-id="" tvg-name="ES | GRJNGO" tvg-logo="https://logo.m3uassets.com/grjngo.png" group-title="ES | ENTRETENIMIENTO",ES | GRJNGO
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505930
+#EXTINF:-1 tvg-id="" tvg-name="ES | HORROR VISION" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | HORROR VISION
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505931
+#EXTINF:-1 tvg-id="" tvg-name="ES | CINE FRIKI" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | CINE FRIKI
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505932
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten ACCION" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten ACCION
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505933
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten THRILLERS" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten THRILLERS
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505934
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten ROMANTICO" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten ROMANTICO
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505935
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten DRAMA" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten DRAMA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505936
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten COMEDIA" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten COMEDIA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505937
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten ACCION" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten ACCION
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505938
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten PELIS TOP" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Rakuten PELIS TOP
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505939
+#EXTINF:-1 tvg-id="" tvg-name="ES | Molahits TV España" tvg-logo="https://logo.m3uassets.com/molahitstv.png" group-title="ES | ENTRETENIMIENTO",ES | Molahits TV España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505940
+#EXTINF:-1 tvg-id="" tvg-name="ES | Verbena TV España" tvg-logo="https://logo.m3uassets.com/verbenatv.png" group-title="ES | ENTRETENIMIENTO",ES | Verbena TV España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505941
+#EXTINF:-1 tvg-id="" tvg-name="ES | Spektra TV España" tvg-logo="https://logo.m3uassets.com/spektratv.png" group-title="ES | ENTRETENIMIENTO",ES | Spektra TV España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505942
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tropical Moon Salsa TV" tvg-logo="https://logo.m3uassets.com/tropicalmoonsalsatv.png" group-title="ES | ENTRETENIMIENTO",ES | Tropical Moon Salsa TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505943
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tropical Moon Cumbia TV" tvg-logo="https://logo.m3uassets.com/tropicalmooncumbiatv.png" group-title="ES | ENTRETENIMIENTO",ES | Tropical Moon Cumbia TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505944
+#EXTINF:-1 tvg-id="" tvg-name="ES | Radio Italia TV" tvg-logo="https://logo.m3uassets.com/radioitaliatv.png" group-title="ES | ENTRETENIMIENTO",ES | Radio Italia TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505945
+#EXTINF:-1 tvg-id="" tvg-name="ES | RTL 102.5 Italia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | RTL 102.5 Italia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505946
+#EXTINF:-1 tvg-id="" tvg-name="ES | Number1 FM Turquía" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Number1 FM Turquía
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505947
+#EXTINF:-1 tvg-id="" tvg-name="ES | Kronehit Austria" tvg-logo="https://logo.m3uassets.com/kronehit.png" group-title="ES | ENTRETENIMIENTO",ES | Kronehit Austria
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505948
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4FUN TV Polonia" tvg-logo="https://logo.m3uassets.com/4funtv.png" group-title="ES | ENTRETENIMIENTO",ES | 4FUN TV Polonia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505949
+#EXTINF:-1 tvg-id="" tvg-name="ES | QMusic Países Bajos" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | QMusic Países Bajos
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505950
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ocko Chequia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Ocko Chequia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505951
+#EXTINF:-1 tvg-id="" tvg-name="ES | Star Chequia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Star Chequia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505952
+#EXTINF:-1 tvg-id="" tvg-name="ES | Expres Chequia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Expres Chequia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505953
+#EXTINF:-1 tvg-id="" tvg-name="ES | m2o Italia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | m2o Italia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505954
+#EXTINF:-1 tvg-id="" tvg-name="ES | Radio Capital Italia" tvg-logo="https://logo.m3uassets.com/radiocapital.png" group-title="ES | ENTRETENIMIENTO",ES | Radio Capital Italia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505955
+#EXTINF:-1 tvg-id="" tvg-name="ES | Radio ZETA Italia" tvg-logo="https://logo.m3uassets.com/radiozeta.png" group-title="ES | ENTRETENIMIENTO",ES | Radio ZETA Italia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505956
+#EXTINF:-1 tvg-id="" tvg-name="ES | On TV Portugal" tvg-logo="https://logo.m3uassets.com/ontv.png" group-title="ES | ENTRETENIMIENTO",ES | On TV Portugal
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505957
+#EXTINF:-1 tvg-id="" tvg-name="ES | NRG91 Grecia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | NRG91 Grecia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505958
+#EXTINF:-1 tvg-id="" tvg-name="ES | Power TV Turquía" tvg-logo="https://logo.m3uassets.com/powerturktv.png" group-title="ES | ENTRETENIMIENTO",ES | Power TV Turquía
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505959
+#EXTINF:-1 tvg-id="" tvg-name="ES | CMC Croacia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | CMC Croacia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505960
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sky Folk Macedonia" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Sky Folk Macedonia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505961
+#EXTINF:-1 tvg-id="" tvg-name="ES | 1Muz Bielorrusia (HD)" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | 1Muz Bielorrusia (HD)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505962
+#EXTINF:-1 tvg-id="" tvg-name="ES | 1Muz Bielorrusia (SD)" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | 1Muz Bielorrusia (SD)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505963
+#EXTINF:-1 tvg-id="" tvg-name="ES | RU.TV Rusia" tvg-logo="https://logo.m3uassets.com/tvrus.png" group-title="ES | ENTRETENIMIENTO",ES | RU.TV Rusia
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505964
+#EXTINF:-1 tvg-id="" tvg-name="ES | 5k V2Beat TV" tvg-logo="https://logo.m3uassets.com/v2beatmusictv.png" group-title="ES | ENTRETENIMIENTO",ES | 5k V2Beat TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505965
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dance TV Estonia (Opción 1)" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Dance TV Estonia (Opción 1)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505966
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Mega Mundial USA" tvg-logo="https://logo.m3uassets.com/lamegamundial.png" group-title="ES | ENTRETENIMIENTO",ES | La Mega Mundial USA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505967
+#EXTINF:-1 tvg-id="" tvg-name="ES | 30A Music USA" tvg-logo="https://logo.m3uassets.com/30amusic.png" group-title="ES | ENTRETENIMIENTO",ES | 30A Music USA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505968
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ditty TV USA" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | Ditty TV USA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505969
+#EXTINF:-1 tvg-id="" tvg-name="ES | Retro Plus TV Chile" tvg-logo="https://logo.m3uassets.com/retroplus.png" group-title="ES | ENTRETENIMIENTO",ES | Retro Plus TV Chile
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505970
+#EXTINF:-1 tvg-id="" tvg-name="ES | Portal Foxmix Chile" tvg-logo="https://logo.m3uassets.com/portalfoxmix.png" group-title="ES | ENTRETENIMIENTO",ES | Portal Foxmix Chile
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505971
+#EXTINF:-1 tvg-id="" tvg-name="ES | Spirit TV USA" tvg-logo="https://logo.m3uassets.com/spirittv.png" group-title="ES | ENTRETENIMIENTO",ES | Spirit TV USA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505972
+#EXTINF:-1 tvg-id="" tvg-name="ES | María Visión España" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | María Visión España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505973
+#EXTINF:-1 tvg-id="" tvg-name="ES | Enlace TV Costa Rica" tvg-logo="https://logo.m3uassets.com/enlacetv.png" group-title="ES | ENTRETENIMIENTO",ES | Enlace TV Costa Rica
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505974
+#EXTINF:-1 tvg-id="" tvg-name="ES | Redevida Brasil" tvg-logo="https://logo.m3uassets.com/redebrasil.png" group-title="ES | ENTRETENIMIENTO",ES | Redevida Brasil
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505975
+#EXTINF:-1 tvg-id="" tvg-name="ES | MTV FHD" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="ES | ENTRETENIMIENTO",ES | MTV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505976
+#EXTINF:-1 tvg-id="" tvg-name="ES | MTV Live" tvg-logo="https://logo.m3uassets.com/mtvlive.png" group-title="ES | ENTRETENIMIENTO",ES | MTV Live
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505977
+#EXTINF:-1 tvg-id="MTV00s.es" tvg-name="ES | ES: MTV 00s FHD" tvg-logo="https://logo.m3uassets.com/mtv00s.png" group-title="ES | ENTRETENIMIENTO",ES | ES: MTV 00s FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505978
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sol Música" tvg-logo="https://logo.m3uassets.com/solmusica.png" group-title="ES | ENTRETENIMIENTO",ES | Sol Música
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505979
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="ES | Mezzo HD" tvg-logo="https://logo.m3uassets.com/mezzo.png" group-title="ES | ENTRETENIMIENTO",ES | Mezzo HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505980
+#EXTINF:-1 tvg-id="MezzoLive.es" tvg-name="ES | Mezzo Live" tvg-logo="https://logo.m3uassets.com/mezzolive.png" group-title="ES | ENTRETENIMIENTO",ES | Mezzo Live
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505981
+#EXTINF:-1 tvg-id="" tvg-name="ES | TRACE Urban" tvg-logo="https://logo.m3uassets.com/traceurban.png" group-title="ES | ENTRETENIMIENTO",ES | TRACE Urban
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505982
+#EXTINF:-1 tvg-id="" tvg-name="ES | TRACE Hits" tvg-logo="https://logo.m3uassets.com/tracehits.png" group-title="ES | ENTRETENIMIENTO",ES | TRACE Hits
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505983
+#EXTINF:-1 tvg-id="" tvg-name="ES | TRACE Latina" tvg-logo="https://logo.m3uassets.com/tracelatina.png" group-title="ES | ENTRETENIMIENTO",ES | TRACE Latina
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505984
+#EXTINF:-1 tvg-id="" tvg-name="ES | VEVO Pop" tvg-logo="https://logo.m3uassets.com/vevopop.png" group-title="ES | ENTRETENIMIENTO",ES | VEVO Pop
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505985
+#EXTINF:-1 tvg-id="" tvg-name="ES | VEVO Latino" tvg-logo="https://logo.m3uassets.com/vevo.png" group-title="ES | ENTRETENIMIENTO",ES | VEVO Latino
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505986
+#EXTINF:-1 tvg-id="" tvg-name="ES | Djazz" tvg-logo="https://logo.m3uassets.com/djazz.png" group-title="ES | ENTRETENIMIENTO",ES | Djazz
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505987
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="ES | Classica HD" tvg-logo="https://logo.m3uassets.com/classica.png" group-title="ES | ENTRETENIMIENTO",ES | Classica HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505988
+#EXTINF:-1 tvg-id="" tvg-name="ES | Festival 4K" tvg-logo="https://logo.m3uassets.com/13festival.png" group-title="ES | ENTRETENIMIENTO",ES | Festival 4K
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505989
+#EXTINF:-1 tvg-id="" tvg-name="ES | Qello concerts" tvg-logo="https://logo.m3uassets.com/qelloconcertsbystingray.png" group-title="ES | ENTRETENIMIENTO",ES | Qello concerts
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505990
+#EXTINF:-1 tvg-id="" tvg-name="ES | Qwest TV" tvg-logo="https://logo.m3uassets.com/qwesttv.png" group-title="ES | ENTRETENIMIENTO",ES | Qwest TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505991
+#EXTINF:-1 tvg-id="" tvg-name="ES | FLAMENCO Auditorio" tvg-logo="" group-title="ES | ENTRETENIMIENTO",ES | FLAMENCO Auditorio
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505992
+#EXTINF:-1 tvg-id="" tvg-name="ES | QWEST Tv" tvg-logo="https://logo.m3uassets.com/qwesttv.png" group-title="ES | ENTRETENIMIENTO",ES | QWEST Tv
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505993
+#EXTINF:-1 tvg-id="" tvg-name="ES | Activa TV España" tvg-logo="https://logo.m3uassets.com/activatv.png" group-title="ES | ENTRETENIMIENTO",ES | Activa TV España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505994
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cadena Elite España" tvg-logo="https://logo.m3uassets.com/cadenaelite.png" group-title="ES | ENTRETENIMIENTO",ES | Cadena Elite España
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505995
+#EXTINF:-1 tvg-id="" tvg-name="ES | NOW ROCK" tvg-logo="https://logo.m3uassets.com/nowrock.png" group-title="ES | ENTRETENIMIENTO",ES | NOW ROCK
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505996
+#EXTINF:-1 tvg-id="" tvg-name="ES | NOW 80s" tvg-logo="https://logo.m3uassets.com/now80s.png" group-title="ES | ENTRETENIMIENTO",ES | NOW 80s
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505997
+#EXTINF:-1 tvg-id="" tvg-name="ES | NOW 70s" tvg-logo="https://logo.m3uassets.com/now70s.png" group-title="ES | ENTRETENIMIENTO",ES | NOW 70s
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505998
+#EXTINF:-1 tvg-id="" tvg-name="ES | DELUXE LOUNGE" tvg-logo="https://logo.m3uassets.com/deluxelounge.png" group-title="ES | ENTRETENIMIENTO",ES | DELUXE LOUNGE
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505999
+#EXTINF:-1 tvg-id="" tvg-name="ES | Quello CONCERTS BY STINGRAY" tvg-logo="https://logo.m3uassets.com/qelloconcertsbystingray.png" group-title="ES | ENTRETENIMIENTO",ES | Quello CONCERTS BY STINGRAY
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/506000
+#EXTINF:-1 tvg-id="" tvg-name="ES | REMEMBER THE 80sBY STINGRAY" tvg-logo="https://logo.m3uassets.com/stingrayrememberthe80s.png" group-title="ES | ENTRETENIMIENTO",ES | REMEMBER THE 80sBY STINGRAY
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/506001
+#EXTINF:-1 tvg-id="" tvg-name="ES | HIT LISTBY STINGRAY" tvg-logo="https://logo.m3uassets.com/stingrayhitlist.png" group-title="ES | ENTRETENIMIENTO",ES | HIT LISTBY STINGRAY
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/506002
+#EXTINF:-1 tvg-id="" tvg-name="ES | GREATEST HITSBY STINGRAY" tvg-logo="https://logo.m3uassets.com/stingraygreatestholidayhits.png" group-title="ES | ENTRETENIMIENTO",ES | GREATEST HITSBY STINGRAY
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/506003
+#EXTINF:-1 tvg-id="" tvg-name="ES | naturescapeBY STINGRAY" tvg-logo="https://logo.m3uassets.com/stingraynaturescape.png" group-title="ES | ENTRETENIMIENTO",ES | naturescapeBY STINGRAY
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/506004
+#EXTINF:-1 tvg-id="Ubeat.es" tvg-name="ES | Ubeat HD" tvg-logo="https://logo.m3uassets.com/ubeat.png" group-title="ES | ENTRETENIMIENTO",ES | Ubeat HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/506005
+#EXTINF:-1 tvg-id="" tvg-name="ES | LALIGA Inside" tvg-logo="https://logo.m3uassets.com/mlaliga.png" group-title="ES | FUTBOL",ES | LALIGA Inside
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505671
+#EXTINF:-1 tvg-id="" tvg-name="ES | Primera Federación" tvg-logo="" group-title="ES | FUTBOL",ES | Primera Federación
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505672
+#EXTINF:-1 tvg-id="LaLigaTVBAR.es" tvg-name="ES | M+ LaLiga HD" tvg-logo="https://logo.m3uassets.com/mlaliga.png" group-title="ES | FUTBOL",ES | M+ LaLiga HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505673
+#EXTINF:-1 tvg-id="LaLigaTVBAR.es" tvg-name="ES | M+ LaLiga FHD" tvg-logo="https://logo.m3uassets.com/mlaliga.png" group-title="ES | FUTBOL",ES | M+ LaLiga FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505674
+#EXTINF:-1 tvg-id="LALIGATVBAR2.es" tvg-name="ES | M+ LaLiga 2 HD" tvg-logo="https://logo.m3uassets.com/mlaliga2.png" group-title="ES | FUTBOL",ES | M+ LaLiga 2 HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505675
+#EXTINF:-1 tvg-id="LALIGATVBAR2.es" tvg-name="ES | M+ LaLiga 2 FHD" tvg-logo="https://logo.m3uassets.com/mlaliga2.png" group-title="ES | FUTBOL",ES | M+ LaLiga 2 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505676
+#EXTINF:-1 tvg-id="LALIGATVBAR3.es" tvg-name="ES | M+ LaLiga 3 Orange FHD" tvg-logo="https://logo.m3uassets.com/mlaliga3.png" group-title="ES | FUTBOL",ES | M+ LaLiga 3 Orange FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505677
+#EXTINF:-1 tvg-id="LALIGATVBAR4" tvg-name="ES | M+ LaLiga 4 Orange FHD" tvg-logo="https://logo.m3uassets.com/movistarlaliga4.png" group-title="ES | FUTBOL",ES | M+ LaLiga 4 Orange FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505678
+#EXTINF:-1 tvg-id="LALIGATVBAR5.es" tvg-name="ES | M+ LaLiga 5 Orange FHD" tvg-logo="https://logo.m3uassets.com/movistarlaliga5.png" group-title="ES | FUTBOL",ES | M+ LaLiga 5 Orange FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505679
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV.es" tvg-name="ES | LaLiga TV Hypermotion HD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505680
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV.es" tvg-name="ES | LaLiga TV Hypermotion FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505681
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV2.es" tvg-name="ES | LaLiga TV Hypermotion 2 HD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion2.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 2 HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505682
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV2.es" tvg-name="ES | LaLiga TV Hypermotion 2 FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion2.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 2 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505683
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV3.es" tvg-name="ES | LaLiga TV Hypermotion 3 FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion3.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 3 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505684
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga TV Hypermotion 4 FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion4.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 4 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505685
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga TV Hypermotion 5 FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion5.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 5 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505686
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga TV Hypermotion 6 FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 6 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505687
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga TV Hypermotion 7 FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 7 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505688
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga TV Hypermotion 8 FHD" tvg-logo="https://logo.m3uassets.com/laligatvhypermotion.png" group-title="ES | FUTBOL",ES | LaLiga TV Hypermotion 8 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505689
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES | Dazn LaLiga 1 HD" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="ES | FUTBOL",ES | Dazn LaLiga 1 HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505690
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES | Dazn LaLiga 1 FHD" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="ES | FUTBOL",ES | Dazn LaLiga 1 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505691
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="ES | Dazn LaLiga 2 HD" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="ES | FUTBOL",ES | Dazn LaLiga 2 HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505692
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="ES | Dazn LaLiga 2 FHD" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="ES | FUTBOL",ES | Dazn LaLiga 2 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505693
+#EXTINF:-1 tvg-id="DAZNBaloncesto.es" tvg-name="ES | DAZN Baloncesto" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="ES | FUTBOL",ES | DAZN Baloncesto
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505694
+#EXTINF:-1 tvg-id="DAZNBaloncesto2.es" tvg-name="ES | DAZN Baloncesto 2" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="ES | FUTBOL",ES | DAZN Baloncesto 2
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505695
+#EXTINF:-1 tvg-id="DAZNBaloncesto3.es" tvg-name="ES | DAZN Baloncesto 3" tvg-logo="https://logo.m3uassets.com/dazn.png" group-title="ES | FUTBOL",ES | DAZN Baloncesto 3
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505696
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES | Dazn 1 HD" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="ES | FUTBOL",ES | Dazn 1 HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505697
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES | Dazn 1 FHD" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="ES | FUTBOL",ES | Dazn 1 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505698
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES | Dazn 2 HD" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="ES | FUTBOL",ES | Dazn 2 HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505699
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES | Dazn 2 FHD" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="ES | FUTBOL",ES | Dazn 2 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505700
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="ES | Dazn F1 HD" tvg-logo="https://logo.m3uassets.com/daznf1.png" group-title="ES | FUTBOL",ES | Dazn F1 HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505701
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="ES | Dazn F1 FHD" tvg-logo="https://logo.m3uassets.com/daznf1.png" group-title="ES | FUTBOL",ES | Dazn F1 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505702
+#EXTINF:-1 tvg-id="" tvg-name="ES | NFL Network FHD" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="ES | FUTBOL",ES | NFL Network FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505703
+#EXTINF:-1 tvg-id="" tvg-name="ES | PLL Network FHD" tvg-logo="" group-title="ES | FUTBOL",ES | PLL Network FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505704
+#EXTINF:-1 tvg-id="" tvg-name="ES | PowerSports World FHD" tvg-logo="" group-title="ES | FUTBOL",ES | PowerSports World FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505705
+#EXTINF:-1 tvg-id="" tvg-name="ES | Boxing TV FHD" tvg-logo="https://logo.m3uassets.com/plutotvboxing.png" group-title="ES | FUTBOL",ES | Boxing TV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505706
+#EXTINF:-1 tvg-id="" tvg-name="ES | Matchroom Boxing FHD" tvg-logo="https://logo.m3uassets.com/tvsboxing.png" group-title="ES | FUTBOL",ES | Matchroom Boxing FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505707
+#EXTINF:-1 tvg-id="" tvg-name="ES | Billiard TV FHD" tvg-logo="https://logo.m3uassets.com/billiardtv.png" group-title="ES | FUTBOL",ES | Billiard TV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505708
+#EXTINF:-1 tvg-id="" tvg-name="ES | PDC Darts FHD" tvg-logo="https://logo.m3uassets.com/pdcdarts.png" group-title="ES | FUTBOL",ES | PDC Darts FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505709
+#EXTINF:-1 tvg-id="" tvg-name="ES | ACL Cornhole TV FHD" tvg-logo="https://logo.m3uassets.com/aclcornholetv.png" group-title="ES | FUTBOL",ES | ACL Cornhole TV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505710
+#EXTINF:-1 tvg-id="" tvg-name="ES | Motorvision TV" tvg-logo="https://logo.m3uassets.com/motorvisiontv.png" group-title="ES | FUTBOL",ES | Motorvision TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505711
+#EXTINF:-1 tvg-id="" tvg-name="ES | Unbeaten" tvg-logo="https://logo.m3uassets.com/unbeaten.png" group-title="ES | FUTBOL",ES | Unbeaten
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505712
+#EXTINF:-1 tvg-id="" tvg-name="ES | Futbol Replay" tvg-logo="https://logo.m3uassets.com/canalfutbolreplay.png" group-title="ES | FUTBOL",ES | Futbol Replay
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505713
+#EXTINF:-1 tvg-id="" tvg-name="ES | Formula 1 Replay" tvg-logo="https://logo.m3uassets.com/formula1.png" group-title="ES | FUTBOL",ES | Formula 1 Replay
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505714
+#EXTINF:-1 tvg-id="" tvg-name="ES | Motociclismo Replay" tvg-logo="" group-title="ES | FUTBOL",ES | Motociclismo Replay
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505715
+#EXTINF:-1 tvg-id="M+#Vamos.es" tvg-name="ES | #Vamos FHD" tvg-logo="https://logo.m3uassets.com/vamos.png" group-title="ES | FUTBOL",ES | #Vamos FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505716
+#EXTINF:-1 tvg-id="M+#Vamos.es" tvg-name="ES | #Vamos 2 FHD" tvg-logo="https://logo.m3uassets.com/vamos.png" group-title="ES | FUTBOL",ES | #Vamos 2 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505717
+#EXTINF:-1 tvg-id="M+Deportes.es" tvg-name="ES | M+ Deportes FHD" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505718
+#EXTINF:-1 tvg-id="M+Deportes2.es" tvg-name="ES | M+ Deportes 2 FHD (Solo Eventos)" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes 2 FHD (Solo Eventos)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505719
+#EXTINF:-1 tvg-id="M+Deportes3.es" tvg-name="ES | M+ Deportes 3 FHD (Solo Eventos)" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes 3 FHD (Solo Eventos)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505720
+#EXTINF:-1 tvg-id="M+Deportes4.es" tvg-name="ES | M+ Deportes 4 FHD (Solo Eventos)" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes 4 FHD (Solo Eventos)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505721
+#EXTINF:-1 tvg-id="M+Deportes5.es" tvg-name="ES | M+ Deportes 5 FHD (Solo Eventos)" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes 5 FHD (Solo Eventos)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505722
+#EXTINF:-1 tvg-id="M+Deportes6.es" tvg-name="ES | M+ Deportes 6 FHD (Solo Eventos)" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes 6 FHD (Solo Eventos)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505723
+#EXTINF:-1 tvg-id="M+Deportes7.es" tvg-name="ES | M+ Deportes 7 FHD (Solo Eventos)" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes 7 FHD (Solo Eventos)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505724
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Deportes 8 FHD (Solo Eventos)" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES | FUTBOL",ES | M+ Deportes 8 FHD (Solo Eventos)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505725
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporte FHD" tvg-logo="https://logo.m3uassets.com/teledeporte.png" group-title="ES | FUTBOL",ES | Teledeporte FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505726
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES | EuroSport 1 FHD" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="ES | FUTBOL",ES | EuroSport 1 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505728
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES | EuroSport 2 FHD" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="ES | FUTBOL",ES | EuroSport 2 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505729
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ellas #V FHD" tvg-logo="https://logo.m3uassets.com/ellastv.png" group-title="ES | FUTBOL",ES | Ellas #V FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505730
+#EXTINF:-1 tvg-id="M+Golf.es" tvg-name="ES | M+ Golf FHD" tvg-logo="https://logo.m3uassets.com/movistargolf.png" group-title="ES | FUTBOL",ES | M+ Golf FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505731
+#EXTINF:-1 tvg-id="" tvg-name="ES | MMA TV" tvg-logo="https://logo.m3uassets.com/mmatv.png" group-title="ES | FUTBOL",ES | MMA TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505732
+#EXTINF:-1 tvg-id="" tvg-name="ES | Fight Sports" tvg-logo="https://logo.m3uassets.com/fightsports.png" group-title="ES | FUTBOL",ES | Fight Sports
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505733
+#EXTINF:-1 tvg-id="" tvg-name="ES | FITE 24/7" tvg-logo="https://logo.m3uassets.com/fite247.png" group-title="ES | FUTBOL",ES | FITE 24/7
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505734
+#EXTINF:-1 tvg-id="" tvg-name="ES | PFL" tvg-logo="" group-title="ES | FUTBOL",ES | PFL
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505735
+#EXTINF:-1 tvg-id="" tvg-name="ES | Persiana Fight" tvg-logo="https://logo.m3uassets.com/persiana.png" group-title="ES | FUTBOL",ES | Persiana Fight
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505736
+#EXTINF:-1 tvg-id="" tvg-name="ES | Stadium USA" tvg-logo="https://logo.m3uassets.com/stadium.png" group-title="ES | FUTBOL",ES | Stadium USA
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505737
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rugby Challenge Spain" tvg-logo="https://logo.m3uassets.com/challenge.png" group-title="ES | FUTBOL",ES | Rugby Challenge Spain
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505738
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tennis Channel HD" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="ES | FUTBOL",ES | Tennis Channel HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505739
+#EXTINF:-1 tvg-id="" tvg-name="ES | My Padel TV" tvg-logo="" group-title="ES | FUTBOL",ES | My Padel TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505740
+#EXTINF:-1 tvg-id="" tvg-name="ES | Top Barça" tvg-logo="" group-title="ES | FUTBOL",ES | Top Barça
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505741
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES | Real Madrid TV HD" tvg-logo="https://logo.m3uassets.com/realmadridtv.png" group-title="ES | FUTBOL",ES | Real Madrid TV HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505742
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Betis TV" tvg-logo="https://logo.m3uassets.com/betistv.png" group-title="ES | FUTBOL",ES | Canal Betis TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505743
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cádiz CF TV" tvg-logo="" group-title="ES | FUTBOL",ES | Cádiz CF TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505744
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Garage TV" tvg-logo="https://logo.m3uassets.com/elgaragetv.png" group-title="ES | FUTBOL",ES | El Garage TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505745
+#EXTINF:-1 tvg-id="" tvg-name="ES | Moto ADV FHD" tvg-logo="https://logo.m3uassets.com/motoadv.png" group-title="ES | FUTBOL",ES | Moto ADV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505746
+#EXTINF:-1 tvg-id="ElGarageTV.es" tvg-name="ES | Garage TV Argentina" tvg-logo="https://logo.m3uassets.com/garagetv.png" group-title="ES | FUTBOL",ES | Garage TV Argentina
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505747
+#EXTINF:-1 tvg-id="" tvg-name="ES | Motorsport.tv" tvg-logo="https://logo.m3uassets.com/motorsporttv.png" group-title="ES | FUTBOL",ES | Motorsport.tv
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505748
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rally TV" tvg-logo="https://logo.m3uassets.com/rallytv.png" group-title="ES | FUTBOL",ES | Rally TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505749
+#EXTINF:-1 tvg-id="M+LigadeCampeones.es" tvg-name="ES | M+ Liga de Campeones HD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505750
+#EXTINF:-1 tvg-id="M+LigadeCampeones.es" tvg-name="ES | M+ Liga de Campeones FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505751
+#EXTINF:-1 tvg-id="M+LigadeCampeones2.es" tvg-name="ES | M+ Liga de Campeones 2 Orange FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones2.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 2 Orange FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505752
+#EXTINF:-1 tvg-id="M+LigadeCampeones3.es" tvg-name="ES | M+ Liga de Campeones 3 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones3.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 3 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505753
+#EXTINF:-1 tvg-id="M+LigadeCampeones4.es" tvg-name="ES | M+ Liga de Campeones 4 Orange FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones4.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 4 Orange FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505754
+#EXTINF:-1 tvg-id="M+LigadeCampeones5.es" tvg-name="ES | M+ Liga de Campeones 5 Orange FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones5.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 5 Orange FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505755
+#EXTINF:-1 tvg-id="M+LigadeCampeones6.es" tvg-name="ES | M+ Liga de Campeones 6 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones6.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 6 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505756
+#EXTINF:-1 tvg-id="M+LigadeCampeones7.es" tvg-name="ES | M+ Liga de Campeones 7 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones7.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 7 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505757
+#EXTINF:-1 tvg-id="M+LigadeCampeones8.es" tvg-name="ES | M+ Liga de Campeones 8 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones8.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 8 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505758
+#EXTINF:-1 tvg-id="M+LigadeCampeones9.es" tvg-name="ES | M+ Liga de Campeones 9 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 9 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505759
+#EXTINF:-1 tvg-id="M+LigadeCampeones10.es" tvg-name="ES | M+ Liga de Campeones 10 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 10 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505760
+#EXTINF:-1 tvg-id="M+LigadeCampeones11.es" tvg-name="ES | M+ Liga de Campeones 11 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 11 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505761
+#EXTINF:-1 tvg-id="M+LigadeCampeones12.es" tvg-name="ES | M+ Liga de Campeones 12 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 12 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505762
+#EXTINF:-1 tvg-id="M+LigadeCampeones13.es" tvg-name="ES | M+ Liga de Campeones 13 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 13 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505763
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Liga de Campeones 14 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 14 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505764
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Liga de Campeones 15 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 15 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505765
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Liga de Campeones 16 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 16 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505766
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Liga de Campeones 17 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 17 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505767
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Liga de Campeones 18 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 18 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505768
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ Liga de Campeones 19 FHD" tvg-logo="https://logo.m3uassets.com/movistarligacampeones.png" group-title="ES | FUTBOL",ES | M+ Liga de Campeones 19 FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505769
+#EXTINF:-1 tvg-id="NauticalChannel.es" tvg-name="ES | Nautical Channel" tvg-logo="https://logo.m3uassets.com/nauticalchannel.png" group-title="ES | FUTBOL",ES | Nautical Channel
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505770
+#EXTINF:-1 tvg-id="" tvg-name="ES | Extreme+" tvg-logo="https://logo.m3uassets.com/extreme.png" group-title="ES | FUTBOL",ES | Extreme+
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505771
+#EXTINF:-1 tvg-id="" tvg-name="ES | Poker Night in America" tvg-logo="https://logo.m3uassets.com/pokernightamerica.png" group-title="ES | FUTBOL",ES | Poker Night in America
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505772
+#EXTINF:-1 tvg-id="" tvg-name="ES | Red Bull TV EN" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="ES | FUTBOL",ES | Red Bull TV EN
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505773
+#EXTINF:-1 tvg-id="HorseTV.es" tvg-name="ES | Horse TV FHD" tvg-logo="https://logo.m3uassets.com/horsetv.png" group-title="ES | FUTBOL",ES | Horse TV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505774
+#EXTINF:-1 tvg-id="" tvg-name="ES | Surf Channel" tvg-logo="https://logo.m3uassets.com/surf.png" group-title="ES | FUTBOL",ES | Surf Channel
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505775
+#EXTINF:-1 tvg-id="" tvg-name="ES | Trace Sport Stars" tvg-logo="https://logo.m3uassets.com/tracesportstars.png" group-title="ES | FUTBOL",ES | Trace Sport Stars
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505776
+#EXTINF:-1 tvg-id="" tvg-name="ES | Gametoon" tvg-logo="https://logo.m3uassets.com/gametoon.png" group-title="ES | FUTBOL",ES | Gametoon
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505777
+#EXTINF:-1 tvg-id="" tvg-name="ES | FIFA+" tvg-logo="" group-title="ES | FUTBOL",ES | FIFA+
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505778
+#EXTINF:-1 tvg-id="" tvg-name="ES | World Billiards Tv" tvg-logo="https://logo.m3uassets.com/billiardstv.png" group-title="ES | FUTBOL",ES | World Billiards Tv
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505779
+#EXTINF:-1 tvg-id="" tvg-name="ES | MoreThanSports TV" tvg-logo="https://logo.m3uassets.com/morethansportstv.png" group-title="ES | FUTBOL",ES | MoreThanSports TV
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505780
+#EXTINF:-1 tvg-id="" tvg-name="ES | Int. Table Soccer Federation" tvg-logo="" group-title="ES | FUTBOL",ES | Int. Table Soccer Federation
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505781
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bike Channel (Italia)" tvg-logo="https://logo.m3uassets.com/bikechannel.png" group-title="ES | FUTBOL",ES | Bike Channel (Italia)
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505782
+#EXTINF:-1 tvg-id="" tvg-name="ES | OnetoroTV FHD" tvg-logo="" group-title="ES | FUTBOL",ES | OnetoroTV FHD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505783
+#EXTINF:-1 tvg-id="" tvg-name="ES | Torole" tvg-logo="" group-title="ES | FUTBOL",ES | Torole
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505784
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="ES | El Toro TV HD" tvg-logo="https://logo.m3uassets.com/eltorotv.png" group-title="ES | FUTBOL",ES | El Toro TV HD
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505785
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOTOR VISION" tvg-logo="https://logo.m3uassets.com/motorvision.png" group-title="ES | FUTBOL",ES | MOTOR VISION
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505786
+#EXTINF:-1 tvg-id="ProTVInternacional.es" tvg-name="ES | MAVTV Internacional" tvg-logo="https://logo.m3uassets.com/mavtv.png" group-title="ES | FUTBOL",ES | MAVTV Internacional
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505787
+#EXTINF:-1 tvg-id="" tvg-name="ES | GLORY" tvg-logo="" group-title="ES | FUTBOL",ES | GLORY
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505788
+#EXTINF:-1 tvg-id="" tvg-name="ES | HARD KNOCKS" tvg-logo="https://logo.m3uassets.com/hardknocks.png" group-title="ES | FUTBOL",ES | HARD KNOCKS
+http://list.kusce.cc:80/Izmirgranic/vFq7sZn6uGya/505789
