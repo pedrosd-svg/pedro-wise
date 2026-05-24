@@ -1,61 +1,45 @@
 {
-  "name": "Mis Películas",
-  "author": "Neoworld",
-  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.w3u",
-  "info": "Lista actualizada de películas variadas",
-  "image": "https://i.imgur.com/TuLogoPrincipal.png",
-  "groups": [
-    {
-      "name": "🔥 Novedades y Estrenos",
-      "image": "https://i.imgur.com/IconoFuego.png",
-      "stations": [
-        {
-          "name": "Los Cuatro Fantásticos: Primeros pasos",
-          "image": "https://images.justwatch.com/poster/330025048/s718/los-4-fantasticos-2023.jpg",
-          "url": "https://callistanise.com/stream/RQToMCPmY_QGRn3G0ziwMw/hjkrhuihghfvu/1765638781/31926754/index-v1-a1.m3u8",
-          "is_direct": true
-        },
-        {
-          "name": "Five Nights at Freddy's 2",
-          "image": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-          "url": "https://callistanise.com/stream/RFHOzzdDv7TFes_q4svZBQ/hjkrhuihghfvu/1765638424/35339386/index-v1-a1.m3u8",
-          "is_direct": true
-        }
-      ]
-    },
-    {
-      "name": "💀 Terror y Suspense",
-      "image": "https://i.imgur.com/IconoCalavera.png",
-      "stations": [
-        {
-          "name": "Título de Película de Miedo",
-          "image": "https://via.placeholder.com/300x450?text=Poster+Terror",
-          "url": "PON_AQUI_TU_ENLACE_MP4_O_M3U8",
-          "is_direct": true
-        }
-      ]
-    },
-    {
-      "name": "🎬 Acción y Aventura",
-      "image": "https://i.imgur.com/IconoAccion.png",
-      "stations": [
-        {
-          "name": "Ejemplo Película Acción",
-          "image": "https://via.placeholder.com/300x450?text=Poster+Accion",
-          "url": "PON_AQUI_TU_ENLACE_VIDEO",
-          "is_direct": true
-        },
-        {
-          "name": "Ejemplo Enlace YouTube",
-          "image": "https://via.placeholder.com/300x450?text=Youtube",
-          "url": "https://www.youtube.com/watch?v=VIDEO_ID",
-          "is_direct": false
-        }
-      ]
-    }
-  ]
-
-}
-
-
-
+    "name": "pelis PEDRO",
+    "author": "chuky (Actualizada a 23-05-2026)",
+    "image": "https://i.imgur.com/rnGjRi9.jpeg",
+    "info": "Enlaces de internet",
+    "telegram": "+nKU7YrkHm3plNzBi",
+    "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.w3u",
+    "groups": [{
+                         "name": "Lista para todo el mundo (Sin lucrarse)",
+            "image": "https://i.ibb.co/R49db1Lm/Presentaci-n1.jpg",
+            "info": "",
+            "stations": [{
+                }]
+                   },{
+            "name": "Estrenos de Cinexin𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+            "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
+            "info": "",
+               "stations": [{  
+                                       "name" : "Op 1 Aída y vuelta (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
+      "url" : "https://luluvid.com/d/wtxwkhxzqywe",             
+          "isHost" : "true"
+                                    },{ 
+                              "name" : "Op 2 Aída y vuelta (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
+         "url" : "https://398fitus.com/e/kxsez6vrxjgd",             
+         "userAgent" : "navigator"
+                               },{            
+                                       "name" : "Op 1 Mortal Kombat II (2026) BrScreen 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/mortal_kombat_ii_107961.jpg",
+       "url" : "https://luluvid.com/d/hmoy3d3lt0zf",             
+        "isHost" : "true"
+                                    },{ 
+                              "name" : "Op 2 Mortal Kombat II (2026) Br Screen 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/mortal_kombat_ii_107961.jpg",
+         "url" : "https://krakenfiles.com/view/Q8DNm2T826/file.html",             
+         "isHost" : "true"
+                               },{    
+                                   "name" : "Op 1 La momia de Lee Cronin (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_momia_de_lee_cronin_107918.jpg",
+      "url" : "https://luluvid.com/d/eg379a25s0wy",             
+          "isHost" : "true"
+                                     }] 
+            }]   
+   }
