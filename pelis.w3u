@@ -8,46 +8,31 @@
             "name": "2026 PEDRO",
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
-               "stations": [{  
-                                       "name" : "Op 1 Aída y vuelta (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
-      "url" : "https://luluvid.com/d/wtxwkhxzqywe",             
-          "isHost" : "true"
-                                    },{ 
-                              "name" : "Aída y vuelta MIO",
-        "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
-         "url" : "https://pedro-wise.embedseek.com/#hmmoh",             
-         "userAgent" : "navigator"
-                               },
-
-{            
+            "stations": [{  
+                    "name" : "Op 1 Aída y vuelta (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
+                    "url" : "https://luluvid.com/d/wtxwkhxzqywe",              
+                    "isHost" : "true"
+                },{ 
+                    "name" : "Aída y vuelta MIO",
+                    "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
+                    "url" : "https://awish.pro/e/hmmoh",              
+                    "isHost" : "true"
+                },{            
                     "name" : "Michael online",
                     "image" : "https://cuevana3cc.site/wp-content/uploads/2026/04/2uK36ujoDXOfNiJ5Yp3raVprB51-200x300.webp",
-                    "url" : "https://pedro-wise.embedseek.com/#9ff1d",         
+                    "url" : "https://awish.pro/e/9ff1d",          
                     "isHost" : "true"
-                }
-,{    
-                                  "name" : "Op 1 Torrente presidente (2026) TS 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://www.elseptimoarte.net/carteles/341/torrente_presidente_108109.jpg",
-      "url" : "https://luluvid.com/d/xv4w00ypvmi0",             
-          "isHost" : "true"
-                                },{       
-                                      "name" : "Op 2 Torrente presidente (2026) TS 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://www.elseptimoarte.net/carteles/341/torrente_presidente_108109.jpg",
-      "url" : "https://vidsonic.net/d/ulyylg2svrqr",             
-          "isHost" : "true"
-                                 }
-,{        
-                                   "name" : "Op 1  Avatar: Fuego y ceniza (2025)Web-Screen 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://www.elseptimoarte.net/carteles/341/avatar_fuego_y_ceniza_107003.jpg",
-        "url" : "https://398fitus.com/e/am71nkneog1u",             
-         "userAgent" : "navigator"        
-                                 },{ 
-                                 "name" : "Op 2  Avatar: Fuego y ceniza (2025)Web-Screen 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-        "image" : "https://www.elseptimoarte.net/carteles/341/avatar_fuego_y_ceniza_107003.jpg",
-         "url" : "https://luluvid.com/d/807bsbniewcd",             
-             "isHost" : "true"  
-                                  }
-] 
-            }]   
-   }
+                },{    
+                    "name" : "Op 1 Torrente presidente (2026) TS 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image" : "https://www.elseptimoarte.net/carteles/341/torrente_presidente_108109.jpg",
+                    "url" : "https://luluvid.com/d/xv4w00ypvmi0",              
+                    "isHost" : "true"
+                },{       
+                    "name" : "Op 2 Torrente presidente (2026) TS 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                    "image" : "https://www.elseptimoarte.net/carteles/341/torrente_presidente_108109.jpg",
+                    "url" : "https://vidsonic.net/d/ulyylg2svrqr",              
+                    "isHost" : "true"
+                }] 
+        }]   
+}
