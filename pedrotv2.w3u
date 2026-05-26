@@ -11,7 +11,13 @@
     {
       "name": "TV",
       "image": "https://bimar.byethost31.com/usuario1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/1ANOCLOUDIOSPAIN.m3u",
+      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus&output=mpegts",
+      "info": "BY PEDRO"
+    },
+{
+      "name": "TV 2",
+      "image": "https://bimar.byethost31.com/usuario1.png",
+      "url": "http://qv307.yotycf2.top:8080/get.php?username=escf2461778079077&password=9ff3a134c6e9&type=m3u_plus&output=mpegts",
       "info": "BY PEDRO"
     },
  {
