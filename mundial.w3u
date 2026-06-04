@@ -1,34 +1,64 @@
 {
   "name": "Pedro TV - Especial Mundial 2026",
-  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
-  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/mundial.w3u",
+  "image": "https://www.fcbarcelonanoticias.com/wp-content/uploads/2025/11/futbol-mundial-2026.webp",
   "author": "by Pedro",
-  "version": "1.1.0",
-  "updated": "2026-06-04T21:20:00Z",
-  "info": "BY PEDRO • Especial Partidos de España",
+  "version": "1.2.0",
+  "updated": "2026-06-04T21:30:00Z",
+  "info": "BY PEDRO • Ruta Completa de España",
   "groups": [
     {
       "name": "MUNDIAL 2026 - ESPAÑA",
-      "image": "https://bimar.byethost31.com/logo1.png",
-      "info": "Fase de Grupos - Horario de España",
+      "image": "https://www.fcbarcelonanoticias.com/wp-content/uploads/2025/11/futbol-mundial-2026.webp",
+      "info": "Calendario Completo - Horario de España",
       "stations": [
         {
-          "name": "Jornada 1: España vs Cabo Verde (15/06 - 18:00h)",
-          "image": "https://bimar.byethost31.com/logo1.png",
+          "name": "Fase de Grupos | J1: España vs Cabo Verde (15/06 - 18:00h)",
+          "image": "https://statics.eleconomista.com.ar/2026/05/crop/6a158ac410821__420x280.webp",
           "url": "TU_URL_AQUÍ",
-          "info": "Lunes 15 de Junio - 18:00h (Atlanta)"
+          "info": "Lunes 15 de Junio - 18:00h"
         },
         {
-          "name": "Jornada 2: España vs Arabia Saudí (21/06 - 18:00h)",
-          "image": "https://bimar.byethost31.com/logo1.png",
+          "name": "Fase de Grupos | J2: España vs Arabia Saudí (21/06 - 18:00h)",
+          "image": "https://statics.eleconomista.com.ar/2026/05/crop/6a16e169946a3__420x280.webp",
           "url": "TU_URL_AQUÍ",
-          "info": "Domingo 21 de Junio - 18:00h (Atlanta)"
+          "info": "Domingo 21 de Junio - 18:00h"
         },
         {
-          "name": "Jornada 3: Uruguay vs España (27/06 - 02:00h)",
-          "image": "https://bimar.byethost31.com/logo1.png",
+          "name": "Fase de Grupos | J3: Uruguay vs España (27/06 - 02:00h)",
+          "image": "https://statics.eleconomista.com.ar/2026/05/crop/6a1721ee36c6a__420x280.webp",
           "url": "TU_URL_AQUÍ",
-          "info": "Madrugada del Viernes 26 al Sábado 27 de Junio - 02:00h (Guadalajara)"
+          "info": "Madrugada del Viernes al Sábado - 02:00h"
+        },
+        {
+          "name": "Dieciseisavos de Final (Si España clasifica: 28/06 al 03/07)",
+          "image": "https://tickets.rfef.es/wp-content/uploads/wpfiles/2025/12/IMAGEN-WEB-TICKETS-1-1300x500.jpg",
+          "url": "TU_URL_AQUÍ",
+          "info": "Fecha y hora exacta según posición en el grupo"
+        },
+        {
+          "name": "Octavos de Final (Si España clasifica: 04/07 al 07/07)",
+          "image": "https://tickets.rfef.es/wp-content/uploads/wpfiles/2025/12/IMAGEN-WEB-TICKETS-1-1300x500.jpg",
+          "url": "TU_URL_AQUÍ",
+          "info": "Eliminatorias directas - Horarios por confirmar"
+        },
+        {
+          "name": "Cuartos de Final (Si España clasifica: 09/07 al 11/07)",
+          "image": "https://tickets.rfef.es/wp-content/uploads/wpfiles/2025/12/IMAGEN-WEB-TICKETS-1-1300x500.jpg",
+          "url": "TU_URL_AQUÍ",
+          "info": "Ronda de los 8 mejores"
+        },
+        {
+          "name": "Semifinales (Si España clasifica: 14/07 o 15/07 - 22:00h)",
+          "image": "https://tickets.rfef.es/wp-content/uploads/wpfiles/2025/12/IMAGEN-WEB-TICKETS-1-1300x500.jpg",
+          "url": "TU_URL_AQUÍ",
+          "info": "A un paso de la gloria - 22:00h"
+        },
+        {
+          "name": "GRAN FINAL MUNDIAL 2026 (Domingo 19/07 - 21:00h)",
+          "image": "https://tickets.rfef.es/wp-content/uploads/wpfiles/2025/12/IMAGEN-WEB-TICKETS-1-1300x500.jpg",
+          "url": "TU_URL_AQUÍ",
+          "info": "MetLife Stadium, Nueva York - 21:00h"
         }
       ]
     }
