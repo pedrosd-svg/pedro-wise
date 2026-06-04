@@ -1,0 +1,36 @@
+{
+  "name": "Pedro TV - Especial Mundial 2026",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "author": "by Pedro",
+  "version": "1.1.0",
+  "updated": "2026-06-04T21:20:00Z",
+  "info": "BY PEDRO • Especial Partidos de España",
+  "groups": [
+    {
+      "name": "MUNDIAL 2026 - ESPAÑA",
+      "image": "https://bimar.byethost31.com/logo1.png",
+      "info": "Fase de Grupos - Horario de España",
+      "stations": [
+        {
+          "name": "Jornada 1: España vs Cabo Verde (15/06 - 18:00h)",
+          "image": "https://bimar.byethost31.com/logo1.png",
+          "url": "TU_URL_AQUÍ",
+          "info": "Lunes 15 de Junio - 18:00h (Atlanta)"
+        },
+        {
+          "name": "Jornada 2: España vs Arabia Saudí (21/06 - 18:00h)",
+          "image": "https://bimar.byethost31.com/logo1.png",
+          "url": "TU_URL_AQUÍ",
+          "info": "Domingo 21 de Junio - 18:00h (Atlanta)"
+        },
+        {
+          "name": "Jornada 3: Uruguay vs España (27/06 - 02:00h)",
+          "image": "https://bimar.byethost31.com/logo1.png",
+          "url": "TU_URL_AQUÍ",
+          "info": "Madrugada del Viernes 26 al Sábado 27 de Junio - 02:00h (Guadalajara)"
+        }
+      ]
+    }
+  ]
+}
