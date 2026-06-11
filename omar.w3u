@@ -1,19 +1,13 @@
 {
-  "name": "Pedro TV MIO (Actualizado 04/06/2026)",
-  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
+  "name": "Pedro AMOR (Actualizado 11/06/2026)",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/omar.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2025-10-02T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 11-03-2026",
   "groups": [
-     {
-      "name": "PEDRO ACESTREAM",
-      "image": "https://bimar.byethost31.com/ace.png",
-      "url": "https://af1cionados.vercel.app/AcEStREAM%20iDs.w3u",
-      "info": "BY PEDRO"
-    },
-
+    
  {
       "name": "MUNDIAL 2026",
       "image": "https://lavozdeibiza.com/wp-content/uploads/2025/12/Mundial-2026.jpg",
@@ -22,26 +16,20 @@
     },
 
     {
-      "name": "PEDRO",
+      "name": "TV",
       "image": "https://bimar.byethost31.com/usuario1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
+      "url": "http://ap14.aptrss.top:8080/get.php?username=escf2461778079077&password=9ff3a134c6e9&type=m3u_plus&output=mpegts",
       "info": "BY PEDRO"
     },
 
    {
       "name": "PELICULAS ESTRENOS",
       "image": "https://previews.123rf.com/images/yupiramos/yupiramos1511/yupiramos151106394/48288943-cinema-concept-with-movies-icons-design-vector-illustration-10-eps-graphic.jpg",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis.w3u",
-      "info": "BY PEDRO"
-    },
-{
-      "name": "PELIS chuky",
-      "image": "https://i.imgur.com/rnGjRi9.jpeg",
       "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
       "info": "BY PEDRO"
     },
 {
-      "name": "chuky x",
+      "name": "SERIES",
       "image": "https://i.imgur.com/rnGjRi9.jpeg",
       "url": "https://raw.githubusercontent.com/tiriti1/tiri/refs/heads/main/GROUP%20CHUKYHOOD%2B18%F0%9F%94%9E.w3u",
       "info": "BY PEDRO"
