@@ -1,16 +1,16 @@
 {
-  "name": "Pedro TV MIO (Actualizado 04/06/2026)",
+  "name": "Pedro TV MIO (Actualizado 12/06/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 11-03-2026",
+  "info": "BY PEDRO • Última actualización: 12-06-2026",
   "groups": [
      {
       "name": "PEDRO ACESTREAM",
       "image": "https://bimar.byethost31.com/ace.png",
-      "url": "https://af1cionados.vercel.app/AcEStREAM%20iDs.w3u",
+      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
       "info": "BY PEDRO"
     },
 
