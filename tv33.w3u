@@ -1,16 +1,16 @@
 {
-  "name": "Pedro TV (Actualizado 29/05/2026)",
+  "name": "Pedro TV (Actualizado 12/06/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
   "updated": "2026-05-29T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 29-05-2026",
+  "info": "BY PEDRO • Última actualización: 12-06-2026",
   "groups": [
     {
-      "name": "CLOUDIO DIC 26",
+      "name": "1 años",
       "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/1ANOCLOUDIOSPAIN.m3u",
+      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus",
       "info": "BY PEDRO",
       "type": "m3u"
     },
@@ -19,97 +19,6 @@
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "http://ap14.aptrss.top:8080/get.php?username=escf2461778079077&password=9ff3a134c6e9&type=m3u_plus&output=mpegts",
       "info": "m3u",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 12 OCT 2027",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es2401744442350248&password=e8cecbd4e168&type=m3u_plus",
-      "info": "Caduca: 12-10-2027",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 31 MAR 2027",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es3451767213006&password=cce12be6306f&type=m3u_plus",
-      "info": "Caduca: 31-03-2027",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 09 ENE 2027 (A)",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es2311767981166&password=pcas7m7umwgg&type=m3u_plus",
-      "info": "Caduca: 09-01-2027",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 09 ENE 2027 (B)",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es2631767970059&password=kj4nkarrpkh8&type=m3u_plus",
-      "info": "Caduca: 09-01-2027",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 20 DIC 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es3121766240495&password=ceaaab0d292c&type=m3u_plus",
-      "info": "Caduca: 20-12-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 14 DIC 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es2701765722290&password=f8fe262fdd68&type=m3u_plus",
-      "info": "Caduca: 14-12-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 06 NOV 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es2531762424606368&password=1cf7287880dd&type=m3u_plus",
-      "info": "Caduca: 06-11-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 21 OCT 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es3141761088266358&password=5573ea38f273&type=m3u_plus",
-      "info": "Caduca: 21-10-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 11 SEP 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es2131757630363322&password=69f3a39878d8&type=m3u_plus",
-      "info": "Caduca: 11-09-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 05 SEP 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es21756826381317&password=e9afa9d16dde&type=m3u_plus",
-      "info": "Caduca: 05-09-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 02 SEP 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es3801756836133317&password=7945414ca7e3&type=m3u_plus",
-      "info": "Caduca: 02-09-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 27 AGO 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es231756324268311&password=d581758bdb29&type=m3u_plus",
-      "info": "Caduca: 27-08-2026",
-      "type": "m3u"
-    },
-    {
-      "name": "IPTV - 05 AGO 2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://kb87.eshofrcep.top:8080/get.php?username=es2231754394935290&password=f25e8a287120&type=m3u_plus",
-      "info": "Caduca: 05-08-2026",
       "type": "m3u"
     }
   ]
