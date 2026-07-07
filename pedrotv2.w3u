@@ -1,21 +1,20 @@
 {
-  "name": "Pedro TV 2026 (Actualizado 04/06/2026)",
+  "name": "Pedro TV 2026 (07/07/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv2.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Neo",
   "version": "1.0.0",
-  "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 05-03-2026",
+  "info": "BY PEDRO • Última actualización: 07-07-2026",
   "groups": [
  
     {
-      "name": "TV",
+      "name": "TV Actualizado",
       "image": "https://bimar.byethost31.com/usuario1.png",
-      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus&output=mpegts",
+      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus",
       "info": "BY PEDRO"
     },
 {
-      "name": "TV 2",
+      "name": "TV 2 Actualizado",
       "image": "https://bimar.byethost31.com/usuario1.png",
       "url": "http://ap14.aptrss.top:8080/get.php?username=escf2461778079077&password=9ff3a134c6e9&type=m3u_plus&output=mpegts",
       "info": "BY PEDRO"
@@ -23,7 +22,7 @@
  {
       "name": "PELICULAS",
       "image": "https://cdn-icons-png.freepik.com/512/4221/4221419.png",
-      "url": "https://ghostbin.axel.org/paste/o3mbx/raw",
+      "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
      "info": "BY PEDRO"
     }   
 
