@@ -1,11 +1,11 @@
 {
-  "name": "Pedro TV MIO (Actualizado 12/06/2026)",
+  "name": "Pedro TV MIO (Actualizado 09/07/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2025-10-02T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 12-06-2026",
+  "updated": "2026-07-09T00:00:00Z",
+  "info": "BY PEDRO • Última actualización: 09-07-2026",
   "groups": [
      {
       "name": "PEDRO ACESTREAM",
@@ -34,6 +34,12 @@
       "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
       "info": "BY PEDRO"
     },
+
+{
+  "name": "Revelacion",
+  "image": "",
+  "url": "https://pixeldrain.com/api/file/uaLYF5Cm"
+},
 
 {
       "name": "XXX NET",
