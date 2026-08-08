@@ -14,12 +14,6 @@
 "info": "BY PEDRO"
 },
 {
-"name": "MUNDIAL 2026",
-"image": "https://bimar.byethost31.com/ico_mundial.png",
-"url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/canales_mundial.m3u",
-"info": "BY PEDRO"
-},
-{
 "name": "TV",
 "image": "https://bimar.byethost31.com/ico_tv.png",
 "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
@@ -38,12 +32,6 @@
 "image": "https://bimar.byethost31.com/ico_pelis.png",
 "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
 "info": "BY PEDRO"
-},
-{
-"name": "CUMPLEAÑOS DE MI HIJO",
-"image": "https://bimar.byethost31.com/ico_video.png",
-"url": "https://pixeldrain.com/api/file/uaLYF5Cm?download",
-"info": "Vídeo privado familiar"
 },
 {
 "name": "XXX NET",
