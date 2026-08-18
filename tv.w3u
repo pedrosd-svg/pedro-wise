@@ -1,30 +1,30 @@
 {
-  "name": "Pedro TV 2026 (Actualizado 20/01/2026)",
+  "name": "Pedro TV 2027 (Actualizado 18/08/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2025-10-02T00:00:00Z",
+  "updated": "2026-08-18T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 02-11-2025",
   "groups": [
     
     {
-            "name": "Television Op1",
+            "name": "Television 2027 - 1",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2_26.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/nueva3_completa.m3u",
             "info": "BY PEDRO"
         },
 
 {
-            "name": "Television Op2",
+            "name": "Television 2027 - 2",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
             "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus&output=mpegts",
             "info": "BY PEDRO"
         },
     {
-            "name": "Television Op4",
+            "name": "Television 2027 - 3",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/3_26.m3u",
+            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/nueva1.m3u",
             "info": "BY PEDRO"
         }
     
