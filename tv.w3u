@@ -15,12 +15,12 @@
             "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus&output=mpegts",
             "info": "BY PEDRO"
         },
-    {
-            "name": "Television 2027 - 3",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/nueva1.m3u",
-            "info": "BY PEDRO"
-        }
+   {
+"name": "FUTBOL 26/27",
+"image": "https://bimar.byethost31.com/logo_futbol.jpg",
+"url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/futbol27.m3u",
+"info": "BY PEDRO"
+}
     
   ]
 
