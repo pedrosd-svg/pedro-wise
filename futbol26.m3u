@@ -1,0 +1,597 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MovistarLiga1.es" tvg-name="||ES|| MOVISTAR LA LIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="La Liga" group-title="La Liga",||ES|| MOVISTAR LA LIGA FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/56675.ts
+#EXTINF:-1 tvg-id="MovistarLiga3.es" tvg-name="||ES|| MOVISTAR  LA LIGA 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="La Liga" group-title="La Liga",||ES|| MOVISTAR  LA LIGA 3 FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/56691.ts
+#EXTINF:-1 tvg-id="MovistarLiga2.es" tvg-name="||ES|| MOVISTAR  LA LIGA 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="La Liga" group-title="La Liga",||ES|| MOVISTAR  LA LIGA 2 FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/56692.ts
+#EXTINF:-1 tvg-id="MovistarLiga1.es" tvg-name="||ES|| MOVISTAR  LA LIGA 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="La Liga" group-title="La Liga",||ES|| MOVISTAR  LA LIGA 1 FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/56693.ts
+#EXTINF:-1 tvg-id="MovistarLiga1.es" tvg-name="||ES|| M+ LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="La Liga" group-title="La Liga",||ES|| M+ LALIGA FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/1924.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR HD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="La Liga" group-title="La Liga",||ES|| LA LIGA TV BAR HD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/3597.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR FHD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="La Liga" group-title="La Liga",||ES|| LA LIGA TV BAR FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/1923.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| DAZN LA LIGA HD" tvg-logo="" group-title="La Liga" group-title="La Liga",||ES|| DAZN LA LIGA HD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/74037.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| DAZN LA LIGA 2 HD" tvg-logo="" group-title="La Liga" group-title="La Liga",||ES|| DAZN LA LIGA 2 HD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/74038.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| BEIN SPORTS LA LIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/21417dd84f755d68af0ef39daa9e1350.png" group-title="La Liga" group-title="La Liga",||ES|| BEIN SPORTS LA LIGA FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/3582.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| BEIN LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/21417dd84f755d68af0ef39daa9e1350.png" group-title="La Liga" group-title="La Liga",||ES|| BEIN LALIGA FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/3578.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959277
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LaLigaTV.es" tvg-name="[M+] M+ LALIGA TV FHD (D)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV FHD (D)
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959279
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV 4 FHD" tvg-logo="" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV 4 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959271
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV 3 FHD" tvg-logo="https://i.imgur.com/9ZIZxUa.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV 3 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959272
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV 2 HD" tvg-logo="https://i.imgur.com/0nhDRj2.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV 2 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV 2 FHD (OR)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV 2 FHD (OR)
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959274
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV 2 FHD" tvg-logo="https://i.imgur.com/0nhDRj2.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV 2 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959275
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV 1 FHD (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV 1 FHD (OR)
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959278
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA TV
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959276
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ LALIGA 5 FHD" tvg-logo="" group-title="La Liga" group-title="La Liga",[M+] M+ LALIGA 5 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959270
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] LALIGA TV HYPERMOTION HD" tvg-logo="https://i.imgur.com/XKD0B8x.png" group-title="La Liga" group-title="La Liga",[M+] LALIGA TV HYPERMOTION HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959252
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] LALIGA TV HYPERMOTION FHD" tvg-logo="https://i.imgur.com/XKD0B8x.png" group-title="La Liga" group-title="La Liga",[M+] LALIGA TV HYPERMOTION FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959253
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] LALIGA TV HYPERMOTION 3 HD" tvg-logo="https://i.imgur.com/PQTXvvG.png" group-title="La Liga" group-title="La Liga",[M+] LALIGA TV HYPERMOTION 3 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959248
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] LALIGA TV HYPERMOTION 3 FHD" tvg-logo="https://i.imgur.com/PQTXvvG.png" group-title="La Liga" group-title="La Liga",[M+] LALIGA TV HYPERMOTION 3 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959249
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://i.imgur.com/f4oEMrC.png" group-title="La Liga" group-title="La Liga",[M+] LALIGA TV HYPERMOTION 2 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959250
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] LALIGA TV HYPERMOTION 2 FHD" tvg-logo="https://i.imgur.com/f4oEMrC.png" group-title="La Liga" group-title="La Liga",[M+] LALIGA TV HYPERMOTION 2 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959251
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] LALIGA HIGHLIGHTS HD" tvg-logo="" group-title="La Liga" group-title="La Liga",[M+] LALIGA HIGHLIGHTS HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959246
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="Movistar LaLigaTV FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLigaTV FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714606
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="Movistar LaLigaTV FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLigaTV FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714606
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga Plus FHD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga Plus FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962951
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga Plus FHD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga Plus FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962951
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga HD ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga HD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/1042
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="Movistar LaLiga FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714603
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="Movistar LaLiga FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714603
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/7428
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 5 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-5-es.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 5 HD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/97237
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 5 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2159393
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 5 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2159393
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 4K UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 4K UHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2018017
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 4K UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 4K UHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2018017
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 4 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-4-es.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 4 HD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/97238
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="Movistar LaLiga 4 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 4 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714611
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="Movistar LaLiga 4 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 4 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714611
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-3-es.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 3 HD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/97239
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="Movistar LaLiga 3 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 3 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714610
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="Movistar LaLiga 3 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 3 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714610
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="Movistar LaLiga 3 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 3 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714609
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="Movistar LaLiga 3 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 3 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714609
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-2-es.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 2 HD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/97240
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="Movistar LaLiga 2 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 2 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714608
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="Movistar LaLiga 2 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 2 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714608
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="Movistar LaLiga 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714607
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="Movistar LaLiga 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714607
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 1 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-1-es.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 1 HD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/97241
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="Movistar LaLiga 1 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 1 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714605
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="Movistar LaLiga 1 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",Movistar LaLiga 1 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714605
+#EXTINF:-1 tvg-id="" tvg-name="LaLigaTV FHD ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="La Liga" group-title="La Liga",LaLigaTV FHD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/6069
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ HD" tvg-logo="http://trastras.eu:2083/images/LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="La Liga" group-title="La Liga",LaLiga+ HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962952
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ HD" tvg-logo="http://trastras.eu:2083/images/LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="La Liga" group-title="La Liga",LaLiga+ HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962952
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 20" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 20
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098689
+#EXTINF:-1 tvg-id="" tvg-name="Laliga+ Evento 20" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",Laliga+ Evento 20
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098690
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 19" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 19
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098688
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 18" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 18
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098687
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 17" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 17
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098686
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 16" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 16
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098685
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 15" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 15
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098684
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 14" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 14
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098683
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 13" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 13
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098682
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 12" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 12
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098681
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 11" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 11
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098680
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 10" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 10
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098679
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 09" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 09
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098678
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 08" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 08
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098677
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 07" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 07
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098676
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 06" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 06
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098675
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 05" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 05
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098674
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 04" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 04
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098673
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 03" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 03
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098672
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 02" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 02
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098671
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Evento 01" tvg-logo="https://i.postimg.cc/QdmwzCWc/LALIGA-PLUS-coral.png" group-title="La Liga" group-title="La Liga",LaLiga+ Evento 01
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2098670
+#EXTINF:-1 tvg-id="" tvg-name="Laliga TV Bar FHD" tvg-logo="http://trastras.eu:2083/images/qd5YDJVO5wUORxR4WoTG1bcTCrfustcr_bwvyffc5kwbiFafYYM-HAU-meFqyYu4V6DDft4GsNQFSPcfK4KcwzcFbQH0BalaS_Ccs0gEqEY.png" group-title="La Liga" group-title="La Liga",Laliga TV Bar FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2009448
+#EXTINF:-1 tvg-id="" tvg-name="Laliga TV Bar FHD" tvg-logo="http://trastras.eu:2083/images/qd5YDJVO5wUORxR4WoTG1bcTCrfustcr_bwvyffc5kwbiFafYYM-HAU-meFqyYu4V6DDft4GsNQFSPcfK4KcwzcFbQH0BalaS_Ccs0gEqEY.png" group-title="La Liga" group-title="La Liga",Laliga TV Bar FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/2009448
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="La Liga" group-title="La Liga",LaLiga TV Bar ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/1062
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank TV 3 FHD ES" tvg-logo="" group-title="La Liga" group-title="La Liga",LaLiga SmartBank TV 3 FHD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/118876
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank Tv 2 FHD ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/08/smartbank_color_blanco_agrupado_color2.png" group-title="La Liga" group-title="La Liga",LaLiga SmartBank Tv 2 FHD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/110121
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Plus 2 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga Plus 2 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962955
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Plus 2 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga Plus 2 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962955
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Plus 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga Plus 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962954
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Plus 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga Plus 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1962954
+#EXTINF:-1 tvg-id="" tvg-name="Laliga Hypermotion HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1995227
+#EXTINF:-1 tvg-id="" tvg-name="Laliga Hypermotion HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1995227
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1847707
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1847707
+#EXTINF:-1 tvg-id="" tvg-name="Laliga Hypermotion 7 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 7 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921590
+#EXTINF:-1 tvg-id="" tvg-name="Laliga Hypermotion 7 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 7 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921590
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion 6 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 6 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921591
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion 6 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 6 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921591
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion 5 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 5 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921592
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion 5 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 5 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921592
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion 4 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 4 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921593
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Laliga Hypermotion 4 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 4 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1921593
+#EXTINF:-1 tvg-id="mlaligahypermotion3.es" tvg-name="Laliga Hypermotion 3 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 3 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1847709
+#EXTINF:-1 tvg-id="mlaligahypermotion3.es" tvg-name="Laliga Hypermotion 3 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 3 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1847709
+#EXTINF:-1 tvg-id="mlaligahypermotion2.es" tvg-name="Laliga Hypermotion 2 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1847708
+#EXTINF:-1 tvg-id="mlaligahypermotion2.es" tvg-name="Laliga Hypermotion 2 FHD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54AQisAjfnQjrqCkT1RqVOcHy3UzYm48OgOIpAyvgC4Dm.png" group-title="La Liga" group-title="La Liga",Laliga Hypermotion 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1847708
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga HYPERMOTION 1 FHD ES" tvg-logo="https://picaoplomo.com/wp-content/uploads/2020/01/logoSegundaDivision.png" group-title="La Liga" group-title="La Liga",LaLiga HYPERMOTION 1 FHD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/110120
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="LaLiga HD+" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga HD+
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714694
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="LaLiga HD+" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga HD+
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714694
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="LaLiga HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714714
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="LaLiga HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/laliga.png" group-title="La Liga" group-title="La Liga",LaLiga HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714714
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga 123 FHD" tvg-logo="http://itekpro.xyz/picons/laliga123tvm3.png" group-title="La Liga" group-title="La Liga",LaLiga 123 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373609
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga 123 FHD" tvg-logo="http://itekpro.xyz/picons/laliga123tvm3.png" group-title="La Liga" group-title="La Liga",LaLiga 123 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373609
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES: Sky Sports LaLiga FHD" tvg-logo="http://ipro.tv/picons/skysportsfootballhd.png" group-title="La Liga" group-title="La Liga",ES: Sky Sports LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7856
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES: Sky Sports LaLiga FHD" tvg-logo="http://ipro.tv/picons/skysportsfootballhd.png" group-title="La Liga" group-title="La Liga",ES: Sky Sports LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7856
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga HD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/297303
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga HD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/297303
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga FHD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7869
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga FHD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7869
+#EXTINF:-1 tvg-id="M.LaLiga5.es" tvg-name="ES: M+ LaLiga 5 FHD" tvg-logo="http://itekpro.xyz/picons/mlaliga5.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 5 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373603
+#EXTINF:-1 tvg-id="M.LaLiga5.es" tvg-name="ES: M+ LaLiga 5 FHD" tvg-logo="http://itekpro.xyz/picons/mlaliga5.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 5 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373603
+#EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-name="ES: M+ LaLiga 4 FHD" tvg-logo="http://ipro.tv/picons/mlaliga4.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 4 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7861
+#EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-name="ES: M+ LaLiga 4 FHD" tvg-logo="http://ipro.tv/picons/mlaliga4.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 4 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7861
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga 3 HD" tvg-logo="http://ipro.tv/picons/mlaliga3.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378137
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga 3 HD" tvg-logo="http://ipro.tv/picons/mlaliga3.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378137
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES: M+ LaLiga 3 FHD" tvg-logo="http://ipro.tv/picons/mlaliga3.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 3 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114828
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES: M+ LaLiga 3 FHD" tvg-logo="http://ipro.tv/picons/mlaliga3.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 3 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114828
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: M+ LaLiga 2 HD" tvg-logo="http://ipro.tv/picons/mlaliga2.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/3312
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: M+ LaLiga 2 HD" tvg-logo="http://ipro.tv/picons/mlaliga2.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/3312
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES: M+ LaLiga 2 FHD" tvg-logo="http://ipro.tv/picons/mlaliga2.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114829
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES: M+ LaLiga 2 FHD" tvg-logo="http://ipro.tv/picons/mlaliga2.png" group-title="La Liga" group-title="La Liga",ES: M+ LaLiga 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114829
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion HD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378140
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion HD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378140
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion FHD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/354531
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion FHD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/354531
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 3 HD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378143
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 3 HD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378143
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 3 FHD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 3 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378142
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 3 FHD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 3 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378142
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 2 HD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion2.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378141
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 2 HD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion2.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378141
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 2 FHD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion2.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/354530
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 2 FHD" tvg-logo="http://ipro.tv/picons/laligatvhypermotion2.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV Hypermotion 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/354530
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: LaLiga TV HD" tvg-logo="http://ipro.tv/picons/laligatv2023.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114830
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: LaLiga TV HD" tvg-logo="http://ipro.tv/picons/laligatv2023.png" group-title="La Liga" group-title="La Liga",ES: LaLiga TV HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114830
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga SmartBank TV 3 HD" tvg-logo="http://itekpro.xyz/picons/laligasmartbanktv.png" group-title="La Liga" group-title="La Liga",ES: LaLiga SmartBank TV 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373606
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga SmartBank TV 3 HD" tvg-logo="http://itekpro.xyz/picons/laligasmartbanktv.png" group-title="La Liga" group-title="La Liga",ES: LaLiga SmartBank TV 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373606
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga SmartBank Tv 2 HD" tvg-logo="http://itekpro.xyz/picons/laligasmartbanktv.png" group-title="La Liga" group-title="La Liga",ES: LaLiga SmartBank Tv 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373607
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga SmartBank Tv 2 HD" tvg-logo="http://itekpro.xyz/picons/laligasmartbanktv.png" group-title="La Liga" group-title="La Liga",ES: LaLiga SmartBank Tv 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373607
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga SmartBank TV 1 HD" tvg-logo="http://itekpro.xyz/picons/laligasmartbanktv.png" group-title="La Liga" group-title="La Liga",ES: LaLiga SmartBank TV 1 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373608
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga SmartBank TV 1 HD" tvg-logo="http://itekpro.xyz/picons/laligasmartbanktv.png" group-title="La Liga" group-title="La Liga",ES: LaLiga SmartBank TV 1 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/373608
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga HD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/284190
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga HD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/284190
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga FHD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/283405
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga FHD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/283405
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="ES: DAZN LaLiga 2 HD" tvg-logo="http://ipro.tv/picons/daznlaliga2.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/377450
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="ES: DAZN LaLiga 2 HD" tvg-logo="http://ipro.tv/picons/daznlaliga2.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/377450
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="ES: DAZN LaLiga 2 FHD" tvg-logo="http://ipro.tv/picons/daznlaliga2.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/283406
+#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="ES: DAZN LaLiga 2 FHD" tvg-logo="http://ipro.tv/picons/daznlaliga2.png" group-title="La Liga" group-title="La Liga",ES: DAZN LaLiga 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/283406
+#EXTINF:-1 tvg-id="BeINLaLiga.es" tvg-name="ES: Bein Sports LaLiga HD" tvg-logo="http://itekpro.xyz/picons/beinsportsnewall.png" group-title="La Liga" group-title="La Liga",ES: Bein Sports LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/6318
+#EXTINF:-1 tvg-id="BeINLaLiga.es" tvg-name="ES: Bein Sports LaLiga HD" tvg-logo="http://itekpro.xyz/picons/beinsportsnewall.png" group-title="La Liga" group-title="La Liga",ES: Bein Sports LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/6318
+#EXTINF:-1 tvg-id="BeINSportsMAX1.es" tvg-name="ES: Bein Sports LaLiga FHD" tvg-logo="http://itekpro.xyz/picons/beinsportsnewall.png" group-title="La Liga" group-title="La Liga",ES: Bein Sports LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7868
+#EXTINF:-1 tvg-id="BeINSportsMAX1.es" tvg-name="ES: Bein Sports LaLiga FHD" tvg-logo="http://itekpro.xyz/picons/beinsportsnewall.png" group-title="La Liga" group-title="La Liga",ES: Bein Sports LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7868
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true" group-title="La Liga" group-title="La Liga",DAZN LaLiga ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/124616
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745118
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745118
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745117
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745117
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga 5 SD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 5 SD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714595
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga 5 SD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 5 SD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714595
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga 4 SD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 4 SD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714594
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga 4 SD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 4 SD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714594
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga 3 SD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 3 SD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714593
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga 3 SD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 3 SD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714593
+#EXTINF:-1 tvg-id="daznlaliga2.es" tvg-name="DAZN La Liga 2 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 2 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745552
+#EXTINF:-1 tvg-id="daznlaliga2.es" tvg-name="DAZN La Liga 2 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 2 HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745552
+#EXTINF:-1 tvg-id="daznlaliga2.es" tvg-name="DAZN La Liga 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745551
+#EXTINF:-1 tvg-id="daznlaliga2.es" tvg-name="DAZN La Liga 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/dazn.png" group-title="La Liga" group-title="La Liga",DAZN La Liga 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1745551
+#EXTINF:-1 tvg-id="beIN LaLiga 1 ES" tvg-name="beIN LA Liga FHD ES" tvg-logo="https://static.epg.best/es/beINLaLigaMAX1.es.png" group-title="La Liga" group-title="La Liga",beIN LA Liga FHD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/4403
+#EXTINF:-1 tvg-id="M. Liga de Campeones" tvg-name="||ES|| MOVISTAR LIGA DE CAMPEONES FHD" tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="Liga Campeones" group-title="Liga Campeones",||ES|| MOVISTAR LIGA DE CAMPEONES FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/1933.ts
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones2.es" tvg-name="||ES|| MOVISTAR LIGA DE CAMPEONES 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="Liga Campeones" group-title="Liga Campeones",||ES|| MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/56696.ts
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones1.es" tvg-name="||ES|| MOVISTAR LIGA DE CAMPEONES 1 SD" tvg-logo="http://obsfullhd.tv:25461/images/12be8ee6d5f80a4b0c5ddd90bc295db2.png" group-title="Liga Campeones" group-title="Liga Campeones",||ES|| MOVISTAR LIGA DE CAMPEONES 1 SD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/56695.ts
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones1.es" tvg-name="||ES|| MOVISTAR LIGA DE CAMPEONES 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="Liga Campeones" group-title="Liga Campeones",||ES|| MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/56694.ts
+#EXTINF:-1 tvg-id="M. Liga de Campeones" tvg-name="||ES|| MOVISTAR LIGA CAMPEONES HD" tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="Liga Campeones" group-title="Liga Campeones",||ES|| MOVISTAR LIGA CAMPEONES HD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/3615.ts
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones2.es" tvg-name="||ES|| LIGA DE CAMPEONES 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="Liga Campeones" group-title="Liga Campeones",||ES|| LIGA DE CAMPEONES 2 HD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/6953.ts
+#EXTINF:-1 tvg-id="MovistarLigaDeCampeones1.es" tvg-name="||ES|| LIGA DE CAMPEONES 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="Liga Campeones" group-title="Liga Campeones",||ES|| LIGA DE CAMPEONES 1 HD
+http://obsfullhd.tv:25461/live/EtWwee4DkH/fipo6dHRhg/6960.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones HDR" tvg-logo="https://i.imgur.com/G0YdYbH.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones HDR
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959247
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones HD" tvg-logo="https://i.imgur.com/G0YdYbH.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959241
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones FHD (SAT)" tvg-logo="https://i.imgur.com/G0YdYbH.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones FHD (SAT)
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959244
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones FHD (OR)" tvg-logo="https://i.imgur.com/G0YdYbH.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones FHD (OR)
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959242
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 9 HD" tvg-logo="https://i.imgur.com/WvhliDO.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 9 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959198
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 9 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-9-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 9 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959199
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 8 HD" tvg-logo="https://i.imgur.com/yIts9n0.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 8 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959200
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 8 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-8-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 8 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959201
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 7 HD" tvg-logo="https://i.imgur.com/C63OZBf.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 7 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959202
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 7 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-7-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 7 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959203
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 6 HD" tvg-logo="https://i.imgur.com/daf38Zq.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 6 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959204
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 6 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-6-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 6 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959205
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 5 HD" tvg-logo="https://i.imgur.com/rCFCP3q.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 5 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959206
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 5 FHD" tvg-logo="https://i.imgur.com/rCFCP3q.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 5 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959207
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 4 HD" tvg-logo="https://i.imgur.com/6tXFbUO.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 4 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959208
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 4 FHD" tvg-logo="https://i.imgur.com/6tXFbUO.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 4 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959209
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 3 HD" tvg-logo="https://i.imgur.com/W87oPjk.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 3 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959236
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 3 FHD" tvg-logo="https://i.imgur.com/W87oPjk.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 3 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959237
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 3" tvg-logo="https://i.imgur.com/W87oPjk.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 3
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959235
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 2 HDR" tvg-logo="https://i.imgur.com/G0YdYbH.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 2 HDR
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959245
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 2 HD" tvg-logo="https://i.imgur.com/DmqnBaW.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 2 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959238
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 2 FHD (ORG)" tvg-logo="https://i.imgur.com/DmqnBaW.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 2 FHD (ORG)
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959240
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 2 FHD" tvg-logo="https://i.imgur.com/DmqnBaW.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 2 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959239
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 13 HD" tvg-logo="https://i.imgur.com/R4aZE9v.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 13 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959190
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 13 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-13-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 13 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959191
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 12 HD" tvg-logo="https://i.imgur.com/uSQaBB4.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 12 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959192
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 12 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-12-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 12 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959193
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 11 HD" tvg-logo="https://i.imgur.com/Z7JzE30.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 11 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959194
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 11 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-11-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 11 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959195
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 10 HD" tvg-logo="https://i.imgur.com/W3WPNs1.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 10 HD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="[M+] M+ Liga de Campeones 10 FHD" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/spain/liga-de-campeones-10-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",[M+] M+ Liga de Campeones 10 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959197
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714616
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones HD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714616
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones FHD." tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones FHD.
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714703
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones FHD." tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones FHD.
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714703
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714615
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714615
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 9" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 9
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714625
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 9" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 9
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714625
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="Movistar Liga de Campeones 8" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 8
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714624
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="Movistar Liga de Campeones 8" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 8
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714711
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="Movistar Liga de Campeones 8" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 8
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714624
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="Movistar Liga de Campeones 8" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 8
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714711
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="Movistar Liga de Campeones 7" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 7
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714623
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="Movistar Liga de Campeones 7" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 7
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714710
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="Movistar Liga de Campeones 7" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 7
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714623
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="Movistar Liga de Campeones 7" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 7
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714710
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="Movistar Liga de Campeones 6" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 6
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714622
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="Movistar Liga de Campeones 6" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 6
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714709
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="Movistar Liga de Campeones 6" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 6
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714622
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="Movistar Liga de Campeones 6" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 6
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714709
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="Movistar Liga de Campeones 5" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 5
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714621
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="Movistar Liga de Campeones 5" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 5
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714708
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="Movistar Liga de Campeones 5" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 5
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714621
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="Movistar Liga de Campeones 5" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 5
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714708
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="Movistar Liga de Campeones 4" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 4
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714620
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="Movistar Liga de Campeones 4" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 4
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714707
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="Movistar Liga de Campeones 4" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 4
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714620
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="Movistar Liga de Campeones 4" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 4
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714707
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="Movistar Liga de Campeones 3 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 3 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714619
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="Movistar Liga de Campeones 3 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 3 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714619
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="Movistar Liga de Campeones 3" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 3
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714706
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="Movistar Liga de Campeones 3" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 3
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714706
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="Movistar Liga de Campeones 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714618
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="Movistar Liga de Campeones 2 FHD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 2 FHD
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714618
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="Movistar Liga de Campeones 2" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 2
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714705
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="Movistar Liga de Campeones 2" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 2
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714705
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 16" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 16
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714632
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 16" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 16
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714632
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 15" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 15
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714631
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 15" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 15
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714631
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 14" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 14
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714630
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 14" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 14
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714630
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 13" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 13
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714629
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 13" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 13
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714629
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 12" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 12
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714628
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 12" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 12
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714628
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 11" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 11
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714627
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 11" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 11
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714627
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 10" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 10
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714626
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Movistar Liga de Campeones 10" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 10
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714626
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="Movistar Liga de Campeones 1" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 1
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714704
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="Movistar Liga de Campeones 1" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/liga%20de%20companes.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga de Campeones 1
+http://ultratv.one:2095/jebd4GDW/pq6s5rf/1714704
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga Campeones FHD ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga Campeones FHD ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/79810
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga Campeones ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="Liga Campeones" group-title="Liga Campeones",Movistar Liga Campeones ES
+http://skytv4k.org:8080/Besim_Redzepi2/xCW7nvIEPK/79802
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 7 HD" tvg-logo="http://ipro.tv/picons/mlcampeon7.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 7 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114832
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 7 HD" tvg-logo="http://ipro.tv/picons/mlcampeon7.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 7 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114832
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 6 HD" tvg-logo="http://ipro.tv/picons/mlcampeon6.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 6 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114834
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 6 HD" tvg-logo="http://ipro.tv/picons/mlcampeon6.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 6 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114834
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 5 HD" tvg-logo="http://ipro.tv/picons/mlcampeon5.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 5 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114835
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 5 HD" tvg-logo="http://ipro.tv/picons/mlcampeon5.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 5 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114835
+#EXTINF:-1 tvg-id="MLigadeCampeones4.es" tvg-name="ES: M+ Liga De Campeones 4 HD" tvg-logo="http://ipro.tv/picons/mlcampeon4.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 4 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114836
+#EXTINF:-1 tvg-id="MLigadeCampeones4.es" tvg-name="ES: M+ Liga De Campeones 4 HD" tvg-logo="http://ipro.tv/picons/mlcampeon4.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 4 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114836
+#EXTINF:-1 tvg-id="MLigadeCampeones3.es" tvg-name="ES: M+ Liga De Campeones 3 HD" tvg-logo="http://ipro.tv/picons/mlcampeon3.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114837
+#EXTINF:-1 tvg-id="MLigadeCampeones3.es" tvg-name="ES: M+ Liga De Campeones 3 HD" tvg-logo="http://ipro.tv/picons/mlcampeon3.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 3 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114837
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 2 HD" tvg-logo="http://ipro.tv/picons/mlcampeon2.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378144
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 2 HD" tvg-logo="http://ipro.tv/picons/mlcampeon2.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378144
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M+ Liga De Campeones 2 FHD" tvg-logo="http://ipro.tv/picons/mlcampeon2.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114838
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M+ Liga De Campeones 2 FHD" tvg-logo="http://ipro.tv/picons/mlcampeon2.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114838
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: M+ Liga De Campeones 1 HD" tvg-logo="http://ipro.tv/picons/mlcampeon1.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 1 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114839
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: M+ Liga De Campeones 1 HD" tvg-logo="http://ipro.tv/picons/mlcampeon1.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 1 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114839
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: M+ Liga De Campeones 1 FHD" tvg-logo="http://ipro.tv/picons/mlcampeon1.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 1 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/3126
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: M+ Liga De Campeones 1 FHD" tvg-logo="http://ipro.tv/picons/mlcampeon1.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: M+ Liga De Campeones 1 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/3126
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 8 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-8-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 8 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 7 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-7-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 7 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959425
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 6 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-6-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 6 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959426
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-5-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 5 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959427
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 4 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-4-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 4 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959428
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-3-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 3 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959429
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 2 FHD" tvg-logo="https://s9.gifyu.com/images/SFJr2.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 2 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959430
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ES: LIGA DE CAMPEONES POR BAR 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="Liga Campeones" group-title="Liga Campeones",ES: LIGA DE CAMPEONES POR BAR 1 FHD
+http://billu.xyz:80/x7tCNn1U2e/tarKDbgmg/959431
