@@ -15,9 +15,9 @@
       "type": "m3u"
     },
     {
-      "name": "IPTV VPN JULIO",
+      "name": "11 - 2026",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "http://ap14.aptrss.top:8080/get.php?username=escf2461778079077&password=9ff3a134c6e9&type=m3u_plus&output=mpegts",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-11-25_spain.m3u",
       "info": "m3u",
       "type": "m3u"
     }
