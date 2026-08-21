@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ES-C| M+ LALIGA TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="La Liga",ES-C| M+ LALIGA TV ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068322
+#EXTINF:-1 tvg-name="ES| M.LALIGA SD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="La Liga",ES| M.LALIGA SD
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/1547277
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga HD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga",ES: M+ LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/297303
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga HD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga",ES: M+ LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/297303
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES| M.LALIGA HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="La Liga",ES| M.LALIGA HD
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/107564
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga FHD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga",ES: M+ LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7869
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga FHD" tvg-logo="http://ipro.tv/picons/mlaliga.png" group-title="La Liga",ES: M+ LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/7869
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES| M.LALIGA FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="La Liga",ES| M.LALIGA FHD
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/915236
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="ES| M.LALIGA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="La Liga",ES| M.LALIGA HEVC
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/119004
+#EXTINF:-1 tvg-id="BeINLaLiga.es" tvg-name="ES: Bein Sports LaLiga HD" tvg-logo="http://itekpro.xyz/picons/beinsportsnewall.png" group-title="La Liga",ES: Bein Sports LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/6318
+#EXTINF:-1 tvg-id="BeINLaLiga.es" tvg-name="ES: Bein Sports LaLiga HD" tvg-logo="http://itekpro.xyz/picons/beinsportsnewall.png" group-title="La Liga",ES: Bein Sports LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/6318
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga FHD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga",ES: DAZN LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/283405
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga FHD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga",ES: DAZN LaLiga FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/283405
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga HD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga",ES: DAZN LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/284190
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="ES: DAZN LaLiga HD" tvg-logo="http://ipro.tv/picons/daznlaliga.png" group-title="La Liga",ES: DAZN LaLiga HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/284190
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="La Liga",ES| DAZN LALIGA HD
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/986640
+#EXTINF:-1 tvg-name="ES| DAZN LALIGA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="La Liga",ES| DAZN LALIGA HEVC
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/1547248
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="La Liga",ES| DAZN LALIGA SD
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/986641
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: LaLiga TV HD" tvg-logo="http://ipro.tv/picons/laligatv2023.png" group-title="La Liga",ES: LaLiga TV HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114830
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: LaLiga TV HD" tvg-logo="http://ipro.tv/picons/laligatv2023.png" group-title="La Liga",ES: LaLiga TV HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114830
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="ES| LALIGA TV BAR FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="La Liga",ES| LALIGA TV BAR FHD
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/1510757
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068307
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: M+ Liga De Campeones 1 HD" tvg-logo="http://ipro.tv/picons/mlcampeon1.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 1 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114839
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: M+ Liga De Campeones 1 HD" tvg-logo="http://ipro.tv/picons/mlcampeon1.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 1 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114839
+#EXTINF:-1 tvg-name="ES| M. LIGA DE CAMPEONES 1 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1777911.png" group-title="Liga Campeones",ES| M. LIGA DE CAMPEONES 1 ᴴᴰ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/1777911
+#EXTINF:-1 tvg-name="ES| M. LIGA DE CAMPEONES 1 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.95/images/1777882.png" group-title="Liga Campeones",ES| M. LIGA DE CAMPEONES 1 ʰᵉᵛᶜ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/1777882
+#EXTINF:-1 tvg-name="ES| M. LIGA DE CAMPEONES 1 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1777866.png" group-title="Liga Campeones",ES| M. LIGA DE CAMPEONES 1 ᴴᴰ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/1777866
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M+ Liga De Campeones 2 FHD" tvg-logo="http://ipro.tv/picons/mlcampeon2.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114838
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M+ Liga De Campeones 2 FHD" tvg-logo="http://ipro.tv/picons/mlcampeon2.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 2 FHD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114838
+#EXTINF:-1 tvg-name="ES: M+ Liga De Campeones 2 HD" tvg-logo="http://ipro.tv/picons/mlcampeon2.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 2 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/378144
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 3 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068305
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 4 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068304
+#EXTINF:-1 tvg-id="MLigadeCampeones4.es" tvg-name="ES: M+ Liga De Campeones 4 HD" tvg-logo="http://ipro.tv/picons/mlcampeon4.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 4 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114836
+#EXTINF:-1 tvg-id="MLigadeCampeones4.es" tvg-name="ES: M+ Liga De Campeones 4 HD" tvg-logo="http://ipro.tv/picons/mlcampeon4.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 4 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114836
+#EXTINF:-1 tvg-name="ES: M+ Liga De Campeones 5 HD" tvg-logo="http://ipro.tv/picons/mlcampeon5.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 5 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114835
+#EXTINF:-1 tvg-name="ES: M+ Liga De Campeones 5 HD" tvg-logo="http://ipro.tv/picons/mlcampeon5.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 5 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114835
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 5 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068303
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 7 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068301
+#EXTINF:-1 tvg-name="ES: M+ Liga De Campeones 7 HD" tvg-logo="http://ipro.tv/picons/mlcampeon7.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 7 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114832
+#EXTINF:-1 tvg-name="ES: M+ Liga De Campeones 7 HD" tvg-logo="http://ipro.tv/picons/mlcampeon7.png" group-title="Liga Campeones",ES: M+ Liga De Campeones 7 HD
+http://dinka-iptv.live:80/bbxjPJJk/I2GvxOHYwl/114832
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 8 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 8 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068300
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 9 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 9 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068299
+#EXTINF:-1 tvg-name="ES| M. LIGA DE CAMPEONES 9 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1777820.png" group-title="Liga Campeones",ES| M. LIGA DE CAMPEONES 9 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/1777820
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 10 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 10 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068298
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 11 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 11 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068297
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 12 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 12 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068296
+#EXTINF:-1 tvg-name="ES-C| M+ LIGA DE CAMPEONES 13 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="Liga Campeones",ES-C| M+ LIGA DE CAMPEONES 13 ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/Enishte/Rahimch/2068295
