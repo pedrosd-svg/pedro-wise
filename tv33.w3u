@@ -1,10 +1,10 @@
 {
-  "name": "Pedro TV (Actualizado 12/06/2026)",
+  "name": "Pedro TV (Actualizado 22/0/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-05-29T00:00:00Z",
+  "updated": "2026-08-22T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 12-06-2026",
   "groups": [
     {
@@ -15,11 +15,27 @@
       "type": "m3u"
     },
     {
+      "name": "2026-12-25 Y PELICULAS",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-12-25_COMPLETO_EDITADO.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+
+{
       "name": "11 - 2026",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-11-25_spain.m3u",
       "info": "m3u",
       "type": "m3u"
+    },
+{
+      "name": "2027-05-03",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-05-03_COMPLETO_EDITADO.m3u",
+      "info": "m3u",
+      "type": "m3u"
     }
+
   ]
 }
