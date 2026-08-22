@@ -1,10 +1,10 @@
 {
-"name": "Pedro TV MIO (Actualizado2 25/08/2026)",
+"name": "Pedro TV MIO (Actualizado2 22/08/2026)",
 "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "author": "by Pedro",
 "version": "1.0.0",
-"updated": "2026-08-25T00:00:00Z",
+"updated": "2026-08-22T00:00:00Z",
 "info": "BY PEDRO • Última actualización: 08-08-2026",
 "groups": [
 {
@@ -24,14 +24,6 @@
 "name": "FUTBOL 26/27",
 "image": "https://bimar.byethost31.com/logo_futbol.jpg",
 "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/futbol27_ordenado.m3u",
-"info": "BY PEDRO"
-},
-
-
-{
-"name": "TV 2027",
-"image": "https://bimar.byethost31.com/ico_tv.png",
-"url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv27.w3u",
 "info": "BY PEDRO"
 },
 
