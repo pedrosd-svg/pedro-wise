@@ -1,10 +1,10 @@
 {
-  "name": "Pedro TV (Actualizado 26/08/2026)",
+  "name": "Pedro TV (Actualizado 28/08/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-08-26T00:00:00Z",
+  "updated": "2026-08-28T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 21-08-2026",
   "groups": [
 
@@ -32,12 +32,6 @@
       "name": "MIGUEL",
       "image": "https://bimar.byethost31.com/usuario2.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
-      "info": "BY PEDRO"
-    },
-    {
-      "name": "JUAN VECINO",
-      "image": "https://bimar.byethost31.com/usuario3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/futbol27_ordenado.m3u",
       "info": "BY PEDRO"
     }
     
