@@ -1,10 +1,10 @@
 {
-"name": "TV 2027 (Actualizado 29/08/2026)",
+"name": "TV 2027 (Actualizado 30/08/2026)",
 "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/juantv-carrasco.w3u",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "author": "by Pedro",
 "version": "1.0.0",
-"updated": "2026-08-29T00:00:00Z",
+"updated": "2026-08-30T00:00:00Z",
 "info": "BY PEDRO • Última actualización: 08-08-2026",
 "groups": [
 
@@ -16,7 +16,7 @@
       "type": "m3u"
     },
     {
-      "name": "1 Mes lista1",
+      "name": "Opcion lista1",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista1_ordenada.m3u",
       "info": "m3u",
@@ -24,14 +24,7 @@
     },
 
 {
-      "name": "1 Mes lista2",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista2_ordenada.m3u",
-      "info": "m3u",
-      "type": "m3u"
-    },
-{
-      "name": "1 Mes lista3",
+      "name": "Opcion lista3",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista3_ordenada.m3u",
       "info": "m3u",
