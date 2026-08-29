@@ -1,11 +1,11 @@
 {
-  "name": "Pedro TV (Actualizado 28/0/2026)",
+  "name": "Pedro TV (Actualizado 29/0/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-08-28T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 12-06-2026",
+  "updated": "2026-08-29T00:00:00Z",
+  "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
     {
       "name": "1 años",
@@ -15,24 +15,24 @@
       "type": "m3u"
     },
     {
-      "name": "1 Mes 28/09/26",
+      "name": "1 Mes lista1",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/datos2_spain.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista1_ordenada.m3u",
       "info": "m3u",
       "type": "m3u"
     },
 
 {
-      "name": "2027-11-26",
+      "name": "1 Mes lista2",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-11-26.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista2_ordenada.m3u",
       "info": "m3u",
       "type": "m3u"
     },
 {
-      "name": "2028-05-19",
+      "name": "1 Mes lista3",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2028-05-19.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista3_ordenada.m3u",
       "info": "m3u",
       "type": "m3u"
     }
