@@ -1,26 +1,44 @@
 {
-  "name": "Pedro TV 2027 (Actualizado 28/08/2026)",
+  "name": "Pedro TV 2027 (Actualizado 29/08/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-08-28T00:00:00Z",
-  "info": "BY PEDRO • Última actualización: 02-11-2025",
+  "updated": "2026-08-29T00:00:00Z",
+  "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
     
 
+ {
+      "name": "1 años",
+      "image": "https://bimar.byethost31.com/logo1.png",
+      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    },
+    {
+      "name": "1 Mes lista1",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista1_ordenada.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+
 {
-            "name": "Television 2027 Actualizado",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png",
-            "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/datos2_spain.m3u",
-            "info": "BY PEDRO"
-        },
-   {
-"name": "FUTBOL 26/27",
-"image": "https://bimar.byethost31.com/logo_futbol.jpg",
-"url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/futbol27_ordenado.m3u",
-"info": "BY PEDRO"
-}
+      "name": "1 Mes lista2",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista2_ordenada.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+{
+      "name": "1 Mes lista3",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista3_ordenada.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    }
+
     
   ]
 
