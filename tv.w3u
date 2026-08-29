@@ -1,14 +1,20 @@
 {
-  "name": "Pedro TV 2027 (Actualizado 30/08/2026)",
+  "name": "Pedro TV 2027 (Actualizado 31/08/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-08-30T00:00:00Z",
+  "updated": "2026-08-31T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
     
-
+{
+      "name": "PELICULAS",
+      "image": "https://bimar.byethost31.com/ico_pelis33.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/peliculas_completas.m3u",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    },
  {
       "name": "1 años",
       "image": "https://bimar.byethost31.com/logo1.png",
