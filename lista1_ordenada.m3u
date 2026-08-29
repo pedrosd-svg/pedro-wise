@@ -1,0 +1,1316 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN LALIGA SD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/760762.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN LALIGA FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/760761.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN LALIGA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/760760.ts
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA HD (BK-1)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/864079.ts
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA HD (BK-2)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/864080.ts
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505618.ts
+#EXTINF:-1 tvg-id="MLaLiga.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/718917.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGATV BAR HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505619.ts
+
+
+
+
+
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",### M. LIGA DE CAMPEONES HD ###
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196431.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196430.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196429.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",### M. LIGA DE CAMPEONES LOW ###
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196428.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 1 LOW
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196427.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 2 LOW
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196426.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",### M. LIGA DE CAMPEONES SD ###
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196425.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 1 SD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196424.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 2 SD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196423.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",### M. LIGA DE CAMPEONES HD ###
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196422.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196421.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 4 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196420.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 5 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196419.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 6 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196418.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 7 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196417.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 8 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196416.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 9 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196415.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 10 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196414.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 11 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196413.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 12 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196412.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 13 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196411.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 14 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196410.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 15 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196409.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 16 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196408.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 17 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196407.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 18 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196406.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 19 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196405.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",### M. LIGA DE CAMPEONES UHD ###
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196404.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 1 UHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196403.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",### M. LIGA DE CAMPEONES HEVC ###
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196402.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 1 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196401.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",### M. LIGA DE CAMPEONES RAW ###
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196400.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 1 RAW
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196399.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 2 RAW
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196398.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 3 RAW
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196397.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 4 RAW
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196396.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLIGADECAMPEONE.png",ES - M. LIGA DE CAMPEONES 5 RAW
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1196395.ts
+
+
+
+
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612106.png",##### ESP GENERAL #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612106.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/858030.png",ES - ODISEA UHD/4K
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/858030.ts
+#EXTINF:-1 tvg-id="24Horas.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/659950.png",ES - 24 HORAS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/659950.ts
+#EXTINF:-1 tvg-id="laotra.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612107.png",ES - LA 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612107.ts
+#EXTINF:-1 tvg-id="LA1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612108.png",ES - LA 1 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612108.ts
+#EXTINF:-1 tvg-id="LA2.es" group-title="|ES| ESPAÑA HEVC",ES - LA 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612109.ts
+#EXTINF:-1 tvg-id="Antena3.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612110.png",ES - ANTENA 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612110.ts
+#EXTINF:-1 tvg-id="Antena3.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612111.png",ES - ANTENA 3 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612111.ts
+#EXTINF:-1 tvg-id="Antena3.cl" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612112.png",ES - ANTENA 3 INT.
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612112.ts
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="|ES| ESPAÑA HEVC",ES - CUATRO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612113.ts
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="|ES| ESPAÑA HEVC",ES - CUATRO HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612114.ts
+#EXTINF:-1 tvg-id="telecinco.es" group-title="|ES| ESPAÑA HEVC",ES - TELECINCO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612115.ts
+#EXTINF:-1 tvg-id="Telecinco.es" group-title="|ES| ESPAÑA HEVC",ES - TELECINCO HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612116.ts
+#EXTINF:-1 tvg-id="LaSexta.sp" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612117.png",ES - LA SEXTA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612117.ts
+#EXTINF:-1 tvg-id="LaSexta.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612118.png",ES - LA SEXTA HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612118.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612119.png",ES - NEOX
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612119.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612120.png",ES - NOVA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612120.ts
+#EXTINF:-1 tvg-id="Dark.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612121.png",ES - DARK HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612121.ts
+#EXTINF:-1 tvg-id="ClanTVE.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612122.png",ES - CLAN TVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612122.ts
+#EXTINF:-1 tvg-id="Energy.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612123.png",ES - ENERGY
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612123.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612124.png",ES - FDF
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612124.ts
+#EXTINF:-1 tvg-id="Mega.es" group-title="|ES| ESPAÑA HEVC",ES - MEGA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612125.ts
+#EXTINF:-1 tvg-id="24Horas.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612126.png",ES - 24 HORAS
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612126.ts
+#EXTINF:-1 tvg-id="TVEIntEu.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612127.png",ES - TVE INTERNACIONAL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612127.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612128.png",ES - TV3 CAT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612128.ts
+#EXTINF:-1 tvg-id="AragonTVsat.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612130.png",ES - ARAGON TV INT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612130.ts
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612131.png",ES - TV GALICIA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612131.ts
+#EXTINF:-1 tvg-id="Telemadrid.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612132.png",ES - TELEMADRID
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612132.ts
+#EXTINF:-1 tvg-id="IB3.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612133.png",ES - IB3
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612133.ts
+#EXTINF:-1 tvg-id="CanalAndalucia.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612135.png",ES - CANAL SUR A.
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612135.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612136.png",ES - TV GIRONA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612136.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612137.png",ES - ALCARRIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612137.ts
+#EXTINF:-1 tvg-id="CanalVasco.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612141.png",ES - EITB P.VASCO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612141.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612142.png",ES - RTVC  CANARIAS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612142.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612143.png",ES - CONDAVISION HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612143.ts
+#EXTINF:-1 tvg-id="Calle13.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/13TV.png",ES - 13 TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612146.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/BIENVIAJE.png",ES - BUENVIAJE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612147.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612148.png",ES - CANAL MÁLAGA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612148.ts
+#EXTINF:-1 tvg-id="A3seriesHD.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612151.png",ES - A3 SERIES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612151.ts
+#EXTINF:-1 tvg-id="DKISS.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612153.png",ES - DKISS
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612153.ts
+#EXTINF:-1 tvg-id="TEN.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612154.png",ES - TEN
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612154.ts
+#EXTINF:-1 tvg-id="CGTN.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612152.png",ES - CGTN ESPANHOL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612152.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612155.png",##### ESP CINE #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612155.ts
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612156.png",ES - M. ORIGINALES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612156.ts
+#EXTINF:-1 tvg-id="es.#0" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612157.png",ES - M. ORIGINALES HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612157.ts
+#EXTINF:-1 tvg-id="AMC.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612158.png",ES - M+ INDIE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612158.ts
+#EXTINF:-1 tvg-id="AMC.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612159.png",ES - M+ INDIE HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612159.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/845866.png",ES - AMC BREAK
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/845866.ts
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612160.png",ES - M. CINE ESPANOL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612160.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612161.png",ES - M. ACCION HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612161.ts
+#EXTINF:-1 tvg-id="MovistarAccion.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9391.png?18439",ES - M. ACCION HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612162.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612163.png",ES - M. CINE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612163.ts
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612164.png",ES - M. CINE HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612164.ts
+#EXTINF:-1 tvg-id="MovistarDrama.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612165.png",ES - M. DRAMA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612165.ts
+#EXTINF:-1 tvg-id="MovistarDrama.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612166.png",ES - M. DRAMA HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612166.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612167.png",ES - M.COMEDIA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612167.ts
+#EXTINF:-1 tvg-id="MovistarComedia.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612168.png",ES - M.COMEDIA HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612168.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612169.png",ES - M. SERIES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612169.ts
+#EXTINF:-1 tvg-id="MovistarSeries.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612170.png",ES - M. SERIES HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612170.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612171.png",ES - M.SERIESMANIA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612171.ts
+#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612172.png",ES - M.SERIESMANIA HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612172.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612175.png",ES - AXN HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612175.ts
+#EXTINF:-1 tvg-id="AXN.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612176.png",ES - AXN HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612176.ts
+#EXTINF:-1 tvg-id="AXNWhite.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612177.png",ES - AXN MOVIES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612177.ts
+#EXTINF:-1 tvg-id="AXNWhite.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612178.png",ES - AXN MOVIES HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612178.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612179.png",ES - STAR CHANNEL (FOX) HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612179.ts
+#EXTINF:-1 tvg-id="Fox.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612180.png",ES - STAR CHANNEL (FOX) HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612180.ts
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612183.png",ES - COSMO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612183.ts
+#EXTINF:-1 tvg-id="Cosmo.es" group-title="|ES| ESPAÑA HEVC",ES - COSMO HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612184.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612185.png",ES - WARNERBROS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612185.ts
+#EXTINF:-1 tvg-id="TNT.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612186.png",ES - WARNERBROS HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612186.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612187.png",ES - SYFY HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612187.ts
+#EXTINF:-1 tvg-id="SyFy.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612188.png",ES - SYFY HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612188.ts
+#EXTINF:-1 tvg-id="Calle13.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612189.png",ES - CALLE 13 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612189.ts
+#EXTINF:-1 tvg-id="Calle13.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612190.png",ES - CALLE 13 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612190.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612192.png",ES - HOLLYWOOD HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612192.ts
+#EXTINF:-1 tvg-id="Hollywood.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612193.png",ES - HOLLYWOOD HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612193.ts
+#EXTINF:-1 tvg-id="ComedyCentral.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612195.png",ES - COMEDY CENTRALHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612195.ts
+#EXTINF:-1 tvg-id="ComedyCentral.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612196.png",ES - COMEDY CENTRAL HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612196.ts
+#EXTINF:-1 tvg-id="Sundance.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612191.png",ES - SUNDANCE TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612191.ts
+#EXTINF:-1 tvg-id="Paramount.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612194.png",ES - PARAMOUNT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612194.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612197.png",ES - TCM HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612197.ts
+#EXTINF:-1 tvg-id="TCM.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612198.png",ES - TCM HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612198.ts
+#EXTINF:-1 tvg-id="Xtrm.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612199.png",ES - XTRM HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612199.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/653978.png",ES - SOMOS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/653978.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612200.png",##### ESP DEPORTES #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612200.ts
+#EXTINF:-1 tvg-id="GOL.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612201.png",ES - GOL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612201.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612203.png",ES - R. MADRID TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612203.ts
+#EXTINF:-1 tvg-id="MovistarGolf.es" group-title="|ES| ESPAÑA HEVC",ES - M. GOLF HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612205.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612204.png",ES - M. GOLF HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612204.ts
+#EXTINF:-1 tvg-id="M.LaLiga.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612206.png",ES - M. LALIGA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612206.ts
+#EXTINF:-1 tvg-id="LaLigaTV.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612207.png",ES - M. LALIGA HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612207.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612208.png",ES - LALIGATV BAR HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612208.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612209.png",ES - LALIGA TV BAR HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612209.ts
+#EXTINF:-1 tvg-id="M.LaLiga1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612211.png",ES - M. LALIGA 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612211.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612210.png",ES - M. LALIGA 1 FHD (1080P)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612210.ts
+#EXTINF:-1 tvg-id="MLaLiga1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612212.png",ES - M. LALIGA 1 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612212.ts
+#EXTINF:-1 tvg-id="MLaLiga2.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612214.png",ES - M. LALIGA 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612214.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612213.png",ES - M. LALIGA 2 FHD (1080P)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612213.ts
+#EXTINF:-1 tvg-id="M.LaLiga3.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612215.png",ES - M. LALIGA 3 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612215.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612216.png",ES - M. LALIGA 4 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612216.ts
+#EXTINF:-1 tvg-id="M.LaLiga5.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612217.png",ES - M. LALIGA 5 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612217.ts
+#EXTINF:-1 tvg-id="M.LaLiga6.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612218.png",ES - M. LALIGA 6 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612218.ts
+#EXTINF:-1 tvg-id="M.LaLiga7.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612219.png",ES - M. LALIGA 7 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612219.ts
+#EXTINF:-1 tvg-id="M.LaLiga8.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612220.png",ES - M. LALIGA 8 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612220.ts
+#EXTINF:-1 tvg-id="M.LaLiga9.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612221.png",ES - M. LALIGA 9 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612221.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612222.png",ES - M. LALIGA 10 HD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612222.ts
+#EXTINF:-1 tvg-id="MovistarFormula1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612224.png",ES - M.FORMULA1 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612224.ts
+#EXTINF:-1 tvg-id="MovistarFormula1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612223.png",ES - M.FORMULA1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612223.ts
+#EXTINF:-1 tvg-id="Vamos.es" group-title="|ES| ESPAÑA HEVC",ES - #VAMOS HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612225.ts
+#EXTINF:-1 tvg-id="es.#Vamos" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612226.png",ES - #VAMOS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612226.ts
+#EXTINF:-1 tvg-id="Eurosport1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612227.png",ES - EUROSPORT 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612227.ts
+#EXTINF:-1 tvg-id="Eurosport1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612228.png",ES - EUROSPORT1 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612228.ts
+#EXTINF:-1 tvg-id="Eurosport2.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612229.png",ES - EUROSPORT 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612229.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/662986.png",ES - ESPORT 3 CATALUNYA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/662986.ts
+#EXTINF:-1 tvg-id="MovistarDeportes.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612230.png",ES - M. DEPORTES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612230.ts
+#EXTINF:-1 tvg-id="MovistarDeportes.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612231.png",ES - M. DEPORTES HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612231.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612232.png",ES - M. DEPORTES1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612232.ts
+#EXTINF:-1 tvg-id="MDeportes1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612233.png",ES - M. DEPORTES1 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612233.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612234.png",ES - M. DEPORTES2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612234.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612235.png",ES - M. DEPORTES3 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612235.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612236.png",ES - M. DEPORTES4 (LIVEEVEENT)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612236.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612237.png",ES - M. DEPORTES5 (LIVEEVEENT)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612237.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612238.png",ES - M. DEPORTES6 (LIVEEVEENT)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612238.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612239.png",ES - M. DEPORTES7 (LIVEEVEENT)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612239.ts
+#EXTINF:-1 tvg-id="MLaLiga.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612240.png",ES - LALIGA123 HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612240.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612241.png",ES - LALIGA 123 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612241.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar1.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612242.png",ES - LALIGATVBAR1 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612242.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar2.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612243.png",ES - LALIGATVBAR2 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612243.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar3.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612244.png",ES - LALIGATVBAR3 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612244.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar4.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612245.png",ES - LALIGATVBAR4 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612245.ts
+#EXTINF:-1 tvg-id="M.LaLiga1UHD.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612246.png",ES - MULTIDEPORTE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612246.ts
+#EXTINF:-1 tvg-id="CanalPlusToros.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612259.png",ES - TOROS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612259.ts
+#EXTINF:-1 tvg-id="Toros.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612260.png",ES - TOROS HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612260.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/721113.png",ES - EL TORO TV HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/721113.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612258.png",ES - TELEDEPORTE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612258.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612261.png",##### ESP DAZN #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612261.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN HD [ PREMIERELEAGUE ]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612262.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN [ LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612263.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 1
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612264.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612265.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 3
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612266.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 4
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612267.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 5
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612268.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 6
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612269.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 7
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612270.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 8
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612271.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",###### ES| DAZN PPV VIP ######
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309636.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN 1 ᴴᴰ ᵃᵐᶻ
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309635.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309634.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309633.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309632.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309631.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309630.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309629.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309628.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309627.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 10 - HUNGRÍA | CARRERA | SUN 21 JUL 12:00
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309626.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309625.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309624.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309623.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309622.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309621.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309620.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309619.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309618.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309617.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309616.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 21 - LE CASTELLET | CARRERA 2 | SUN 21 JUL 16:20
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309615.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309614.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309613.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309612.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309611.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309610.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309609.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309608.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309607.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309606.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309605.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309604.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309603.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309602.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309601.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309600.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309599.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309598.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309597.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309596.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309595.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309594.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309593.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309592.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309591.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309590.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309589.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309588.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309587.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1309586.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612272.png",##### ESP CULTURALES #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612272.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612273.png",ES - NAT GEO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612273.ts
+#EXTINF:-1 tvg-id="NationalGeographic.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612274.png",ES - NAT GEO HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612274.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612275.png",ES - NG WILD HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612275.ts
+#EXTINF:-1 tvg-id="NatGeoWild.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612276.png",ES - NG WILD HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612276.ts
+#EXTINF:-1 tvg-id="CazayPesca.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612279.png",ES - CAZAYPESCA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612279.ts
+#EXTINF:-1 tvg-id="CazaPesca.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612280.png",ES - CAZAYPESCA HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612280.ts
+#EXTINF:-1 tvg-id="IberaliaTV.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",ES - IBERALIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612281.ts
+#EXTINF:-1 tvg-id="IberaliaTV.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",ES - IBERALIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612282.ts
+#EXTINF:-1 tvg-id="SolMusica.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612283.png",ES - SOL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612283.ts
+#EXTINF:-1 tvg-id="Odisea.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612284.png",ES - ODISEA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612284.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612285.png",ES - HISTORIA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612285.ts
+#EXTINF:-1 tvg-id="DiscoveryIberia.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612286.png",ES - DISCOVERY
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612286.ts
+#EXTINF:-1 tvg-id="Blaze.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612287.png",ES - AMC BREAK SD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612287.ts
+#EXTINF:-1 tvg-id="CanalCocina.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612289.png",ES - CANAL COCINA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612289.ts
+#EXTINF:-1 tvg-id="CanalCocina.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612288.png",ES - CANAL COCINA  HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612288.ts
+#EXTINF:-1 tvg-id="CanalDecasa.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612291.png",ES - CANAL DECASA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612291.ts
+#EXTINF:-1 tvg-id="CanalDecasa.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612290.png",ES - CANAL DECASA  HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612290.ts
+#EXTINF:-1 tvg-id="Odisea.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612292.png",ES - CANAL ODISEA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612292.ts
+#EXTINF:-1 tvg-id="Classica.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612293.png",ES - CLASSICA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612293.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612294.png",ES - AMC CRIME
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612294.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612297.png",ES - MTV ESPANA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612297.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612298.png",ES - MEZZO LIVE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612298.ts
+#EXTINF:-1 tvg-id="Mezzo.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612299.png",ES - MEZZO LIVE HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612299.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612300.png",##### ESP NINIOS #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612300.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612301.png",ES - NICKELODEON HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612301.ts
+#EXTINF:-1 tvg-id="Nickelodeon.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612302.png",ES - NICKELODEON HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612302.ts
+#EXTINF:-1 tvg-id="MovistarDisney.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612303.png",ES - M. DISNEY+
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612303.ts
+#EXTINF:-1 tvg-id="NickJr.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612304.png",ES - NICK JR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612304.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612305.png",ES - BABY TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612305.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612306.png",ES - DISNEY JR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612306.ts
+#EXTINF:-1 tvg-id="Boing.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612308.png",ES - BOING
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612308.ts
+#EXTINF:-1 tvg-id="CanalPanda.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612309.png",ES - ENFAMILIA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612309.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612310.png",##### ALQUILER PPV #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612310.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612311.png",ES - ALQUILER 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612311.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612318.png",##### ESP FOOTTERS #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612318.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612320.png",ES - FOOTTERS 2 FHD [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612320.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612339.png",##### ESP LOCALES #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612339.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612340.png",ES - CANAL 25 BARBASTRO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612340.ts
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612343.png",ES - TELEVISIÓN DE GALICIA AMÉRICA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612343.ts
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612345.png",ES - TELEVISIÓN DE GALICIA EUROPA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612345.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612350.png",ES - SOPHIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612350.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612352.png",ES - POPULAR TV MELILLA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612352.ts
+#EXTINF:-1 tvg-id="tvG2.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612357.png",ES - TVG 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612357.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612361.png",ES - LANCELOT TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612361.ts
+#EXTINF:-1 tvg-id="CMM.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612367.png",ES - CASTILLA-LA-MANCHA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612367.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612368.png",ES - MIRAME TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612368.ts
+#EXTINF:-1 tvg-id="Telesur.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612372.png",ES - TELESUR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612372.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612374.png",ES - CANAL MÁLAGA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612374.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612382.png",ES - TV GIRONA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612382.ts
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612371.png",ES - TV GALICIA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612371.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505544.png",##### ESP GENERAL #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505544.ts
+#EXTINF:-1 tvg-id="laotra.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505545.png",ES - LA 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505545.ts
+#EXTINF:-1 tvg-id="LA2.es" group-title="|ES| GENERAL",ES - LA 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505546.ts
+#EXTINF:-1 tvg-id="Antena3.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505547.png",ES - ANTENA 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505547.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505548.png",ES - ANTENA 3 INT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505548.ts
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="|ES| GENERAL",ES - CUATRO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505549.ts
+#EXTINF:-1 tvg-id="telecinco.es" group-title="|ES| GENERAL",ES - TELECINCO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505550.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/682890.png",ES - TVGA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/682890.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/682889.png",ES - #0 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/682889.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/682888.png",ES - RT ESP HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/682888.ts
+#EXTINF:-1 tvg-id="LaSexta.sp" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505551.png",ES - LA SEXTA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505551.ts
+#EXTINF:-1 tvg-id="Neox.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505552.png",ES - NEOX
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505552.ts
+#EXTINF:-1 tvg-id="Nova.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505553.png",ES - NOVA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505553.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/924941.png",ES - ALL FLAMENGO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/924941.ts
+#EXTINF:-1 tvg-id="Dark.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505554.png",ES - DARK HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505554.ts
+#EXTINF:-1 tvg-id="ClanTVE.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505555.png",ES - CLAN TVE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505555.ts
+#EXTINF:-1 tvg-id="Energy.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505556.png",ES - ENERGY
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505556.ts
+#EXTINF:-1 tvg-id="es.Factoría de Ficción" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505557.png",ES - FDF
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505557.ts
+#EXTINF:-1 tvg-id="Mega.es" group-title="|ES| GENERAL",ES - MEGA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505558.ts
+#EXTINF:-1 tvg-id="CanalAndalucia.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/644827.png",ES - CANAL SUR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/644827.ts
+#EXTINF:-1 tvg-id="24Horas.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505559.png",ES - 24 HORAS
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505559.ts
+#EXTINF:-1 tvg-id="TVEIntEu.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505560.png",ES - TVE INTERNACIONAL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505560.ts
+#EXTINF:-1 tvg-id="AragonTVsat.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505563.png",ES - ARAGON TV INT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505563.ts
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505564.png",ES - TV GALICIA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505564.ts
+#EXTINF:-1 tvg-id="Telemadrid.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505565.png",ES - TELEMADRID
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505565.ts
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505568.png",ES - CANAL SUR A.
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505568.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505569.png",ES - TV GIRONA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505569.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505570.png",ES - ALCARRIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505570.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505574.png",ES - EITB P.VASCO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505574.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505575.png",ES - RTVC  CANARIAS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505575.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505576.png",ES - CONDAVISION HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505576.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505579.png",ES - 13 TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505579.ts
+#EXTINF:-1 tvg-id="es.Atreseries" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505584.png",ES - A3 SERIES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505584.ts
+#EXTINF:-1 tvg-id="CGTN.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505585.png",ES - CGTN ESPANHOL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505585.ts
+#EXTINF:-1 tvg-id="DKISS.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505586.png",ES - DKISS
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505586.ts
+#EXTINF:-1 tvg-id="TEN.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505587.png",ES - TEN
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505587.ts
+#EXTINF:-1 tvg-id="MezzoLiveHD.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505693.png",ES - MEZZO LIVE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505693.ts
+#EXTINF:-1 tvg-id="MTVEsp.es" group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505692.png",ES - MTV ESPANA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505692.ts
+#EXTINF:-1 group-title="|ES| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/697239.png",ES - KARAOKE 1
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/697239.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",##### ESP DEPORTES #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505613.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SUPERCOPA.png",ES - SUPERCOPA FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1190636.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SUPERCOPA.png",ES - SUPERCOPA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1190637.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SUPERCOPA.png",ES - SUPERCOPA SD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1190638.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - MOVISTAR PLUS +2 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1207500.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - MOVISTAR PLUS+ HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/951390.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MCOPADELREY.png",ES - M.COPA DEL REY FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/811125.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MPLUSSUPERCOPA.png",ES - M+ SUPERCOPA 1 UHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/811127.ts
+
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN LALIGA 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/800992.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN BAR 1
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1108481.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN BAR 1 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1108482.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN BAR 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1108483.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN BAR 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1108484.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN BAR 2 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1108485.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN BAR 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1108486.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN MOTOGP FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1366413.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN MOTOGP HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1366414.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN MOTOGP SD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1366415.ts
+#EXTINF:-1 tvg-id="GOL.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MGOLF.png",ES - GOL HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505614.ts
+#EXTINF:-1 tvg-id="RealMadridTV.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/REALMADRID.png",ES - R. MADRID TV HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505616.ts
+#EXTINF:-1 tvg-id="MovistarGolf.es" group-title="|ES| DEPORTES",ES - M. GOLF HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505617.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MGOLF.png",ES - M. GOLF 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1094492.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MELLAS.png",ES - M. ELLAS #V
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/988512.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGA HYPERMOTION TV 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/765169.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGA HYPERMOTION TV HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/765168.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGA HYPERMOTION TV 2 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/765167.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGA HYPERMOTION FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/765166.ts
+
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 1 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/718914.ts
+#EXTINF:-1 tvg-id="M.LaLiga1.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505621.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 2 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/718915.ts
+#EXTINF:-1 tvg-id="M.LaLiga2.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505623.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 3 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/718916.ts
+#EXTINF:-1 tvg-id="M.LaLiga3.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505624.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 4 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/718918.ts
+#EXTINF:-1 tvg-id="es.LaLiga 123 TV" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 4 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505643.ts
+#EXTINF:-1 tvg-id="M.LaLiga5.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - M. LALIGA 5 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505625.ts
+#EXTINF:-1 tvg-id="MovistarDeportes.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505635.ts
+#EXTINF:-1 tvg-id="MDeportes1.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505636.ts
+#EXTINF:-1 tvg-id="MDeportes2.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505637.ts
+#EXTINF:-1 tvg-id="MDeportes3.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505638.ts
+#EXTINF:-1 tvg-id="MDeportes4.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES 4 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505639.ts
+#EXTINF:-1 tvg-id="MDeportes5.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES 5 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505640.ts
+#EXTINF:-1 tvg-id="MDeportes6.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES 6 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505641.ts
+#EXTINF:-1 tvg-id="MDeportes7.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DEPORTES.png",ES - M. DEPORTES 7 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505642.ts
+#EXTINF:-1 tvg-id="Vamos.es" group-title="|ES| DEPORTES",ES - #VAMOS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505632.ts
+#EXTINF:-1 tvg-id="ES| EUROSPORT 1 HD" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/EUROSPORT1.png",ES - EUROSPORT 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505633.ts
+#EXTINF:-1 tvg-id="es.Eurosport 2" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/EUROSPORT2.png",ES - EUROSPORT 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505634.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/EUROSPORT3.png",ES - EUROSPORT 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1136606.ts
+
+#EXTINF:-1 tvg-id="LaLigaTVBar1.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGATVBAR1 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505644.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar2.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGATVBAR2 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505645.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar3.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGATVBAR3 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505646.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar4.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGATVBAR4 [LIVEEVENT]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505647.ts
+#EXTINF:-1 tvg-id="es.MultiDeporte" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MULTIDEPORTE.png",ES - MULTIDEPORTE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505648.ts
+#EXTINF:-1 tvg-id="Teledeporte.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEDEPORTE.png",ES - TELEDEPORTE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505660.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONETORO.png",ES - ONETORO  HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505661.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONETORO.png",ES - ONETORO HD (BK)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/879882.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TOROLE.png",ES - TOROLE TV HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/876580.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ELTORO.png",ES - EL TORO TV HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/721112.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BETIS.png",ES - BETIS FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807748.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SEVILLA.png",ES - SEVILLA FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807747.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 1
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788397.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788398.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 3
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788399.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 4
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788400.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 5
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788401.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 6
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788402.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 7
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788403.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 8
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788404.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 9
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788405.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 10
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788406.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png",ES - TUDN XTRA 11
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/788407.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",##### ESP DAZN #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505662.ts
+#EXTINF:-1 tvg-id="DAZN1.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505665.ts
+#EXTINF:-1 tvg-id="DAZN2.es" group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505666.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505667.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 4 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505668.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 5 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505669.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN 6 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505670.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN FORMULA1 4K
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/754448.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN FORMULA1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/554553.ts
+
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN EVENTO 01 | COPA DEL REY: VALENCIA BASKET X REAL MADRID 17:50 H
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327705.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN EVENTO 02 | COPA DEL REY: FC BARCELONA X BASKONIA 20:50 H
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327704.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN EVENTO 03 | LEB ORO: HLA ALICANTE X HESTIA MENORCA 18:50 H
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327703.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN EVENTO 04 | LEB ORO: ODILO CARTAGENA X PALMER BASKET MALLORCA 18:50 H
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327702.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN  EVENTO 05 | LEB ORO: CAJA RURAL ZAMORA X GUUK GIPUZKOA 19:20 H
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327701.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN EVENTO 06 | OFFLINE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327700.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN EVENTO 07 | OFFLINE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327699.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN  EVENTO 08 | OFFLINE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327698.ts
+#EXTINF:-1 group-title="|ES| DAZN ACB" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DAZN EVENTO 09 | OFFLINE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1327697.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",##### RFEF LEAGUE #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799581.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 1 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799580.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 2 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799579.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 3 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799578.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 4 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799577.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 5 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799576.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 6 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799575.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 7 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799574.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 8 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799573.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 9 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799572.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 10 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799571.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 11 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799570.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 12 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799569.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 13 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799568.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 14 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799567.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 15 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799566.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 16 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799565.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 17 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799564.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 18 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799563.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 19 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799562.ts
+#EXTINF:-1 group-title="|ES| DEPORTES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png",ES - INSTAT 20 [SOLO-EVENTOS]
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/799561.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",####### FEFTV PPV #######
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144971.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 1 - 1° FEDERACION ᴴᴰ
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144970.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 2 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144969.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 3 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144968.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 4 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144967.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 5 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144966.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 6 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144965.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 7 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144964.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 8 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144963.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 9 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144962.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 10 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144961.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 11 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144960.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 12 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144959.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 13 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144958.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 14 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144957.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 15 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144956.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 16 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144955.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 17 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144954.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 18 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144953.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 19 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144952.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 20 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144951.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 21 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144950.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 22 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144949.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 23 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144948.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 24 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144947.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 25 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144946.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 26 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144945.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 27 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144944.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 28 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144943.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 29 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144942.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 30 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144941.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 31 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144940.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 32 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144939.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 33 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144938.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 34 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144937.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 35 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144936.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 36 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144935.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 37 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144934.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 38 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144933.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 39 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144932.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 40 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144931.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 41 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144930.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 42 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144929.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 43 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144928.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 44 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144927.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 45 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144926.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 46 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144925.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 47 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144924.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 48 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144923.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 49 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144922.ts
+#EXTINF:-1 group-title="|ES| FEF TV EVENTOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png",NO: FEFTV PPV 50 - NO EVENT STREAMING -
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1144921.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",##### ESP CINE #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505588.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - BOM CINE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/678748.ts
+#EXTINF:-1 tvg-id="Dreamworks.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - DREAMWORKS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/644826.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. RESISTENCIA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/644825.ts
+#EXTINF:-1 tvg-id="M.Clasicos.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. CLASICOS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/644824.ts
+#EXTINF:-1 tvg-id="Hashtag0.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. ORIGINALES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505589.ts
+#EXTINF:-1 tvg-id="AMC.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - AMC HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505590.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M.DCINE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/813040.ts
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. CINE ESPANOL HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505591.ts
+#EXTINF:-1 tvg-id="MovistarAccion.es" group-title="|ES| CINEMA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9391.png?18439",ES - M. ACCION HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505592.ts
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. CINE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505593.ts
+#EXTINF:-1 tvg-id="MovistarDrama.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. DRAMA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505594.ts
+#EXTINF:-1 tvg-id="MovistarComedia.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M.COMEDIA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505595.ts
+#EXTINF:-1 tvg-id="MovistarSeries.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. SERIES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505596.ts
+#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M.SERIESMANIA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505597.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - M. CRACKS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/951389.ts
+#EXTINF:-1 tvg-id="AXNhd.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - AXN HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505599.ts
+#EXTINF:-1 tvg-id="AXNWhite.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - AXN WHITE HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505600.ts
+#EXTINF:-1 tvg-id="Fox.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - FOX HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505601.ts
+#EXTINF:-1 tvg-id="ES| COSMO HD" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - COSMO HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505603.ts
+#EXTINF:-1 tvg-id="TNT.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - WARNERBROS HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505604.ts
+#EXTINF:-1 tvg-id="Scifi.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - SYFY HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505605.ts
+#EXTINF:-1 tvg-id="Calle13.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - CALLE 13 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505606.ts
+#EXTINF:-1 tvg-id="Sundance.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - SUNDANCE TV HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505607.ts
+#EXTINF:-1 tvg-id="Hollywood.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - HOLLYWOOD HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505608.ts
+#EXTINF:-1 tvg-id="Paramount.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - PARAMOUNT HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505609.ts
+#EXTINF:-1 tvg-id="ComedyCentral.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - COMEDY CENTRAL HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505610.ts
+#EXTINF:-1 tvg-id="TCM.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - TCM HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505611.ts
+#EXTINF:-1 tvg-id="XTRM.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - XTRM HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505612.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",##### ALQUILER PPV #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505703.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - ALQUILER 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807492.ts
+#EXTINF:-1 tvg-id="Alquiler.es" group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - ALQUILER 1 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505704.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - ALQUILER 2 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807497.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - TAQUILLA 3 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807502.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - TAQUILLA 4 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807503.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - TAQUILLA 8 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807507.ts
+#EXTINF:-1 group-title="|ES| CINEMA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - TAQUILLA 9 HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807500.ts
+#EXTINF:-1 group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",##### ESP NINIOS #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505694.ts
+#EXTINF:-1 tvg-id="Disney+.es" group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MDISNEYPLUS.png",ES - M. DISNEY+
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505696.ts
+#EXTINF:-1 tvg-id="Nickelodeon.es" group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NICKELODEON.png",ES - NICKELODEON
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505695.ts
+#EXTINF:-1 tvg-id="NickJunior.es" group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NICKJR.png",ES - NICK JR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505697.ts
+#EXTINF:-1 tvg-id="BabyTV.es" group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BABY.png",ES - BABY TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505698.ts
+#EXTINF:-1 tvg-id="DisneyJr.es" group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DISNEYJR.png",ES - DISNEY JR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505699.ts
+#EXTINF:-1 tvg-id="Boing.es" group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BOING.png",ES - BOING
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505701.ts
+#EXTINF:-1 tvg-id="Panda.es" group-title="|ES| NIÑOS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALPANDA.png",ES - CANAL PANDA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505702.ts
+#EXTINF:-1 group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",##### ESP CULTURALES #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505673.ts
+#EXTINF:-1 tvg-id="NatGeoHD.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NATGEO.png",ES - NAT GEO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505674.ts
+#EXTINF:-1 tvg-id="NatGeoWild.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NATGEOWILD.png",ES - NAT GEO WILD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505675.ts
+#EXTINF:-1 tvg-id="CazayPesca.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CAZAYPESCA.png",ES - CAZAYPESCA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505677.ts
+#EXTINF:-1 tvg-id="IberaliaTV.es" group-title="|ES| DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",ES - IBERALIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505678.ts
+#EXTINF:-1 tvg-id="IberaliaTV.es" group-title="|ES| DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",ES - IBERALIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505679.ts
+#EXTINF:-1 tvg-id="SolMusica.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SOL.png",ES - SOL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505680.ts
+#EXTINF:-1 tvg-id="Odisea.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ODISEA.png",ES - ODISEA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505681.ts
+#EXTINF:-1 tvg-id="Historia.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/HISTORIA.png",ES - HISTORIA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505682.ts
+#EXTINF:-1 tvg-id="DiscoveryIberia.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DISCOVERY.png",ES - DISCOVERY
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505683.ts
+#EXTINF:-1 tvg-id="Blaze.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BLAZE.png",ES - BLAZE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505684.ts
+#EXTINF:-1 tvg-id="Decasa.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALDECASA.png",ES - CANAL DECASA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505686.ts
+#EXTINF:-1 group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MDOCUMENTALES.png",ES -  M. DOCUMENTALES HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/951388.ts
+#EXTINF:-1 tvg-id="Cocina.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALCOCINA.png",ES - CANAL COCINA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505685.ts
+#EXTINF:-1 tvg-id="Odisea.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ODISEA.png",ES - CANAL ODISEA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505687.ts
+#EXTINF:-1 tvg-id="Classica.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CLASSICA.png",ES - CLASSICA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505688.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/AMCCRIME.png",ES - AMC CRIME
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505689.ts
+#EXTINF:-1 tvg-id="BeMadTV.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BEMAD.png",ES - BE MAD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505690.ts
+#EXTINF:-1 group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CAZAVISION.png",ES - CAZAVISION HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612369.ts
+#EXTINF:-1 tvg-id="Divinity.es" group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DIVINITY.png",ES - DIVINITY
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505691.ts
+#EXTINF:-1 group-title="|ES| DOCUMENTALES" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DMAX.png",ES - DMAX
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/807801.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png",##### ESP LOCALES #####
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505711.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANAL25BARBASTRO.png",ES - CANAL 25 BARBASTRO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505712.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEVISIONDEGALICIAAMERICA.png",ES - TELEVISIÓN DE GALICIA AMÉRICA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505715.ts
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEVISIONDEGALICIAEUROPA.png",ES - TELEVISIÓN DE GALICIA EUROPA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505717.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SOPHIA.png",ES - SOPHIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505722.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/POPULARTVMELILLA.png",ES - POPULAR TV MELILLA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505724.ts
+#EXTINF:-1 tvg-id="tvG2.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TVG2.png",ES - TVG 2
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505729.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/HUESCA.png",ES - HUESCA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505731.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LANCELOT.png",ES - LANCELOT TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505733.ts
+#EXTINF:-1 tvg-id="CMM.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CASTILLA-LA-MANCHA.png",ES - CASTILLA-LA-MANCHA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505739.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MIRAME.png",ES - MIRAME TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505740.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEVISIODEGIRONA.png",ES - TELEVISIÓ DE GIRONA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505741.ts
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TVGALICIA.png",ES - TV GALICIA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505743.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELESUR.png",ES - TELESUR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505744.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/EITBPVASCO.png",ES - EITB P.VASCO (PV)
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505749.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONDATVCANAL10.png",ES - ONDA TV CANAL 10
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505752.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ALCARRIA.png",ES - ALCARRIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505753.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/GIRONA.png",ES - TV GIRONA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505754.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/101TELEANTEQUERA.png",ES - 101 TELE ANTEQUERA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505756.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BAILEN.png",ES - BAILÉN TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505763.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/COSTADELSOL.png",ES - COSTADELSOL TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505765.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DIEZ.png",ES - DIEZ TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505767.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALDONANA.png",ES - CANAL DOÑANA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505769.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUYALAJANDA.png",ES - TUYA LA JANDA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505770.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALSIERRADECADIZ.png",ES - CANAL SIERRA DE CADIZ
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505772.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/M95MARBELLA.png",ES - M95 MARBELLA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505774.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/101TVMALAGA.png",ES - 101TV MÁLAGA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505775.ts
+#EXTINF:-1 tvg-id="Trece.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TRECE.png",ES - TRECE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505777.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/LEVANTE.png",ES - LEVANTE TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505780.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LOGOS.png",ES - LOGOS TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505783.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SOLIDARIA.png",ES - SOLIDARIA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505784.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DISTRITO.png",ES - DISTRITO TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505785.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/IBIZAGLOBAL.png",ES - IBIZA GLOBAL TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505787.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOLA.png",ES - MOLA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505789.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BONDIACATALUNA.png",ES - BON DIA CATALUÑA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505791.ts
+#EXTINF:-1 tvg-id="TV3.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TV3.png",ES - TV3
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505792.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEARANDA.png",ES - TELEARANDA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505793.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONDACADIZ.png",ES - ONDA CADIZ
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/748089.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ALTERNATIVA.png",ES - ALTERNATIVA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505799.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TVMUNICIPALCORDOBA.png",ES - TV MUNICIPAL CORDOBA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505800.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INTERCOMARCAL.png",ES - INTERCOMARCAL TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/845035.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALSANROQUE.png",ES - CANAL SAN ROQUE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505798.ts
+#EXTINF:-1 group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/APUNT.png",ES - A PUNT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/679906.ts
+#EXTINF:-1 tvg-id="CanalExtremadura.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/EXTREMADURA.png",ES - EXTREMADURA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/780299.ts
+#EXTINF:-1 tvg-id="CanalAndalucia.es" group-title="|ES| LOCALS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALSURANDALUCIA.png",ES - CANAL SUR ANDALUCÍA TV
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/780298.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612387.png",ES - CADENA DIAL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612387.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612389.png",ES - CATALUNYA INFORMACIÓ
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612389.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612391.png",ES - DIGITAL HITS FM
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612391.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612392.png",ES - EL 9 FM
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612392.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612395.png",ES - KISS FM
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612395.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612398.png",ES - PRÒXIMA FM
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612398.ts
+#EXTINF:-1 group-title="|ES| ESPAÑA HEVC" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612430.png",ES - XTRAFM COSTA BRAVA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612430.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - TITOIETA RÀDIO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769379.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - TARRAGONA RÀDIO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769380.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RIPOLLET RÀDIO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769381.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO VOLTREGÀ
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769382.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO VILAMAJOR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769383.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO VIC 90.3
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769384.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO VALLS
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769385.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO TOT BISBAL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769386.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO TÀRREGA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769397.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO SABADELL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769403.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO RIPOLL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769404.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO RÀPITA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769405.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO PUIG-REIG
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769406.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO PALAMÓS
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769407.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO PALAFRUGELL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769408.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO ONA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769409.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RADIO OLOT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769410.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO MANRESA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769411.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO IGUALADA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769412.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO ESTEL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769413.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO CASSÀ
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769426.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RADIO BISBAL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769427.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO BEGUR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769428.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO BALAGUER
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769429.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO BADALONA
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769430.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO ARRELS / FLASH
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769431.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO ARENYS DE MUNT
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769432.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO ARENYS DE MAR
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769433.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - RÀDIO 90
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769434.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - LA PLANA RÀDIO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769435.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - IB3 RÀDIO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769436.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - CUGAT RÀDIO EN DIRECTE
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769437.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - AMPOSTA RÀDIO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769438.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - ALCUDIA RÀDIO
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769439.ts
+#EXTINF:-1 group-title="|ES| GENERAL",ES - JAMMFM RADIO COSTA DEL SOL
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/769440.ts
