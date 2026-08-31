@@ -1,10 +1,10 @@
 {
-  "name": "Pedro TV (Actualizado 30/08/2026)",
+  "name": "Pedro TV (Actualizado 31/08/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-08-30T00:00:00Z",
+  "updated": "2026-08-31T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 21-08-2026",
   "groups": [
 
@@ -21,7 +21,12 @@
       "url": "https://raw.githubusercontent.com/tiriti1/tiri/refs/heads/main/GROUP%20CHUKYHOOD%2B18%F0%9F%94%9E.w3u",
       "info": "BY PEDRO"
     },
-
+ {
+      "name": "INTERCOMARCAL TV",
+      "image": "https://pbs.twimg.com/profile_images/915878112105201664/XeuTC0XU_400x400.jpg",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/interco.m3u",
+      "info": "BY PEDRO"
+    },
     {
       "name": "CARRASCO",
       "image": "https://bimar.byethost31.com/usuario1.png",
