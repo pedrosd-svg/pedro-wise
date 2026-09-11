@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="LA LIGA" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10144.png?29377",AV: LALIGATV ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1980538.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" group-title="LA LIGA" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?56232",TV: DAZN LALIGA ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1954596.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?64906",TV: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1954603.ts
+#EXTINF:-1 tvg-id="mlaliga1.es" group-title="LA LIGA" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?45398",TV: M+ LALIGA TV ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1954594.ts
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" group-title="LA LIGA" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14598.png?25781",TV: LALIGA TV HYPERMOTION ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1954590.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778",GO: M+ LALIGA ᴴᴰᴿ ³⁸⁴⁰ᴾ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1677874.ts
+#EXTINF:-1 tvg-id="mlaligauhd.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?60016",GO: M+ LALIGA TV ᴴᴰᴿ ³⁸⁴⁰ᴾ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1677879.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778",GO: M+ LALIGA TV ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1677873.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281",VO: DAZN LALIGA ᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1680848.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?60016",VO: MOVISTAR LALIGA ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1680829.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?60016",VO: MOVISTAR LALIGA ᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1680828.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?78386",M+: DAZN LA LIGA ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1683618.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?29431",M+: M.LALIGA ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1683611.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966",ES: MOVISTAR LALIGA ᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/2126805.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966",ES: MOVISTAR LALIGA SD
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/2126802.ts
+#EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966",ES: MOVISTAR LALIGA ʰᵉᵛᶜ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/2126798.ts
+#EXTINF:-1 tvg-id="mlaliga1.es" group-title="LA LIGA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966",ES: MOVISTAR LALIGA ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/2126797.ts
+#EXTINF:-1 tvg-id="mligadecampeones.es" group-title="LIGA DE CAMPEONES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",VO: M.LIGA CAMPEONES ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1680814.ts
+#EXTINF:-1 tvg-id="mligadecampeones.es" group-title="LIGA DE CAMPEONES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png",VO: M.LIGA CAMPEONES ᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1680813.ts
