@@ -7,7 +7,14 @@
   "updated": "2026-09-14T20:20:00Z",
   "info": "BY PEDRO • Última actualización: 14-09-2026",
   "groups": [
-      {
+      
+  {
+      "name": "INTERCOMARCAL TV",
+      "image": "https://pbs.twimg.com/profile_images/915878112105201664/XeuTC0XU_400x400.jpg",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/interco.m3u",
+      "info": "BY PEDRO"
+    },
+{
       "name": "TV LINEA 1",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista1_ordenada.m3u",
