@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="movistarplus.es" group-title="TENIS" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10644.png?65997",TV: MOVISTAR PLUS+ ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1954636.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10559.jpg?828",TV: MOVISTAR PLUS+ 2 ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1954635.ts
+#EXTINF:-1 tvg-id="movistarplus.es" group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10644.png?96610",GO: MOVISTAR PLUS+ ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1677963.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10559.jpg?72638",GO: MOVISTAR PLUS+ 2 ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1677962.ts
+#EXTINF:-1 tvg-id="movistarplus.es" group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10644.png?95674",M+: M.PLUS ᴿᴬᵂ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1683675.ts
+#EXTINF:-1 tvg-id="movistarplus.es" group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10644.png?95674",M+: M.PLUS ᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1683674.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10644.png?58793",ES: MOVISTAR PLUS+ ᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/840100.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10559.jpg?87054",ES: MOVISTAR PLUS+ 2 ᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/840099.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10644.png?95674",ES: MOVISTAR PLUS+ SD
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/840094.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10559.jpg?84460",ES: MOVISTAR PLUS+ 2 SD
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/840093.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10644.png?5438",ES: MOVISTAR PLUS+ ᵁᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/840088.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10559.jpg?64521",ES: MOVISTAR PLUS+ 2 ᵁᴴᴰ
+http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/840087.ts
+
 #EXTINF:-1 tvg-id="mlaliga.es" group-title="LA LIGA" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?64906",TV: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://tire25145.wd.business-cdn-8k.com/live/e888c8e4d339/adb956fa43/1954603.ts
 #EXTINF:-1 tvg-id="mlaliga1.es" group-title="LA LIGA" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?45398",TV: M+ LALIGA TV ᴿᴬᵂ
