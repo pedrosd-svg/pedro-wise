@@ -2,9 +2,10 @@
 
 
 
-
-
-
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - MOVISTAR PLUS+ HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/951390.ts
+#EXTINF:-1 group-title="TENIS" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png",ES - MOVISTAR PLUS +2 FHD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/1207500.ts
 
 
 #EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",ES - DAZN LALIGA SD
@@ -24,7 +25,14 @@ http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/718917.ts
 #EXTINF:-1 tvg-id="laligatvbar.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGATV BAR HD
 http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/505619.ts
 
-
+#EXTINF:-1 tvg-id="M.LaLiga.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612206.png",ES - M. LALIGA HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612206.ts
+#EXTINF:-1 tvg-id="LaLigaTV.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612207.png",ES - M. LALIGA HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612207.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612208.png",ES - LALIGATV BAR HD
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612208.ts
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" group-title="LA LIGA" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612209.png",ES - LALIGA TV BAR HEVC
+http://line.gasofar.xyz/live/5c5421d83e/9520cbffff62/612209.ts
 
 
 
