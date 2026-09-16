@@ -1,14 +1,21 @@
 {
-  "name": "Pedro TV (Actualizado 16/09/2026)",
+  "name": "Pedro TV (Actualizado 17/09/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-09-16T00:00:00Z",
+  "updated": "2026-09-17T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 15-09-2026",
   "groups": [
 
-    {
+{
+      "name": "PELIS Y SERIES",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis_series.m3u",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    },
+{
       "name": "19-05-2028",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2028-05-19.m3u",
