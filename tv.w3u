@@ -1,10 +1,10 @@
 {
-  "name": "Pedro TV 2027 (Actualizado 31/08/2026)",
+  "name": "Pedro TV 2027 (Actualizado 16/09/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-08-31T00:00:00Z",
+  "updated": "2026-09-16T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
     
@@ -35,6 +35,30 @@
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista3_ordenada.m3u",
       "info": "m3u",
+      "type": "m3u"
+    },
+
+ {
+      "name": "Opcion lista4",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-03-24.m3u",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    },
+
+    {
+      "name": "Opcion lista5",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-01-29.m3u",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    },
+
+    {
+      "name": "Opcion lista6",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-11-11.m3u",
+      "info": "BY PEDRO",
       "type": "m3u"
     }
 
