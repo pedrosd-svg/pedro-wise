@@ -1,11 +1,11 @@
 {
-"name": "TV 2027 (Actualizado 30/08/2026)",
+"name": "TV 2027 (Actualizado 18/09/2026)",
 "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/juantv-carrasco.w3u",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "author": "by Pedro",
 "version": "1.0.0",
-"updated": "2026-08-30T00:00:00Z",
-"info": "BY PEDRO • Última actualización: 08-08-2026",
+"updated": "2026-09-18T00:00:00Z",
+"info": "BY PEDRO • Última actualización: 18-09-2026",
 "groups": [
 
 {
@@ -31,16 +31,11 @@
       "type": "m3u"
     },
 {
-"name": "PELICULAS",
-"image": "https://bimar.byethost31.com/ico_pelis.png",
-"url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
-"info": "BY PEDRO"
-},
-{
-"name": "XXX NET",
-"image": "https://bimar.byethost31.com/ico_xxx.png",
-"url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/x_mio.m3u",
-"info": "BY PEDRO"
-}
+      "name": "PELIS Y MAS",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis_series.m3u",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    }
 ]
 }
