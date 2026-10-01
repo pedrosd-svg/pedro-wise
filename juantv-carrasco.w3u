@@ -1,41 +1,29 @@
 {
-"name": "TV 2027 (Actualizado 18/09/2026)",
+"name": "TV 2027 (Actualizado 01/10/2026)",
 "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/juantv-carrasco.w3u",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "author": "by Pedro",
 "version": "1.0.0",
-"updated": "2026-09-18T00:00:00Z",
+"updated": "2026-10-01T00:00:00Z",
 "info": "BY PEDRO • Última actualización: 18-09-2026",
 "groups": [
 
-{
-      "name": "1 años",
-      "image": "https://bimar.byethost31.com/logo1.png",
-      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
+
     {
       "name": "Opcion lista1",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista1_ordenada.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_2_ordenado.m3u",
       "info": "m3u",
       "type": "m3u"
     },
 
 {
-      "name": "Opcion lista3",
+      "name": "Opcion lista2",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista3_ordenada.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_3_ordenado.m3u",
       "info": "m3u",
       "type": "m3u"
-    },
-{
-      "name": "PELIS Y MAS",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pelis_series.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
     }
+
 ]
 }
