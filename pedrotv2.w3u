@@ -1,34 +1,22 @@
 {
-  "name": "TV Tenis 2027 (14/09/2026)",
+  "name": "TV Tenis 2027 (01/10/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv2.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.3.1",
-  "updated": "2026-09-14T20:20:00Z",
-  "info": "BY PEDRO • Última actualización: 14-09-2026",
+  "updated": "2026-10-01T20:20:00Z",
+  "info": "BY PEDRO • Última actualización: 01-10-2026",
   "groups": [
       
-  {
-      "name": "INTERCOMARCAL TV",
-      "image": "https://pbs.twimg.com/profile_images/915878112105201664/XeuTC0XU_400x400.jpg",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/interco.m3u",
-      "info": "BY PEDRO"
-    },
+ 
 {
-      "name": "TV LINEA 1",
+      "name": "TV LINEA OCTUBRE 26",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista1_ordenada.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_1_ordenado.m3u",
       "info": "m3u",
       "type": "m3u"
     },
 
-{
-      "name": "TV LINEA 2",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/lista3_ordenada.m3u",
-      "info": "m3u",
-      "type": "m3u"
-    },
      {
       "name": "PELICULAS",
       "image": "https://cdn-icons-png.freepik.com/512/4221/4221419.png",
