@@ -1,0 +1,51 @@
+{
+  "name": "JUAN TV (Actualizado 05/10/2026)",
+  "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "author": "by Pedro",
+  "version": "1.0.0",
+  "updated": "2026-10-05T00:00:00Z",
+  "groups": [
+    
+    {
+      "name": "TV Opcion 1",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_1_ordenado.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+
+ {
+      "name": "TV Opcion 2",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_2_ordenado.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+ {
+      "name": "TV Opcion 3",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_3_ordenado.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+ {
+      "name": "TV Opcion 4",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_4_ordenado.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+	
+	{
+      "name": "1 años",
+      "image": "https://bimar.byethost31.com/logo1.png",
+      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus",
+      "info": "BY PEDRO",
+      "type": "m3u"
+    }
+
+
+
+  ]
+}
