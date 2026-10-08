@@ -31,10 +31,25 @@
       "type": "m3u"
     },
 
-    {
+ {
       "name": "1 Mes lista1",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_1_ordenado.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+
+ {
+      "name": "octu1",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octu1.m3u",
+      "info": "m3u",
+      "type": "m3u"
+    },
+    {
+      "name": "octu2",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octu2.m3u",
       "info": "m3u",
       "type": "m3u"
     },
