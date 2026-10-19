@@ -24,80 +24,38 @@
     },
 
 {
-      "name": "19-05-2028",
+      "name": "spain_1_europa",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2028-05-19.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/spain_1_europa.m3u",
       "info": "BY PEDRO",
       "type": "m3u"
     },
 
     {
-      "name": "26-11-2027",
+      "name": "spain_2_europa",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-11-26.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/spain_2_europa.m3u",
       "info": "BY PEDRO",
       "type": "m3u"
     },
 
     {
-      "name": "11-05-2027",
+      "name": "spain_3_europa",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-05-11.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/spain_3_europa.m3u",
       "info": "BY PEDRO",
       "type": "m3u"
     },
 
     {
-      "name": "24-03-2027",
+      "name": "spain_4_COMPLETO",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-03-24.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
-
-    {
-      "name": "29-01-2027",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-01-29.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
-
-    {
-      "name": "11-11-2026",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-11-11.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
-{
-      "name": "NUEVA-2026-10-10",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2026-10-10.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
-{
-      "name": "NUEVA-2027-03-18",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/2027-03-18.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
-{
-      "name": "NUEVA-ILIMITADA-11",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/ILIMITADA-11.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
-{
-      "name": "NUEVA-ili buena",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/ili buena.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/spain_4_COMPLETO.m3u",
       "info": "BY PEDRO",
       "type": "m3u"
     }
+
+  
 
   ]
 }
