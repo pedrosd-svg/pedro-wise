@@ -1,10 +1,10 @@
 {
-  "name": "JUAN TV (Actualizado 20/10/2026)",
+  "name": "JUAN TV (Actualizado 21/10/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-10-20T00:00:00Z",
+  "updated": "2026-10-21T00:00:00Z",
   "groups": [
     
     {
@@ -22,13 +22,7 @@
       "info": "m3u",
       "type": "m3u"
     },
- {
-      "name": "TV Opcion 3",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_3_ordenado.m3u",
-      "info": "m3u",
-      "type": "m3u"
-    },
+
 
 	
 	{
