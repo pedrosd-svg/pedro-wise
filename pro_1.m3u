@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MPlusLaligaTV.es" tvg-name="M+ LaLiga ES" tvg-logo="https://picon-13398.kxcdn.com/mpluslaligaes.jpg" group-title="Live: Spain",M+ LaLiga ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28334
+#EXTINF:-1 tvg-id="MPlusLigadeCampeones.es" tvg-name="M+ Liga de Campeones ES" tvg-logo="https://picon-13398.kxcdn.com/mplusligadecampeoneses.jpg" group-title="Live: Spain",M+ Liga de Campeones ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28654
+#EXTINF:-1 tvg-id="MPlusLigadeCampeones.es" tvg-name="M+ Liga de Campeones FHD ES" tvg-logo="https://picon-13398.kxcdn.com/mplusligadecampeoneses.jpg" group-title="Live: Spain",M+ Liga de Campeones FHD ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23282
+#EXTINF:-1 tvg-id="MPlusLigadeCampeones2.es" tvg-name="M+ Liga de Campeones 2 ES" tvg-logo="https://picon-13398.kxcdn.com/mplusligadecampeones2es.jpg" group-title="Live: Spain",M+ Liga de Campeones 2 ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28658
+#EXTINF:-1 tvg-id="MPlusLigadeCampeones2.es" tvg-name="M+ Liga de Campeones 2 FHD ES" tvg-logo="https://picon-13398.kxcdn.com/mplusligadecampeones2es.jpg" group-title="Live: Spain",M+ Liga de Campeones 2 FHD ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28657
+#EXTINF:-1 tvg-id="MPlusLigadeCampeones3.es" tvg-name="M+ Liga de Campeones 3 ES" tvg-logo="https://picon-13398.kxcdn.com/mplusligadecampeones3es.jpg" group-title="Live: Spain",M+ Liga de Campeones 3 ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28659
+#EXTINF:-1 tvg-id="MPlusLigadeCampeones4.es" tvg-name="M+ Liga de Campeones 4 ES" tvg-logo="https://picon-13398.kxcdn.com/mplusligadecampeones4es.jpg" group-title="Live: Spain",M+ Liga de Campeones 4 ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28660
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="Dazn LaLiga ES" tvg-logo="https://picon-13398.kxcdn.com/daznlaligaes.jpg" group-title="Live: Spain",Dazn LaLiga ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/5457
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LaLiga HD ES" tvg-logo="https://picon-13398.kxcdn.com/daznlaligaes.jpg" group-title="Live: Spain",DAZN LaLiga HD ES
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/118842
