@@ -1,23 +1,28 @@
 {
-  "name": "Pedro TV Juan (Actualizado 11/03/2026)",
+  "name": "TV Juan (Actualizado 24/10/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotvjuan.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2025-10-02T00:00:00Z",
+  "updated": "2026-10-24T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 02-11-2025",
   "groups": [
     {
-      "name": "PELICULAS",
-      "image": "https://bimar.byethost31.com/pelis.png",
-      "url": "https://ghostbin.axel.org/paste/o3mbx/raw",
+      "name": "TV",
+      "image": "https://bimar.byethost31.com/ico_tv.png",
+      "url": "https://raspberry.pedrotv.es/listas/octubre26_3_ordenado.m3u",
       "info": "BY PEDRO"
     },
- 
+{
+      "name": "PELICULAS INTERNET",
+      "image": "https://bimar.byethost31.com/ico_pelis.png",
+      "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
+      "info": "BY PEDRO"
+    },
     {
-      "name": "TV",
-      "image": "https://bimar.byethost31.com/usuario1.png",
-      "url": "http://596.cloudioptv.com/get.php?username=TV-61889264&password=778567391647&type=m3u_plus&output=mpegts",
+      "name": "XXX",
+      "image": "https://bimar.byethost31.com/ico_xxx.png",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/juan_xxx.m3u",
       "info": "BY PEDRO"
     }
    
