@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA SD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/760762.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/760761.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/760760.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" group-title="CLASICO" tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png",ES - LALIGATV BAR HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505619.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA SD
+http://line.dndnscloud.ru/live/4fae13a109/46c21159acc4/760762.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA FHD
+http://line.dndnscloud.ru/live/4fae13a109/46c21159acc4/760761.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA HD
+http://line.dndnscloud.ru/live/4fae13a109/46c21159acc4/760760.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto2.jpg",ES - LALIGATV BAR HD
+http://line.dndnscloud.ru/live/4fae13a109/46c21159acc4/505619.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA SD
+http://line.dndnscloud.ru/live/dc43bc230c/560dafdae20c/760762.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA FHD
+http://line.dndnscloud.ru/live/dc43bc230c/560dafdae20c/760761.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg",ES - DAZN LALIGA HD
+http://line.dndnscloud.ru/live/dc43bc230c/560dafdae20c/760760.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" group-title="CLASICO" tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto2.jpg",ES - LALIGATV BAR HD
+http://line.dndnscloud.ru/live/dc43bc230c/560dafdae20c/505619.ts
