@@ -1,30 +1,23 @@
 {
-  "name": "Pedro TV (Actualizado 24/10/2026)",
+  "name": "Pedro TV (Actualizado 05/11/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv33.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-10-24T00:00:00Z",
+  "updated": "2026-11-05T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
-    
-{
-      "name": "PELICULAS",
-      "image": "https://bimar.byethost31.com/ico_pelis33.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/peliculas_completas.m3u",
-      "info": "BY PEDRO",
-      "type": "m3u"
-    },
 
- {
-      "name": "Octu 1",
+ 
+{
+      "name": "Diciembre 1",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/octubre26_4_ordenado.m3u",
+      "url": "https://raspberry.pedrotv.es/listas/novi_05_12_26_COMPLETO_EDITADO.m3u",
       "info": "m3u",
       "type": "m3u"
     },
 
- {
+{
       "name": "Novie 1",
       "image": "https://bimar.byethost31.com/logo3.png",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/Novi_1_ordenado.m3u",
