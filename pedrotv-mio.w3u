@@ -1,10 +1,10 @@
 {
-  "name": "Pedro TV MIO (Actualizado2 24/10/2026)",
+  "name": "Pedro TV MIO (Actualizado2 05/11/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv-mio.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-10-24T00:00:00Z",
+  "updated": "2026-11-05T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
     {
@@ -13,12 +13,7 @@
       "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
       "info": "BY PEDRO"
     },
-{
-      "name": "CLASICO",
-      "image": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto2.jpg",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/CLASICO.m3u",
-      "info": "BY PEDRO"
-    },
+
     {
       "name": "TV",
       "image": "https://bimar.byethost31.com/ico_tv.png",
@@ -45,12 +40,6 @@
       "info": "BY PEDRO"
     },
     {
-      "name": "XXX NET",
-      "image": "https://bimar.byethost31.com/ico_xxx.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/x_mio.m3u",
-      "info": "BY PEDRO"
-    },
-     {
       "name": "INTERCOMARCAL TV",
       "image": "https://pbs.twimg.com/profile_images/915878112105201664/XeuTC0XU_400x400.jpg",
       "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/interco.m3u",
