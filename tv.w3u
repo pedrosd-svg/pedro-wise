@@ -1,10 +1,10 @@
 {
-  "name": "Pedro TV 2027 (Actualizado 22/11/2026)",
+  "name": "Pedro TV 2027 (Actualizado 24/11/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-11-22T00:00:00Z",
+  "updated": "2026-11-24T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
     
@@ -17,17 +17,17 @@
     },
 
      {
-      "name": "Opcion lista1",
+      "name": "TV CARRASCO",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/Novi_2_ordenado.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/Novi_1_ordenado.m3u",
       "info": "m3u",
       "type": "m3u"
     },
 
 {
-      "name": "Opcion lista2",
+      "name": "TV CARRASCO PADRE",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/Novi_2_ordenado.m3u",
+      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/Novi_3_ordenado.m3u",
       "info": "m3u",
       "type": "m3u"
     },
