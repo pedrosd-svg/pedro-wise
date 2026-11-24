@@ -1,10 +1,10 @@
 {
-  "name": "Carrasco TV (Actualizado 24/11/2026)",
+  "name": "Carrasco TV (Actualizado 25/11/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/pedrotv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-11-24T00:00:00Z",
+  "updated": "2026-11-25T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 21-08-2026",
   "groups": [
 
@@ -13,6 +13,14 @@
       "image": "https://i.imgur.com/rnGjRi9.jpeg",
       "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
       "info": "BY PEDRO"
+    },
+
+{
+      "name": "TV AUXILIAR",
+      "image": "https://bimar.byethost31.com/logo3.png",
+      "url": "https://raspberry.pedrotv.es/listas/novi_05_12_26_COMPLETO_EDITADO.m3u",
+      "info": "m3u",
+      "type": "m3u"
     },
 
  {
