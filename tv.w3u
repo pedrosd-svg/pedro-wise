@@ -1,10 +1,10 @@
 {
-  "name": "Pedro TV 2027 (Actualizado 25/11/2026)",
+  "name": "Pedro TV 2027 (Actualizado 26/11/2026)",
   "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/tv.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "author": "by Pedro",
   "version": "1.0.0",
-  "updated": "2026-11-25T00:00:00Z",
+  "updated": "2026-11-26T00:00:00Z",
   "info": "BY PEDRO • Última actualización: 29-08-2026",
   "groups": [
     
@@ -16,19 +16,11 @@
       "type": "m3u"
     },
 
-{
-      "name": "TV AUXILIAR",
-      "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raspberry.pedrotv.es/listas/novi_05_12_26_COMPLETO_EDITADO.m3u",
-      "info": "m3u",
-      "type": "m3u"
-    },
-
 
      {
       "name": "TV CARRASCO",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/Novi_1_ordenado.m3u",
+      "url": "https://raspberry.pedrotv.es/listas/DICIEMBRE_4.m3u",
       "info": "m3u",
       "type": "m3u"
     },
@@ -36,7 +28,7 @@
 {
       "name": "TV CARRASCO PADRE",
       "image": "https://bimar.byethost31.com/logo3.png",
-      "url": "https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/Novi_3_ordenado.m3u",
+      "url": "https://raspberry.pedrotv.es/listas/DICIEMBRE_3.m3u",
       "info": "m3u",
       "type": "m3u"
     },
